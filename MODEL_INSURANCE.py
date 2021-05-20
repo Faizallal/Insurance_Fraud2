@@ -20,7 +20,9 @@ dummies = pd.get_dummies(df[[
     'incident_city',
     'auto_make', 
     'auto_model',
-    'incident_period_of_day']])
+    'incident_period_of_day',
+    'insured_hobbies'
+]])
 #dummies = dummies.join(df[[    "fraud_reported"]])
 X = dummies
 #y = dummies.iloc[:, -1]

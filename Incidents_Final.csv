@@ -1,1001 +1,1001 @@
-insured_sex,insured_education_level,incident_date,incident_type,incident_severity,incident_city,incident_hour_of_the_day,auto_make,auto_model
-MALE,MD,25-01-2015,Single Vehicle Collision,Major Damage,Columbus,5,Saab,92x
-MALE,MD,21-01-2015,Vehicle Theft,Minor Damage,Riverwood,8,Mercedes,E400
-FEMALE,PhD,22-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,7,Dodge,RAM
-FEMALE,PhD,10-01-2015,Single Vehicle Collision,Major Damage,Arlington,5,Chevrolet,Tahoe
-MALE,Associate,17-02-2015,Vehicle Theft,Minor Damage,Arlington,20,Accura,RSX
-FEMALE,PhD,02-01-2015,Multi-vehicle Collision,Major Damage,Arlington,19,Saab,95
-MALE,PhD,13-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,0,Nissan,Pathfinder
-MALE,Associate,27-02-2015,Multi-vehicle Collision,Total Loss,Columbus,23,Audi,A5
-FEMALE,PhD,30-01-2015,Single Vehicle Collision,Total Loss,Arlington,21,Toyota,Camry
-MALE,PhD,05-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,14,Saab,92x
-FEMALE,Masters,06-01-2015,Single Vehicle Collision,Total Loss,Northbend,22,Ford,F150
-FEMALE,High School,15-02-2015,Multi-vehicle Collision,Major Damage,Springfield,21,Audi,A3
-MALE,MD,22-01-2015,Single Vehicle Collision,Total Loss,Northbend,9,Saab,95
-FEMALE,MD,08-01-2015,Parked Car,Minor Damage,Springfield,5,Toyota,Highlander
-FEMALE,College,15-01-2015,Single Vehicle Collision,Total Loss,Springfield,12,Dodge,Neon
-FEMALE,MD,29-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,12,Accura,MDX
-MALE,College,22-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,0,Nissan,Maxima
-MALE,High School,06-01-2015,Single Vehicle Collision,Total Loss,Northbend,9,Suburu,Legacy
-FEMALE,MD,19-01-2015,Single Vehicle Collision,Total Loss,Northbrook,19,Accura,TL
-FEMALE,High School,22-02-2015,Multi-vehicle Collision,Major Damage,Columbus,8,Nissan,Pathfinder
-MALE,JD,01-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,20,Suburu,Impreza
-FEMALE,Associate,10-02-2015,Multi-vehicle Collision,Total Loss,Arlington,15,Accura,RSX
-MALE,High School,11-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,20,Suburu,Forrestor
-MALE,MD,19-01-2015,Single Vehicle Collision,Total Loss,Northbend,15,Dodge,RAM
-MALE,College,24-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,6,Ford,Escape
-MALE,Masters,09-01-2015,Multi-vehicle Collision,Major Damage,Arlington,16,Ford,Escape
-MALE,High School,28-01-2015,Parked Car,Minor Damage,Arlington,4,Toyota,Camry
-MALE,JD,07-01-2015,Vehicle Theft,Minor Damage,Northbrook,5,Suburu,Forrestor
-FEMALE,JD,08-01-2015,Single Vehicle Collision,Minor Damage,Northbend,21,Dodge,Neon
-FEMALE,PhD,15-02-2015,Single Vehicle Collision,Minor Damage,Northbrook,5,Accura,TL
-MALE,Masters,18-01-2015,Multi-vehicle Collision,Major Damage,Columbus,22,Toyota,Corolla
-MALE,JD,28-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,10,Ford,F150
-FEMALE,Associate,24-02-2015,Multi-vehicle Collision,Total Loss,Arlington,16,BMW,3 Series
-MALE,High School,09-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,1,Suburu,Impreza
-MALE,PhD,12-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,17,Audi,A3
-MALE,High School,24-01-2015,Single Vehicle Collision,Major Damage,Springfield,15,Mercedes,C300
-FEMALE,Masters,09-01-2015,Single Vehicle Collision,Total Loss,Northbrook,3,Suburu,Forrestor
-FEMALE,JD,18-01-2015,Parked Car,Minor Damage,Arlington,16,Suburu,Legacy
-FEMALE,MD,21-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,4,Jeep,Wrangler
-MALE,JD,08-01-2015,Single Vehicle Collision,Major Damage,Columbus,4,Nissan,Pathfinder
-MALE,Associate,03-01-2015,Single Vehicle Collision,Minor Damage,Columbus,19,BMW,M5
-MALE,Associate,01-01-2015,Single Vehicle Collision,Major Damage,Northbrook,1,BMW,X5
-FEMALE,College,16-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,17,Dodge,RAM
-FEMALE,PhD,10-02-2015,Single Vehicle Collision,Total Loss,Arlington,23,Mercedes,E400
-MALE,JD,14-02-2015,Single Vehicle Collision,Minor Damage,Springfield,14,Toyota,Highlander
-FEMALE,MD,21-02-2015,Multi-vehicle Collision,Total Loss,Arlington,17,Accura,MDX
-FEMALE,Associate,18-02-2015,Multi-vehicle Collision,Total Loss,Northbend,11,Honda,Civic
-MALE,College,10-01-2015,Multi-vehicle Collision,Major Damage,Arlington,19,Audi,A3
-FEMALE,PhD,26-02-2015,Vehicle Theft,Trivial Damage,Arlington,5,Volkswagen,Passat
-FEMALE,Masters,01-01-2015,Single Vehicle Collision,Total Loss,Springfield,19,Mercedes,C300
-MALE,MD,03-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,19,Nissan,Pathfinder
-FEMALE,JD,17-01-2015,Vehicle Theft,Trivial Damage,Arlington,4,BMW,M5
-MALE,College,22-02-2015,Vehicle Theft,Minor Damage,Northbend,8,Toyota,Corolla
-FEMALE,JD,27-01-2015,Multi-vehicle Collision,Major Damage,Columbus,7,Suburu,Forrestor
-MALE,PhD,27-02-2015,Parked Car,Minor Damage,Northbend,5,Ford,F150
-MALE,PhD,06-01-2015,Single Vehicle Collision,Minor Damage,Arlington,3,Chevrolet,Silverado
-FEMALE,PhD,28-02-2015,Multi-vehicle Collision,Major Damage,Columbus,12,Honda,CRV
-FEMALE,Masters,22-02-2015,Parked Car,Minor Damage,Riverwood,19,Chevrolet,Silverado
-MALE,PhD,07-01-2015,Single Vehicle Collision,Total Loss,Riverwood,22,Saab,93
-FEMALE,MD,06-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,12,Ford,Escape
-MALE,PhD,10-01-2015,Multi-vehicle Collision,Major Damage,Springfield,15,Nissan,Maxima
-MALE,JD,11-02-2015,Multi-vehicle Collision,Total Loss,Springfield,23,Honda,Accord
-MALE,High School,12-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,12,BMW,M5
-MALE,JD,06-02-2015,Multi-vehicle Collision,Major Damage,Northbend,20,Suburu,Legacy
-MALE,PhD,20-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,16,Ford,Escape
-FEMALE,MD,22-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,6,Dodge,Neon
-FEMALE,High School,30-01-2015,Single Vehicle Collision,Minor Damage,Springfield,12,Audi,A5
-FEMALE,Associate,02-02-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,17,BMW,X6
-MALE,MD,10-01-2015,Single Vehicle Collision,Major Damage,Northbrook,8,Audi,A5
-MALE,MD,27-02-2015,Parked Car,Minor Damage,Riverwood,13,Ford,F150
-FEMALE,Associate,20-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,12,Audi,A3
-FEMALE,MD,08-02-2015,Single Vehicle Collision,Total Loss,Northbrook,7,Honda,Civic
-FEMALE,Associate,11-02-2015,Single Vehicle Collision,Minor Damage,Arlington,10,Chevrolet,Malibu
-FEMALE,College,23-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,7,Mercedes,C300
-FEMALE,Associate,01-03-2015,Multi-vehicle Collision,Minor Damage,Springfield,18,BMW,X6
-FEMALE,High School,15-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,22,Ford,Fusion
-FEMALE,College,14-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,18,Suburu,Legacy
-MALE,College,17-02-2015,Multi-vehicle Collision,Total Loss,Northbrook,22,Audi,A3
-FEMALE,JD,24-01-2015,Vehicle Theft,Minor Damage,Springfield,15,Saab,95
-FEMALE,PhD,21-01-2015,Single Vehicle Collision,Major Damage,Northbrook,16,BMW,M5
-MALE,High School,19-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,6,Accura,MDX
-FEMALE,Masters,03-01-2015,Vehicle Theft,Trivial Damage,Northbrook,10,Accura,TL
-MALE,Masters,29-01-2015,Vehicle Theft,Minor Damage,Northbrook,3,Nissan,Maxima
-MALE,High School,19-01-2015,Vehicle Theft,Trivial Damage,Hillsdale,13,Volkswagen,Jetta
-MALE,Masters,19-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,16,Audi,A3
-MALE,High School,02-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,13,Suburu,Legacy
-FEMALE,Associate,30-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,9,Ford,F150
-FEMALE,MD,08-01-2015,Single Vehicle Collision,Total Loss,Springfield,2,BMW,3 Series
-FEMALE,College,30-01-2015,Parked Car,Trivial Damage,Arlington,9,Dodge,Neon
-FEMALE,College,07-01-2015,Multi-vehicle Collision,Major Damage,Columbus,12,Accura,MDX
-FEMALE,High School,24-02-2015,Multi-vehicle Collision,Total Loss,Arlington,12,Saab,93
-FEMALE,Associate,02-02-2015,Single Vehicle Collision,Major Damage,Columbus,14,Honda,Accord
-MALE,PhD,28-02-2015,Parked Car,Trivial Damage,Springfield,9,BMW,X5
-FEMALE,MD,09-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,3,Ford,Fusion
-FEMALE,High School,19-01-2015,Multi-vehicle Collision,Total Loss,Northbend,21,Mercedes,ML350
-FEMALE,PhD,21-02-2015,Vehicle Theft,Minor Damage,Northbrook,5,Toyota,Highlander
-FEMALE,Associate,14-01-2015,Single Vehicle Collision,Major Damage,Springfield,11,Dodge,RAM
-MALE,Masters,22-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,4,Nissan,Pathfinder
-FEMALE,College,22-02-2015,Parked Car,Trivial Damage,Columbus,6,Saab,95
-MALE,College,26-01-2015,Vehicle Theft,Trivial Damage,Northbrook,10,Audi,A3
-FEMALE,College,24-01-2015,Single Vehicle Collision,Minor Damage,Northbend,23,Saab,92x
-FEMALE,College,19-02-2015,Single Vehicle Collision,Major Damage,Northbend,13,Saab,95
-FEMALE,JD,29-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,16,Ford,Fusion
-FEMALE,Associate,15-02-2015,Parked Car,Minor Damage,Northbend,3,Toyota,Highlander
-MALE,College,12-02-2015,Multi-vehicle Collision,Total Loss,Northbend,15,Chevrolet,Malibu
-MALE,College,01-01-2015,Vehicle Theft,Minor Damage,Columbus,4,Mercedes,E400
-FEMALE,Associate,13-01-2015,Multi-vehicle Collision,Major Damage,Northbend,6,Saab,95
-FEMALE,High School,01-03-2015,Multi-vehicle Collision,Major Damage,Columbus,22,Volkswagen,Passat
-FEMALE,PhD,02-02-2015,Single Vehicle Collision,Major Damage,Northbrook,1,Saab,93
-FEMALE,Masters,27-01-2015,Multi-vehicle Collision,Major Damage,Springfield,16,Nissan,Ultima
-FEMALE,College,12-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,18,Dodge,RAM
-MALE,PhD,06-01-2015,Single Vehicle Collision,Major Damage,Springfield,0,Ford,F150
-MALE,High School,30-01-2015,Multi-vehicle Collision,Total Loss,Columbus,12,BMW,X5
-MALE,MD,01-03-2015,Multi-vehicle Collision,Major Damage,Hillsdale,13,Saab,93
-MALE,Associate,24-02-2015,Vehicle Theft,Minor Damage,Northbrook,9,Ford,F150
-MALE,MD,24-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,14,Accura,MDX
-FEMALE,PhD,26-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,16,Suburu,Legacy
-MALE,High School,19-01-2015,Multi-vehicle Collision,Major Damage,Northbend,20,Toyota,Highlander
-FEMALE,PhD,17-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,4,Ford,Fusion
-FEMALE,Associate,20-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,7,BMW,3 Series
-MALE,High School,22-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,22,Volkswagen,Passat
-FEMALE,MD,23-01-2015,Single Vehicle Collision,Major Damage,Northbrook,11,Ford,Fusion
-FEMALE,Masters,31-01-2015,Single Vehicle Collision,Major Damage,Columbus,7,Nissan,Maxima
-FEMALE,College,05-01-2015,Multi-vehicle Collision,Total Loss,Arlington,0,Accura,MDX
-FEMALE,JD,03-02-2015,Single Vehicle Collision,Total Loss,Northbend,1,BMW,X5
-MALE,JD,17-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,12,Ford,Escape
-MALE,MD,09-01-2015,Single Vehicle Collision,Total Loss,Columbus,8,Suburu,Impreza
-FEMALE,High School,08-02-2015,Parked Car,Minor Damage,Northbrook,9,BMW,M5
-MALE,College,06-02-2015,Single Vehicle Collision,Major Damage,Northbend,22,BMW,X5
-FEMALE,Masters,14-01-2015,Multi-vehicle Collision,Major Damage,Northbend,0,Saab,92x
-MALE,JD,22-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,0,Ford,Escape
-MALE,Masters,23-02-2015,Multi-vehicle Collision,Major Damage,Columbus,3,Dodge,RAM
-FEMALE,Masters,22-02-2015,Multi-vehicle Collision,Major Damage,Arlington,21,Nissan,Pathfinder
-FEMALE,High School,24-01-2015,Single Vehicle Collision,Total Loss,Northbend,0,Jeep,Wrangler
-MALE,PhD,09-02-2015,Single Vehicle Collision,Minor Damage,Northbend,16,BMW,3 Series
-FEMALE,College,19-01-2015,Single Vehicle Collision,Major Damage,Springfield,14,Volkswagen,Passat
-FEMALE,High School,01-01-2015,Vehicle Theft,Minor Damage,Riverwood,9,Ford,Escape
-FEMALE,PhD,07-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,9,BMW,X5
-FEMALE,High School,01-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,21,Toyota,Camry
-FEMALE,MD,21-02-2015,Multi-vehicle Collision,Total Loss,Springfield,19,BMW,X5
-MALE,Masters,21-01-2015,Single Vehicle Collision,Total Loss,Northbend,2,Mercedes,E400
-MALE,Masters,19-01-2015,Vehicle Theft,Trivial Damage,Northbrook,9,Suburu,Forrestor
-MALE,PhD,27-02-2015,Parked Car,Minor Damage,Northbend,5,Chevrolet,Silverado
-MALE,MD,14-02-2015,Single Vehicle Collision,Major Damage,Springfield,14,Accura,MDX
-FEMALE,JD,01-02-2015,Multi-vehicle Collision,Total Loss,Springfield,20,Accura,MDX
-FEMALE,Associate,02-02-2015,Single Vehicle Collision,Major Damage,Northbrook,18,Accura,TL
-MALE,Masters,01-02-2015,Multi-vehicle Collision,Major Damage,Northbend,13,BMW,X6
-FEMALE,MD,19-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,21,Nissan,Pathfinder
-MALE,PhD,18-02-2015,Single Vehicle Collision,Major Damage,Springfield,14,Volkswagen,Jetta
-FEMALE,JD,08-02-2015,Single Vehicle Collision,Major Damage,Springfield,1,Suburu,Impreza
-FEMALE,PhD,09-01-2015,Single Vehicle Collision,Total Loss,Columbus,17,Audi,A3
-MALE,Masters,27-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,4,Mercedes,C300
-MALE,High School,08-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,23,Volkswagen,Jetta
-FEMALE,Masters,08-01-2015,Multi-vehicle Collision,Total Loss,Columbus,13,Suburu,Forrestor
-FEMALE,Masters,24-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,20,Saab,93
-MALE,Associate,12-02-2015,Single Vehicle Collision,Major Damage,Riverwood,16,Audi,A5
-MALE,JD,18-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,10,Jeep,Wrangler
-FEMALE,JD,06-02-2015,Parked Car,Minor Damage,Northbend,8,Saab,92x
-MALE,Masters,14-02-2015,Multi-vehicle Collision,Total Loss,Springfield,17,Suburu,Legacy
-FEMALE,JD,05-02-2015,Vehicle Theft,Minor Damage,Columbus,9,Honda,Accord
-FEMALE,Associate,25-01-2015,Parked Car,Minor Damage,Springfield,0,Mercedes,E400
-FEMALE,MD,16-01-2015,Single Vehicle Collision,Total Loss,Northbrook,12,Chevrolet,Silverado
-FEMALE,MD,28-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,20,Volkswagen,Passat
-FEMALE,Masters,21-01-2015,Single Vehicle Collision,Major Damage,Arlington,3,Dodge,Neon
-FEMALE,Masters,07-01-2015,Multi-vehicle Collision,Total Loss,Columbus,18,Mercedes,E400
-FEMALE,PhD,23-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,4,Suburu,Legacy
-FEMALE,Associate,14-02-2015,Single Vehicle Collision,Major Damage,Riverwood,18,Audi,A5
-MALE,High School,27-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,18,Saab,95
-FEMALE,Masters,21-02-2015,Parked Car,Trivial Damage,Hillsdale,7,Toyota,Highlander
-MALE,High School,05-01-2015,Parked Car,Minor Damage,Hillsdale,18,Jeep,Wrangler
-MALE,Associate,30-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,23,Jeep,Wrangler
-MALE,High School,26-02-2015,Single Vehicle Collision,Total Loss,Riverwood,1,Volkswagen,Jetta
-MALE,College,10-01-2015,Multi-vehicle Collision,Total Loss,Arlington,15,Dodge,Neon
-FEMALE,MD,23-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,2,Volkswagen,Jetta
-FEMALE,PhD,05-02-2015,Vehicle Theft,Trivial Damage,Riverwood,3,Ford,Fusion
-MALE,MD,21-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,13,Jeep,Wrangler
-MALE,Masters,07-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,1,Honda,Civic
-FEMALE,PhD,11-01-2015,Single Vehicle Collision,Minor Damage,Columbus,16,Volkswagen,Jetta
-FEMALE,Masters,06-02-2015,Single Vehicle Collision,Total Loss,Northbend,0,Chevrolet,Malibu
-MALE,MD,24-01-2015,Vehicle Theft,Trivial Damage,Hillsdale,1,Chevrolet,Silverado
-MALE,Associate,18-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,17,Audi,A3
-FEMALE,Masters,12-01-2015,Single Vehicle Collision,Minor Damage,Springfield,13,Dodge,Neon
-FEMALE,Masters,17-01-2015,Single Vehicle Collision,Total Loss,Springfield,12,Accura,RSX
-MALE,JD,12-01-2015,Single Vehicle Collision,Minor Damage,Northbend,11,Chevrolet,Malibu
-MALE,Masters,06-01-2015,Single Vehicle Collision,Major Damage,Northbend,18,Mercedes,C300
-MALE,JD,25-02-2015,Single Vehicle Collision,Total Loss,Northbend,17,Mercedes,C300
-FEMALE,JD,16-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,22,Audi,A3
-FEMALE,JD,25-02-2015,Vehicle Theft,Minor Damage,Northbrook,9,Chevrolet,Tahoe
-FEMALE,High School,21-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,11,Honda,Civic
-FEMALE,High School,16-02-2015,Single Vehicle Collision,Total Loss,Columbus,11,Honda,CRV
-MALE,Associate,09-02-2015,Parked Car,Minor Damage,Riverwood,8,Volkswagen,Passat
-MALE,JD,13-02-2015,Single Vehicle Collision,Minor Damage,Springfield,18,Nissan,Maxima
-FEMALE,MD,11-01-2015,Single Vehicle Collision,Total Loss,Arlington,13,Mercedes,C300
-MALE,High School,02-01-2015,Vehicle Theft,Minor Damage,Hillsdale,8,Nissan,Maxima
-MALE,MD,12-02-2015,Multi-vehicle Collision,Total Loss,Northbrook,9,Chevrolet,Tahoe
-MALE,High School,05-02-2015,Multi-vehicle Collision,Total Loss,Columbus,17,Saab,95
-MALE,MD,24-01-2015,Vehicle Theft,Trivial Damage,Springfield,3,Jeep,Grand Cherokee
-FEMALE,MD,12-01-2015,Parked Car,Trivial Damage,Arlington,6,Accura,MDX
-MALE,Masters,16-01-2015,Single Vehicle Collision,Major Damage,Riverwood,17,Honda,Civic
-FEMALE,College,13-01-2015,Vehicle Theft,Minor Damage,Arlington,7,BMW,3 Series
-MALE,PhD,02-02-2015,Vehicle Theft,Trivial Damage,Hillsdale,9,Suburu,Impreza
-MALE,PhD,28-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,3,Suburu,Legacy
-FEMALE,High School,18-01-2015,Parked Car,Trivial Damage,Springfield,6,Chevrolet,Malibu
-MALE,PhD,15-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,7,Chevrolet,Tahoe
-MALE,JD,31-01-2015,Multi-vehicle Collision,Total Loss,Northbend,21,Saab,93
-FEMALE,Masters,10-02-2015,Single Vehicle Collision,Minor Damage,Springfield,14,BMW,M5
-FEMALE,College,26-02-2015,Single Vehicle Collision,Total Loss,Columbus,0,Ford,F150
-MALE,Masters,25-02-2015,Multi-vehicle Collision,Major Damage,Springfield,14,Audi,A3
-MALE,JD,08-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,13,Mercedes,C300
-MALE,Associate,14-01-2015,Parked Car,Trivial Damage,Columbus,8,Suburu,Legacy
-FEMALE,High School,03-02-2015,Vehicle Theft,Minor Damage,Hillsdale,7,Toyota,Corolla
-MALE,High School,05-01-2015,Vehicle Theft,Trivial Damage,Columbus,9,Dodge,RAM
-MALE,High School,24-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,12,Volkswagen,Passat
-FEMALE,MD,26-01-2015,Multi-vehicle Collision,Major Damage,Springfield,6,Dodge,Neon
-FEMALE,JD,21-01-2015,Single Vehicle Collision,Total Loss,Columbus,11,Suburu,Legacy
-MALE,PhD,06-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,5,Audi,A3
-FEMALE,High School,07-01-2015,Single Vehicle Collision,Minor Damage,Columbus,14,Audi,A5
-MALE,Masters,10-02-2015,Vehicle Theft,Trivial Damage,Springfield,17,BMW,X5
-FEMALE,MD,23-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,0,Saab,92x
-MALE,College,09-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,21,BMW,X6
-MALE,College,22-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,18,Honda,Civic
-FEMALE,College,21-02-2015,Single Vehicle Collision,Minor Damage,Springfield,17,Jeep,Grand Cherokee
-FEMALE,High School,04-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,19,Chevrolet,Silverado
-MALE,Associate,07-01-2015,Multi-vehicle Collision,Total Loss,Columbus,17,Mercedes,E400
-FEMALE,Associate,17-01-2015,Multi-vehicle Collision,Major Damage,Arlington,23,Accura,MDX
-MALE,Masters,28-01-2015,Single Vehicle Collision,Total Loss,Springfield,4,Jeep,Wrangler
-FEMALE,High School,22-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,2,Accura,RSX
-FEMALE,Associate,16-02-2015,Single Vehicle Collision,Major Damage,Arlington,2,Toyota,Corolla
-FEMALE,MD,17-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,10,Saab,93
-FEMALE,MD,09-01-2015,Single Vehicle Collision,Minor Damage,Columbus,2,Accura,MDX
-FEMALE,High School,09-02-2015,Single Vehicle Collision,Total Loss,Columbus,18,Honda,CRV
-MALE,JD,16-02-2015,Single Vehicle Collision,Minor Damage,Arlington,18,Volkswagen,Passat
-FEMALE,Masters,18-02-2015,Multi-vehicle Collision,Total Loss,Springfield,7,Toyota,Highlander
-MALE,MD,11-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,19,Nissan,Pathfinder
-MALE,JD,04-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,10,Audi,A5
-MALE,Masters,22-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,16,Nissan,Ultima
-MALE,JD,10-01-2015,Single Vehicle Collision,Total Loss,Arlington,17,Dodge,RAM
-MALE,MD,10-01-2015,Multi-vehicle Collision,Total Loss,Columbus,2,Audi,A3
-FEMALE,Associate,16-02-2015,Single Vehicle Collision,Major Damage,Springfield,19,Saab,92x
-FEMALE,Masters,08-02-2015,Single Vehicle Collision,Minor Damage,Northbrook,0,Suburu,Legacy
-FEMALE,MD,26-01-2015,Single Vehicle Collision,Major Damage,Riverwood,16,Saab,92x
-FEMALE,College,01-02-2015,Single Vehicle Collision,Major Damage,Columbus,20,Chevrolet,Silverado
-FEMALE,JD,02-02-2015,Parked Car,Trivial Damage,Hillsdale,10,Nissan,Ultima
-FEMALE,College,06-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,21,Dodge,RAM
-MALE,Associate,01-01-2015,Vehicle Theft,Trivial Damage,Springfield,3,Mercedes,E400
-FEMALE,Associate,19-01-2015,Single Vehicle Collision,Major Damage,Arlington,7,Dodge,RAM
-FEMALE,JD,17-01-2015,Single Vehicle Collision,Minor Damage,Northbend,19,Saab,92x
-FEMALE,JD,01-02-2015,Multi-vehicle Collision,Total Loss,Columbus,15,Chevrolet,Tahoe
-MALE,Masters,02-01-2015,Parked Car,Minor Damage,Hillsdale,7,Mercedes,E400
-FEMALE,High School,20-02-2015,Single Vehicle Collision,Major Damage,Arlington,19,Chevrolet,Malibu
-FEMALE,Associate,05-02-2015,Multi-vehicle Collision,Total Loss,Springfield,13,Suburu,Forrestor
-MALE,MD,27-02-2015,Multi-vehicle Collision,Major Damage,Northbend,2,Ford,F150
-FEMALE,High School,27-01-2015,Vehicle Theft,Trivial Damage,Springfield,5,Saab,95
-MALE,PhD,26-01-2015,Single Vehicle Collision,Major Damage,Riverwood,21,Nissan,Maxima
-FEMALE,JD,13-01-2015,Multi-vehicle Collision,Major Damage,Northbrook,21,Chevrolet,Tahoe
-FEMALE,High School,14-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,7,Dodge,RAM
-MALE,Associate,22-02-2015,Multi-vehicle Collision,Total Loss,Arlington,16,Accura,TL
-MALE,Associate,17-01-2015,Single Vehicle Collision,Major Damage,Columbus,13,Mercedes,C300
-FEMALE,MD,02-02-2015,Vehicle Theft,Trivial Damage,Springfield,2,Toyota,Camry
-FEMALE,PhD,07-01-2015,Multi-vehicle Collision,Major Damage,Northbend,19,Suburu,Impreza
-FEMALE,Masters,02-02-2015,Parked Car,Trivial Damage,Riverwood,17,Dodge,Neon
-MALE,PhD,07-02-2015,Single Vehicle Collision,Major Damage,Arlington,3,Ford,Fusion
-MALE,College,18-01-2015,Multi-vehicle Collision,Major Damage,Arlington,17,Volkswagen,Passat
-MALE,Masters,10-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,5,Dodge,RAM
-FEMALE,MD,30-01-2015,Single Vehicle Collision,Minor Damage,Northbend,9,Volkswagen,Passat
-FEMALE,High School,25-01-2015,Vehicle Theft,Trivial Damage,Hillsdale,9,Audi,A5
-MALE,JD,29-01-2015,Multi-vehicle Collision,Major Damage,Columbus,9,Toyota,Camry
-FEMALE,JD,24-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,22,BMW,X5
-MALE,Associate,04-01-2015,Multi-vehicle Collision,Major Damage,Springfield,15,Nissan,Pathfinder
-FEMALE,Associate,25-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,14,Chevrolet,Tahoe
-MALE,College,27-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,6,Toyota,Highlander
-FEMALE,Associate,19-02-2015,Parked Car,Minor Damage,Hillsdale,6,Audi,A3
-MALE,MD,31-01-2015,Multi-vehicle Collision,Major Damage,Arlington,22,Jeep,Grand Cherokee
-FEMALE,JD,18-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,14,Nissan,Ultima
-FEMALE,Masters,10-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,16,Ford,Fusion
-FEMALE,Associate,28-01-2015,Multi-vehicle Collision,Major Damage,Riverwood,10,Jeep,Wrangler
-MALE,Associate,16-02-2015,Multi-vehicle Collision,Total Loss,Columbus,9,Saab,93
-MALE,PhD,08-02-2015,Single Vehicle Collision,Minor Damage,Northbrook,4,BMW,M5
-FEMALE,JD,20-01-2015,Multi-vehicle Collision,Major Damage,Northbend,6,Nissan,Pathfinder
-FEMALE,College,06-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,15,BMW,X6
-FEMALE,JD,24-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,12,Nissan,Ultima
-FEMALE,Associate,14-01-2015,Vehicle Theft,Trivial Damage,Arlington,3,Chevrolet,Malibu
-FEMALE,PhD,18-02-2015,Vehicle Theft,Minor Damage,Northbrook,14,Jeep,Grand Cherokee
-MALE,PhD,10-01-2015,Single Vehicle Collision,Major Damage,Riverwood,10,BMW,X5
-FEMALE,MD,13-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,17,Ford,Escape
-FEMALE,High School,17-02-2015,Single Vehicle Collision,Total Loss,Northbrook,8,Accura,MDX
-MALE,JD,07-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,14,Suburu,Forrestor
-FEMALE,Associate,29-01-2015,Vehicle Theft,Trivial Damage,Riverwood,6,Toyota,Camry
-FEMALE,JD,13-02-2015,Single Vehicle Collision,Major Damage,Northbrook,6,Ford,Escape
-FEMALE,College,01-02-2015,Parked Car,Minor Damage,Northbrook,8,BMW,3 Series
-MALE,Associate,29-01-2015,Single Vehicle Collision,Major Damage,Arlington,13,Chevrolet,Malibu
-MALE,College,06-02-2015,Multi-vehicle Collision,Total Loss,Springfield,0,BMW,X5
-FEMALE,High School,28-01-2015,Multi-vehicle Collision,Major Damage,Northbend,14,BMW,X6
-MALE,High School,21-01-2015,Single Vehicle Collision,Minor Damage,Columbus,13,Mercedes,ML350
-MALE,High School,16-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,16,Honda,Civic
-FEMALE,Associate,17-02-2015,Single Vehicle Collision,Total Loss,Northbrook,13,Mercedes,ML350
-MALE,College,01-02-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,15,Audi,A3
-FEMALE,College,25-02-2015,Parked Car,Trivial Damage,Northbend,3,Dodge,RAM
-FEMALE,MD,26-02-2015,Parked Car,Minor Damage,Northbend,7,Nissan,Pathfinder
-MALE,High School,06-02-2015,Multi-vehicle Collision,Major Damage,Northbend,16,Accura,TL
-FEMALE,Masters,03-02-2015,Vehicle Theft,Trivial Damage,Riverwood,15,Audi,A5
-MALE,Associate,27-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,21,Honda,CRV
-MALE,College,21-01-2015,Multi-vehicle Collision,Major Damage,Arlington,23,Jeep,Wrangler
-MALE,JD,24-01-2015,Parked Car,Trivial Damage,Columbus,5,Ford,F150
-MALE,High School,17-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,15,Accura,TL
-FEMALE,JD,23-02-2015,Single Vehicle Collision,Major Damage,Arlington,14,Honda,Accord
-FEMALE,PhD,09-01-2015,Single Vehicle Collision,Major Damage,Riverwood,1,Mercedes,ML350
-FEMALE,Associate,15-02-2015,Multi-vehicle Collision,Total Loss,Arlington,14,Nissan,Maxima
-MALE,Associate,16-01-2015,Multi-vehicle Collision,Total Loss,Northbrook,17,Suburu,Legacy
-MALE,Masters,14-01-2015,Multi-vehicle Collision,Total Loss,Northbend,20,BMW,3 Series
-FEMALE,PhD,01-01-2015,Multi-vehicle Collision,Major Damage,Springfield,10,Toyota,Camry
-MALE,MD,16-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,3,Honda,Accord
-FEMALE,Associate,04-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,0,Suburu,Legacy
-MALE,PhD,12-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,10,Toyota,Corolla
-FEMALE,Masters,08-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,13,BMW,X6
-FEMALE,MD,22-01-2015,Single Vehicle Collision,Minor Damage,Northbend,14,Nissan,Ultima
-MALE,High School,13-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,22,BMW,X5
-FEMALE,Associate,18-01-2015,Multi-vehicle Collision,Total Loss,Northbend,8,Accura,MDX
-FEMALE,High School,19-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,1,Toyota,Highlander
-MALE,Associate,31-01-2015,Single Vehicle Collision,Major Damage,Springfield,19,Suburu,Forrestor
-FEMALE,High School,06-02-2015,Single Vehicle Collision,Total Loss,Columbus,17,Toyota,Corolla
-MALE,JD,04-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,13,Dodge,RAM
-MALE,High School,02-01-2015,Single Vehicle Collision,Total Loss,Riverwood,4,BMW,3 Series
-FEMALE,Masters,26-02-2015,Multi-vehicle Collision,Total Loss,Northbend,14,Audi,A3
-MALE,College,08-02-2015,Multi-vehicle Collision,Major Damage,Springfield,4,Honda,CRV
-MALE,JD,07-02-2015,Multi-vehicle Collision,Total Loss,Northbend,23,Nissan,Pathfinder
-FEMALE,High School,17-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,21,Volkswagen,Jetta
-MALE,PhD,12-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,23,Chevrolet,Tahoe
-MALE,MD,01-02-2015,Multi-vehicle Collision,Major Damage,Columbus,6,Audi,A3
-MALE,PhD,03-02-2015,Single Vehicle Collision,Major Damage,Springfield,21,Honda,CRV
-MALE,Masters,21-02-2015,Single Vehicle Collision,Major Damage,Springfield,23,Toyota,Camry
-FEMALE,PhD,09-01-2015,Multi-vehicle Collision,Major Damage,Riverwood,3,Nissan,Maxima
-FEMALE,JD,16-02-2015,Parked Car,Trivial Damage,Northbend,8,Nissan,Ultima
-FEMALE,MD,04-02-2015,Parked Car,Trivial Damage,Arlington,4,Suburu,Legacy
-MALE,College,24-02-2015,Single Vehicle Collision,Total Loss,Arlington,22,Ford,Escape
-FEMALE,JD,01-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,16,BMW,3 Series
-MALE,College,05-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,14,Chevrolet,Silverado
-MALE,Associate,07-01-2015,Single Vehicle Collision,Total Loss,Springfield,13,Dodge,RAM
-FEMALE,Associate,06-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,20,Saab,92x
-MALE,MD,21-01-2015,Multi-vehicle Collision,Total Loss,Columbus,0,Suburu,Forrestor
-FEMALE,JD,01-03-2015,Multi-vehicle Collision,Total Loss,Arlington,23,Audi,A3
-FEMALE,Associate,24-02-2015,Single Vehicle Collision,Minor Damage,Columbus,13,BMW,3 Series
-MALE,College,02-02-2015,Single Vehicle Collision,Major Damage,Northbend,8,Suburu,Impreza
-MALE,Masters,31-01-2015,Vehicle Theft,Minor Damage,Northbend,3,Ford,Fusion
-FEMALE,Associate,09-01-2015,Single Vehicle Collision,Total Loss,Columbus,16,Jeep,Grand Cherokee
-MALE,PhD,23-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,19,Jeep,Wrangler
-MALE,Associate,28-01-2015,Single Vehicle Collision,Minor Damage,Springfield,0,Suburu,Forrestor
-FEMALE,PhD,14-01-2015,Single Vehicle Collision,Total Loss,Arlington,12,Mercedes,E400
-MALE,JD,03-02-2015,Multi-vehicle Collision,Total Loss,Arlington,21,Audi,A5
-FEMALE,MD,17-02-2015,Single Vehicle Collision,Major Damage,Riverwood,0,Accura,TL
-FEMALE,JD,30-01-2015,Single Vehicle Collision,Minor Damage,Columbus,22,Volkswagen,Jetta
-FEMALE,Associate,03-02-2015,Multi-vehicle Collision,Major Damage,Northbend,20,Audi,A3
-FEMALE,High School,03-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,0,Honda,CRV
-MALE,Masters,31-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,20,Suburu,Forrestor
-FEMALE,High School,06-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,1,Volkswagen,Passat
-FEMALE,MD,06-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,11,Nissan,Ultima
-FEMALE,MD,29-01-2015,Multi-vehicle Collision,Major Damage,Columbus,14,Ford,Fusion
-MALE,College,07-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,20,Suburu,Impreza
-MALE,College,20-01-2015,Single Vehicle Collision,Major Damage,Springfield,22,Jeep,Grand Cherokee
-MALE,PhD,28-02-2015,Single Vehicle Collision,Total Loss,Columbus,12,Saab,93
-FEMALE,Associate,04-02-2015,Multi-vehicle Collision,Major Damage,Columbus,3,Chevrolet,Tahoe
-FEMALE,College,12-01-2015,Multi-vehicle Collision,Major Damage,Northbend,15,Toyota,Highlander
-MALE,MD,28-02-2015,Parked Car,Trivial Damage,Arlington,8,Saab,93
-FEMALE,Associate,08-01-2015,Multi-vehicle Collision,Major Damage,Northbend,13,Mercedes,ML350
-FEMALE,High School,25-01-2015,Parked Car,Minor Damage,Hillsdale,8,Volkswagen,Passat
-FEMALE,Masters,26-02-2015,Parked Car,Minor Damage,Arlington,7,BMW,X5
-FEMALE,Masters,03-02-2015,Vehicle Theft,Trivial Damage,Northbrook,9,Volkswagen,Passat
-FEMALE,Associate,31-01-2015,Single Vehicle Collision,Minor Damage,Northbend,15,Toyota,Highlander
-FEMALE,JD,01-02-2015,Single Vehicle Collision,Minor Damage,Northbend,5,Accura,TL
-MALE,PhD,21-02-2015,Multi-vehicle Collision,Major Damage,Northbend,15,Dodge,RAM
-MALE,High School,30-01-2015,Multi-vehicle Collision,Major Damage,Columbus,22,Saab,93
-FEMALE,PhD,31-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,16,Honda,Accord
-FEMALE,PhD,13-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,7,Suburu,Forrestor
-FEMALE,JD,16-02-2015,Parked Car,Minor Damage,Arlington,2,Honda,Civic
-MALE,College,04-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,17,Suburu,Forrestor
-FEMALE,Masters,07-02-2015,Multi-vehicle Collision,Total Loss,Springfield,12,Volkswagen,Jetta
-FEMALE,Associate,16-01-2015,Single Vehicle Collision,Major Damage,Arlington,9,Dodge,Neon
-MALE,JD,28-02-2015,Single Vehicle Collision,Total Loss,Northbrook,16,Toyota,Corolla
-MALE,JD,08-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,19,Audi,A3
-MALE,College,02-01-2015,Multi-vehicle Collision,Major Damage,Columbus,14,Mercedes,E400
-FEMALE,Associate,13-01-2015,Multi-vehicle Collision,Total Loss,Northbend,18,Audi,A5
-FEMALE,PhD,07-01-2015,Single Vehicle Collision,Minor Damage,Springfield,23,Chevrolet,Malibu
-MALE,PhD,05-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,15,Nissan,Ultima
-MALE,JD,28-02-2015,Single Vehicle Collision,Minor Damage,Arlington,18,BMW,3 Series
-FEMALE,Masters,04-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,16,Audi,A5
-MALE,High School,02-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,12,Ford,F150
-FEMALE,College,23-02-2015,Single Vehicle Collision,Major Damage,Northbrook,16,Mercedes,E400
-MALE,Associate,10-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,21,Honda,Accord
-MALE,JD,16-02-2015,Multi-vehicle Collision,Total Loss,Columbus,15,Nissan,Ultima
-FEMALE,JD,04-01-2015,Single Vehicle Collision,Major Damage,Northbrook,21,Suburu,Legacy
-FEMALE,JD,30-01-2015,Single Vehicle Collision,Major Damage,Arlington,1,Saab,92x
-MALE,PhD,25-01-2015,Multi-vehicle Collision,Total Loss,Arlington,17,Toyota,Highlander
-FEMALE,High School,22-01-2015,Multi-vehicle Collision,Total Loss,Columbus,5,Saab,95
-MALE,MD,01-01-2015,Multi-vehicle Collision,Total Loss,Northbend,15,Volkswagen,Jetta
-MALE,High School,14-02-2015,Multi-vehicle Collision,Major Damage,Arlington,2,Accura,TL
-FEMALE,PhD,15-01-2015,Vehicle Theft,Minor Damage,Northbend,3,Accura,MDX
-MALE,High School,06-01-2015,Single Vehicle Collision,Major Damage,Riverwood,19,Ford,Fusion
-MALE,Masters,08-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,17,Jeep,Grand Cherokee
-FEMALE,High School,17-02-2015,Vehicle Theft,Trivial Damage,Columbus,7,Saab,95
-MALE,MD,21-01-2015,Single Vehicle Collision,Minor Damage,Columbus,21,Chevrolet,Malibu
-FEMALE,Masters,09-02-2015,Multi-vehicle Collision,Total Loss,Springfield,10,Jeep,Wrangler
-MALE,MD,12-02-2015,Single Vehicle Collision,Total Loss,Columbus,11,Ford,Escape
-FEMALE,College,24-02-2015,Multi-vehicle Collision,Major Damage,Columbus,23,Mercedes,C300
-MALE,Associate,02-02-2015,Single Vehicle Collision,Minor Damage,Northbend,14,Audi,A5
-FEMALE,College,14-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,10,Chevrolet,Silverado
-FEMALE,College,15-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,6,Honda,Civic
-MALE,MD,28-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,10,Toyota,Corolla
-FEMALE,High School,18-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,5,Suburu,Forrestor
-MALE,Masters,06-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,17,Chevrolet,Silverado
-FEMALE,College,19-01-2015,Vehicle Theft,Trivial Damage,Springfield,3,Ford,Escape
-FEMALE,Associate,17-01-2015,Parked Car,Minor Damage,Northbrook,9,BMW,M5
-FEMALE,High School,12-02-2015,Parked Car,Trivial Damage,Arlington,6,BMW,3 Series
-FEMALE,College,11-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,22,Chevrolet,Tahoe
-MALE,Masters,21-02-2015,Multi-vehicle Collision,Major Damage,Northbend,10,Jeep,Grand Cherokee
-MALE,Associate,02-01-2015,Vehicle Theft,Minor Damage,Riverwood,4,Dodge,RAM
-FEMALE,High School,11-01-2015,Single Vehicle Collision,Total Loss,Northbrook,23,Suburu,Legacy
-FEMALE,Masters,23-02-2015,Single Vehicle Collision,Total Loss,Riverwood,19,Mercedes,ML350
-FEMALE,JD,28-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,22,Jeep,Grand Cherokee
-MALE,High School,01-02-2015,Vehicle Theft,Trivial Damage,Riverwood,6,Jeep,Wrangler
-FEMALE,JD,24-02-2015,Single Vehicle Collision,Minor Damage,Springfield,6,BMW,X5
-FEMALE,College,20-01-2015,Single Vehicle Collision,Major Damage,Northbend,18,Volkswagen,Jetta
-MALE,MD,14-01-2015,Single Vehicle Collision,Total Loss,Northbend,22,Toyota,Camry
-MALE,High School,05-02-2015,Single Vehicle Collision,Major Damage,Columbus,21,Toyota,Corolla
-FEMALE,MD,11-01-2015,Single Vehicle Collision,Minor Damage,Northbend,12,Ford,Fusion
-MALE,Masters,02-01-2015,Multi-vehicle Collision,Major Damage,Arlington,6,Suburu,Forrestor
-FEMALE,College,12-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,0,Chevrolet,Silverado
-MALE,Masters,03-01-2015,Single Vehicle Collision,Total Loss,Arlington,11,BMW,X5
-FEMALE,High School,25-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,19,Nissan,Maxima
-FEMALE,Masters,19-01-2015,Multi-vehicle Collision,Major Damage,Springfield,22,Mercedes,ML350
-MALE,Masters,03-01-2015,Single Vehicle Collision,Total Loss,Columbus,2,Nissan,Maxima
-FEMALE,JD,12-02-2015,Multi-vehicle Collision,Total Loss,Arlington,16,Dodge,Neon
-FEMALE,PhD,24-02-2015,Multi-vehicle Collision,Total Loss,Columbus,23,Saab,92x
-FEMALE,Masters,25-02-2015,Single Vehicle Collision,Major Damage,Northbend,21,Audi,A5
-MALE,College,17-02-2015,Single Vehicle Collision,Minor Damage,Columbus,10,Dodge,RAM
-MALE,Associate,09-02-2015,Single Vehicle Collision,Major Damage,Riverwood,12,Honda,CRV
-MALE,MD,15-02-2015,Single Vehicle Collision,Total Loss,Northbend,6,Dodge,Neon
-MALE,JD,25-02-2015,Single Vehicle Collision,Major Damage,Riverwood,6,Suburu,Legacy
-FEMALE,PhD,05-02-2015,Parked Car,Trivial Damage,Hillsdale,7,Mercedes,ML350
-FEMALE,PhD,12-01-2015,Vehicle Theft,Trivial Damage,Northbrook,3,Audi,A5
-MALE,JD,01-01-2015,Parked Car,Trivial Damage,Hillsdale,10,Nissan,Pathfinder
-MALE,Masters,19-02-2015,Single Vehicle Collision,Total Loss,Columbus,14,Dodge,Neon
-MALE,MD,14-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,17,Dodge,Neon
-FEMALE,PhD,30-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,16,Suburu,Legacy
-FEMALE,JD,20-01-2015,Parked Car,Minor Damage,Columbus,3,Jeep,Grand Cherokee
-FEMALE,Associate,18-02-2015,Parked Car,Minor Damage,Arlington,7,Dodge,Neon
-FEMALE,High School,07-01-2015,Single Vehicle Collision,Total Loss,Northbend,13,Chevrolet,Silverado
-FEMALE,JD,16-01-2015,Single Vehicle Collision,Total Loss,Springfield,20,Jeep,Wrangler
-MALE,Associate,15-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,23,Chevrolet,Malibu
-FEMALE,PhD,01-02-2015,Single Vehicle Collision,Total Loss,Arlington,11,Dodge,Neon
-FEMALE,Masters,06-01-2015,Multi-vehicle Collision,Major Damage,Northbend,0,BMW,X6
-FEMALE,PhD,02-02-2015,Single Vehicle Collision,Minor Damage,Northbrook,2,Toyota,Camry
-FEMALE,College,25-02-2015,Single Vehicle Collision,Total Loss,Northbrook,3,Chevrolet,Malibu
-FEMALE,College,10-02-2015,Parked Car,Trivial Damage,Hillsdale,3,Audi,A3
-FEMALE,Associate,22-02-2015,Multi-vehicle Collision,Total Loss,Arlington,15,Suburu,Forrestor
-FEMALE,Associate,31-01-2015,Single Vehicle Collision,Minor Damage,Northbend,23,Chevrolet,Malibu
-MALE,Associate,12-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,9,Ford,Escape
-MALE,Masters,06-01-2015,Vehicle Theft,Minor Damage,Columbus,20,Dodge,Neon
-MALE,Masters,01-01-2015,Single Vehicle Collision,Major Damage,Riverwood,5,Volkswagen,Passat
-FEMALE,MD,07-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,15,Jeep,Wrangler
-FEMALE,PhD,21-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,13,Accura,MDX
-FEMALE,High School,14-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,16,Volkswagen,Passat
-MALE,MD,16-02-2015,Single Vehicle Collision,Minor Damage,Northbend,0,Honda,Accord
-FEMALE,PhD,04-02-2015,Multi-vehicle Collision,Major Damage,Arlington,10,Suburu,Impreza
-MALE,JD,22-01-2015,Multi-vehicle Collision,Total Loss,Springfield,14,Saab,93
-MALE,PhD,15-02-2015,Multi-vehicle Collision,Total Loss,Columbus,1,Nissan,Ultima
-FEMALE,Associate,07-01-2015,Single Vehicle Collision,Major Damage,Springfield,16,BMW,M5
-FEMALE,Masters,23-02-2015,Multi-vehicle Collision,Major Damage,Northbend,2,Chevrolet,Tahoe
-FEMALE,College,06-01-2015,Multi-vehicle Collision,Major Damage,Springfield,23,Volkswagen,Passat
-FEMALE,High School,07-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,19,Volkswagen,Passat
-FEMALE,PhD,14-02-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,23,Volkswagen,Jetta
-FEMALE,JD,15-02-2015,Single Vehicle Collision,Major Damage,Riverwood,10,Nissan,Maxima
-MALE,MD,14-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,12,Dodge,Neon
-MALE,PhD,05-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,15,BMW,X6
-FEMALE,PhD,04-01-2015,Vehicle Theft,Trivial Damage,Columbus,3,Nissan,Maxima
-MALE,JD,20-02-2015,Parked Car,Minor Damage,Springfield,19,Toyota,Camry
-FEMALE,Masters,05-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,16,Nissan,Ultima
-MALE,High School,15-01-2015,Single Vehicle Collision,Major Damage,Columbus,16,Saab,92x
-MALE,MD,05-01-2015,Single Vehicle Collision,Total Loss,Northbend,10,Saab,95
-MALE,Masters,01-01-2015,Vehicle Theft,Minor Damage,Riverwood,6,Mercedes,C300
-MALE,MD,26-01-2015,Single Vehicle Collision,Major Damage,Arlington,18,Mercedes,ML350
-MALE,College,13-02-2015,Multi-vehicle Collision,Major Damage,Springfield,20,Ford,Fusion
-FEMALE,Masters,14-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,14,Accura,MDX
-MALE,JD,31-01-2015,Multi-vehicle Collision,Major Damage,Riverwood,8,Volkswagen,Passat
-MALE,JD,22-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,17,BMW,3 Series
-MALE,High School,30-01-2015,Single Vehicle Collision,Minor Damage,Springfield,9,Jeep,Wrangler
-MALE,Associate,17-02-2015,Single Vehicle Collision,Total Loss,Springfield,0,Nissan,Maxima
-MALE,High School,20-02-2015,Single Vehicle Collision,Total Loss,Riverwood,2,Chevrolet,Malibu
-FEMALE,High School,04-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,23,Dodge,RAM
-MALE,College,23-02-2015,Single Vehicle Collision,Total Loss,Northbend,8,Mercedes,ML350
-MALE,JD,08-02-2015,Multi-vehicle Collision,Total Loss,Columbus,6,Dodge,Neon
-MALE,High School,21-02-2015,Vehicle Theft,Minor Damage,Arlington,3,Toyota,Corolla
-FEMALE,High School,13-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,14,Jeep,Grand Cherokee
-MALE,MD,17-01-2015,Multi-vehicle Collision,Major Damage,Northbrook,16,Saab,95
-FEMALE,Masters,18-02-2015,Single Vehicle Collision,Minor Damage,Northbend,12,Chevrolet,Malibu
-FEMALE,Associate,14-01-2015,Multi-vehicle Collision,Major Damage,Northbrook,1,Dodge,RAM
-MALE,PhD,27-01-2015,Single Vehicle Collision,Minor Damage,Springfield,19,Chevrolet,Tahoe
-MALE,Associate,12-02-2015,Vehicle Theft,Trivial Damage,Northbend,7,Accura,MDX
-MALE,College,17-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,6,Accura,MDX
-MALE,MD,13-01-2015,Single Vehicle Collision,Major Damage,Arlington,11,Mercedes,ML350
-FEMALE,PhD,21-01-2015,Single Vehicle Collision,Minor Damage,Northbend,2,Saab,95
-FEMALE,JD,01-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,15,Honda,CRV
-MALE,Masters,18-02-2015,Single Vehicle Collision,Major Damage,Columbus,0,Mercedes,ML350
-FEMALE,Associate,04-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,12,Nissan,Ultima
-FEMALE,PhD,09-01-2015,Single Vehicle Collision,Total Loss,Springfield,1,Accura,TL
-FEMALE,JD,14-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,16,Ford,F150
-MALE,MD,03-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,2,Jeep,Grand Cherokee
-FEMALE,PhD,04-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,13,Nissan,Ultima
-MALE,High School,30-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,0,Accura,MDX
-FEMALE,High School,20-02-2015,Multi-vehicle Collision,Total Loss,Arlington,0,Honda,CRV
-MALE,College,07-01-2015,Multi-vehicle Collision,Total Loss,Northbend,16,Mercedes,E400
-MALE,High School,31-01-2015,Single Vehicle Collision,Total Loss,Arlington,8,Audi,A3
-FEMALE,JD,17-02-2015,Parked Car,Trivial Damage,Hillsdale,9,Volkswagen,Jetta
-MALE,JD,24-01-2015,Single Vehicle Collision,Total Loss,Northbend,11,Nissan,Pathfinder
-FEMALE,College,02-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,6,Dodge,RAM
-FEMALE,College,09-01-2015,Single Vehicle Collision,Total Loss,Arlington,18,Honda,Civic
-FEMALE,JD,28-02-2015,Single Vehicle Collision,Total Loss,Northbrook,11,Mercedes,E400
-FEMALE,College,17-01-2015,Single Vehicle Collision,Total Loss,Arlington,17,Chevrolet,Silverado
-MALE,High School,09-02-2015,Multi-vehicle Collision,Major Damage,Springfield,21,Jeep,Wrangler
-MALE,JD,14-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,0,Jeep,Grand Cherokee
-FEMALE,Associate,02-02-2015,Vehicle Theft,Trivial Damage,Northbrook,9,Chevrolet,Tahoe
-MALE,JD,17-02-2015,Single Vehicle Collision,Total Loss,Riverwood,1,Accura,RSX
-FEMALE,PhD,25-01-2015,Single Vehicle Collision,Total Loss,Springfield,22,Audi,A5
-MALE,College,13-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,20,Honda,Civic
-FEMALE,MD,20-02-2015,Multi-vehicle Collision,Total Loss,Northbend,9,Ford,F150
-FEMALE,Associate,08-01-2015,Parked Car,Minor Damage,Northbrook,5,Toyota,Corolla
-FEMALE,JD,28-02-2015,Vehicle Theft,Trivial Damage,Riverwood,12,Jeep,Grand Cherokee
-FEMALE,High School,12-02-2015,Multi-vehicle Collision,Major Damage,Springfield,6,Suburu,Legacy
-FEMALE,Masters,06-01-2015,Vehicle Theft,Trivial Damage,Columbus,8,Ford,F150
-FEMALE,Associate,15-02-2015,Single Vehicle Collision,Total Loss,Riverwood,14,Jeep,Grand Cherokee
-FEMALE,High School,20-01-2015,Single Vehicle Collision,Major Damage,Northbrook,10,BMW,X5
-FEMALE,Masters,03-01-2015,Single Vehicle Collision,Minor Damage,Columbus,12,Chevrolet,Malibu
-FEMALE,College,26-01-2015,Single Vehicle Collision,Major Damage,Springfield,12,Accura,MDX
-MALE,PhD,25-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,12,Mercedes,C300
-MALE,JD,18-01-2015,Vehicle Theft,Minor Damage,Columbus,13,Mercedes,ML350
-FEMALE,PhD,12-01-2015,Multi-vehicle Collision,Total Loss,Northbend,17,Nissan,Pathfinder
-FEMALE,College,15-01-2015,Single Vehicle Collision,Major Damage,Arlington,14,Accura,MDX
-MALE,MD,10-01-2015,Multi-vehicle Collision,Major Damage,Arlington,3,Volkswagen,Jetta
-FEMALE,Associate,23-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,18,Nissan,Ultima
-MALE,High School,21-02-2015,Parked Car,Minor Damage,Northbend,5,Dodge,Neon
-FEMALE,College,17-02-2015,Single Vehicle Collision,Total Loss,Riverwood,19,BMW,X5
-FEMALE,PhD,06-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,0,Volkswagen,Jetta
-FEMALE,JD,18-02-2015,Parked Car,Trivial Damage,Arlington,22,Mercedes,E400
-FEMALE,MD,17-02-2015,Multi-vehicle Collision,Major Damage,Arlington,21,Saab,92x
-FEMALE,Masters,24-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,4,Suburu,Impreza
-MALE,MD,21-01-2015,Single Vehicle Collision,Minor Damage,Arlington,10,Honda,Civic
-FEMALE,Associate,03-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,5,Suburu,Forrestor
-MALE,MD,07-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,13,Audi,A5
-MALE,MD,02-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,18,Ford,F150
-MALE,JD,13-01-2015,Vehicle Theft,Minor Damage,Springfield,6,Accura,TL
-MALE,PhD,28-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,0,BMW,X6
-MALE,High School,16-01-2015,Multi-vehicle Collision,Total Loss,Arlington,5,Volkswagen,Jetta
-MALE,Associate,01-02-2015,Single Vehicle Collision,Minor Damage,Arlington,8,Accura,RSX
-MALE,Masters,30-01-2015,Vehicle Theft,Minor Damage,Hillsdale,5,Dodge,RAM
-FEMALE,High School,16-02-2015,Parked Car,Trivial Damage,Springfield,9,Honda,CRV
-FEMALE,JD,07-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,10,Saab,95
-MALE,Masters,10-01-2015,Single Vehicle Collision,Major Damage,Northbrook,16,Volkswagen,Jetta
-MALE,College,31-01-2015,Vehicle Theft,Trivial Damage,Arlington,8,Ford,F150
-MALE,PhD,13-02-2015,Vehicle Theft,Minor Damage,Northbrook,5,Accura,TL
-FEMALE,College,22-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,11,Saab,95
-FEMALE,PhD,08-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,15,Toyota,Camry
-MALE,Masters,04-02-2015,Multi-vehicle Collision,Total Loss,Columbus,23,Chevrolet,Malibu
-MALE,MD,04-02-2015,Single Vehicle Collision,Minor Damage,Arlington,23,Ford,Escape
-FEMALE,College,26-02-2015,Single Vehicle Collision,Total Loss,Northbrook,23,Ford,Fusion
-FEMALE,Associate,08-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,10,Dodge,RAM
-FEMALE,JD,15-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,12,Jeep,Grand Cherokee
-FEMALE,PhD,14-01-2015,Single Vehicle Collision,Minor Damage,Springfield,4,Saab,92x
-FEMALE,High School,12-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,16,Toyota,Highlander
-MALE,High School,18-01-2015,Multi-vehicle Collision,Major Damage,Columbus,18,Ford,Fusion
-MALE,JD,15-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,15,Chevrolet,Malibu
-MALE,College,24-02-2015,Single Vehicle Collision,Total Loss,Springfield,8,BMW,3 Series
-MALE,JD,07-02-2015,Multi-vehicle Collision,Total Loss,Springfield,4,Volkswagen,Jetta
-FEMALE,JD,22-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,20,Jeep,Wrangler
-FEMALE,Masters,19-01-2015,Multi-vehicle Collision,Major Damage,Northbend,1,Dodge,RAM
-MALE,JD,28-02-2015,Single Vehicle Collision,Major Damage,Springfield,19,Mercedes,ML350
-MALE,JD,04-02-2015,Single Vehicle Collision,Total Loss,Northbend,11,Chevrolet,Silverado
-MALE,PhD,17-02-2015,Single Vehicle Collision,Total Loss,Northbend,13,Audi,A3
-MALE,MD,17-02-2015,Single Vehicle Collision,Minor Damage,Springfield,2,BMW,M5
-MALE,High School,17-01-2015,Multi-vehicle Collision,Major Damage,Northbrook,9,Saab,93
-MALE,PhD,02-02-2015,Multi-vehicle Collision,Total Loss,Arlington,15,Toyota,Highlander
-MALE,PhD,12-02-2015,Single Vehicle Collision,Major Damage,Springfield,23,Honda,Civic
-MALE,High School,04-01-2015,Single Vehicle Collision,Total Loss,Riverwood,16,Ford,Fusion
-MALE,Associate,21-02-2015,Multi-vehicle Collision,Major Damage,Arlington,21,Audi,A5
-FEMALE,JD,23-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,21,Ford,Fusion
-MALE,Masters,12-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,3,Toyota,Corolla
-FEMALE,High School,23-01-2015,Parked Car,Trivial Damage,Arlington,4,Nissan,Pathfinder
-MALE,MD,10-02-2015,Vehicle Theft,Minor Damage,Springfield,17,Chevrolet,Malibu
-MALE,College,10-01-2015,Vehicle Theft,Trivial Damage,Springfield,7,Volkswagen,Jetta
-FEMALE,JD,12-02-2015,Multi-vehicle Collision,Major Damage,Columbus,14,Chevrolet,Tahoe
-MALE,Masters,21-02-2015,Single Vehicle Collision,Major Damage,Northbrook,13,Mercedes,ML350
-FEMALE,Associate,18-01-2015,Multi-vehicle Collision,Total Loss,Springfield,23,Saab,93
-FEMALE,College,28-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,23,Ford,Escape
-FEMALE,Associate,19-01-2015,Single Vehicle Collision,Major Damage,Arlington,16,Honda,CRV
-FEMALE,College,11-01-2015,Single Vehicle Collision,Total Loss,Northbrook,17,Chevrolet,Tahoe
-FEMALE,JD,11-02-2015,Single Vehicle Collision,Major Damage,Northbrook,9,Toyota,Highlander
-MALE,High School,09-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,13,Mercedes,ML350
-MALE,JD,20-01-2015,Single Vehicle Collision,Major Damage,Springfield,13,Ford,Escape
-FEMALE,College,26-02-2015,Parked Car,Trivial Damage,Columbus,3,Dodge,RAM
-FEMALE,JD,02-02-2015,Parked Car,Trivial Damage,Springfield,3,Mercedes,E400
-FEMALE,High School,04-01-2015,Multi-vehicle Collision,Major Damage,Columbus,16,Saab,92x
-FEMALE,Masters,19-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,12,Saab,93
-MALE,High School,12-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,4,Nissan,Pathfinder
-MALE,Masters,24-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,3,Ford,Escape
-MALE,JD,17-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,0,Volkswagen,Jetta
-FEMALE,Masters,13-01-2015,Vehicle Theft,Trivial Damage,Columbus,19,Toyota,Camry
-MALE,JD,28-02-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,15,Toyota,Highlander
-MALE,High School,03-01-2015,Single Vehicle Collision,Minor Damage,Arlington,6,Accura,MDX
-FEMALE,Associate,05-02-2015,Single Vehicle Collision,Total Loss,Springfield,3,Audi,A3
-FEMALE,Masters,01-01-2015,Parked Car,Minor Damage,Springfield,17,Accura,RSX
-FEMALE,MD,06-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,4,Volkswagen,Jetta
-MALE,Masters,03-02-2015,Single Vehicle Collision,Minor Damage,Springfield,14,Dodge,Neon
-MALE,Masters,12-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,3,Toyota,Corolla
-MALE,MD,16-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,4,Chevrolet,Tahoe
-FEMALE,Associate,25-02-2015,Single Vehicle Collision,Total Loss,Columbus,13,BMW,X5
-MALE,High School,21-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,23,Volkswagen,Passat
-MALE,MD,28-01-2015,Parked Car,Minor Damage,Northbend,3,Toyota,Camry
-MALE,High School,27-02-2015,Multi-vehicle Collision,Total Loss,Springfield,0,Nissan,Pathfinder
-FEMALE,JD,10-02-2015,Multi-vehicle Collision,Major Damage,Columbus,14,Nissan,Maxima
-MALE,MD,18-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,14,Volkswagen,Passat
-MALE,JD,13-01-2015,Single Vehicle Collision,Total Loss,Springfield,22,Jeep,Wrangler
-FEMALE,Associate,31-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,17,Saab,93
-FEMALE,MD,15-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,14,Volkswagen,Passat
-FEMALE,Masters,13-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,2,Ford,F150
-MALE,MD,13-02-2015,Parked Car,Trivial Damage,Riverwood,4,Jeep,Grand Cherokee
-MALE,High School,03-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,2,Saab,92x
-MALE,Associate,13-01-2015,Parked Car,Minor Damage,Riverwood,10,Nissan,Ultima
-FEMALE,MD,14-02-2015,Single Vehicle Collision,Major Damage,Northbrook,11,Mercedes,E400
-MALE,Masters,20-01-2015,Multi-vehicle Collision,Major Damage,Springfield,1,Dodge,Neon
-MALE,Associate,18-01-2015,Parked Car,Trivial Damage,Northbend,20,Toyota,Camry
-FEMALE,JD,03-01-2015,Single Vehicle Collision,Major Damage,Riverwood,10,BMW,X6
-FEMALE,High School,01-03-2015,Multi-vehicle Collision,Total Loss,Northbrook,20,Ford,F150
-FEMALE,MD,01-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,10,Chevrolet,Malibu
-FEMALE,Associate,29-01-2015,Multi-vehicle Collision,Total Loss,Springfield,2,Accura,MDX
-MALE,Masters,10-01-2015,Single Vehicle Collision,Minor Damage,Springfield,19,Accura,MDX
-FEMALE,MD,29-01-2015,Single Vehicle Collision,Major Damage,Columbus,10,Mercedes,E400
-FEMALE,Masters,20-02-2015,Single Vehicle Collision,Major Damage,Arlington,14,Toyota,Camry
-FEMALE,High School,21-01-2015,Parked Car,Trivial Damage,Columbus,5,Chevrolet,Tahoe
-MALE,High School,18-01-2015,Vehicle Theft,Minor Damage,Hillsdale,8,Saab,95
-MALE,Masters,09-01-2015,Vehicle Theft,Trivial Damage,Northbend,4,Suburu,Impreza
-FEMALE,PhD,13-01-2015,Multi-vehicle Collision,Major Damage,Columbus,4,Audi,A3
-MALE,Associate,13-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,20,Nissan,Ultima
-FEMALE,Masters,08-01-2015,Single Vehicle Collision,Total Loss,Riverwood,18,Dodge,RAM
-FEMALE,JD,17-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,0,Suburu,Legacy
-FEMALE,High School,15-01-2015,Single Vehicle Collision,Major Damage,Springfield,1,Saab,92x
-FEMALE,Masters,24-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,17,Audi,A3
-MALE,College,28-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,23,Volkswagen,Jetta
-FEMALE,MD,16-02-2015,Multi-vehicle Collision,Total Loss,Arlington,4,Honda,CRV
-MALE,High School,09-02-2015,Multi-vehicle Collision,Total Loss,Springfield,0,Dodge,Neon
-MALE,College,24-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,11,Suburu,Forrestor
-MALE,Associate,11-02-2015,Parked Car,Trivial Damage,Arlington,4,Honda,CRV
-MALE,MD,27-01-2015,Multi-vehicle Collision,Total Loss,Columbus,0,Dodge,RAM
-FEMALE,High School,19-01-2015,Multi-vehicle Collision,Major Damage,Springfield,2,Ford,Escape
-FEMALE,College,20-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,11,Jeep,Wrangler
-MALE,College,10-01-2015,Multi-vehicle Collision,Major Damage,Northbend,23,Audi,A5
-FEMALE,High School,21-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,17,Jeep,Wrangler
-FEMALE,High School,01-02-2015,Single Vehicle Collision,Minor Damage,Columbus,22,Audi,A5
-MALE,Associate,25-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,18,Ford,F150
-MALE,Associate,24-02-2015,Vehicle Theft,Trivial Damage,Arlington,8,Ford,F150
-MALE,High School,21-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,15,Jeep,Grand Cherokee
-FEMALE,Associate,08-01-2015,Single Vehicle Collision,Minor Damage,Springfield,20,Nissan,Maxima
-MALE,JD,10-01-2015,Single Vehicle Collision,Minor Damage,Columbus,4,Suburu,Legacy
-MALE,College,14-02-2015,Multi-vehicle Collision,Total Loss,Northbrook,10,Jeep,Wrangler
-MALE,College,26-02-2015,Single Vehicle Collision,Major Damage,Springfield,10,Dodge,Neon
-FEMALE,PhD,30-01-2015,Multi-vehicle Collision,Total Loss,Northbend,22,Honda,CRV
-FEMALE,High School,07-01-2015,Multi-vehicle Collision,Total Loss,Northbend,15,Saab,95
-FEMALE,Masters,27-02-2015,Single Vehicle Collision,Minor Damage,Arlington,13,Accura,TL
-MALE,Associate,13-02-2015,Single Vehicle Collision,Total Loss,Arlington,23,Mercedes,E400
-FEMALE,Masters,02-02-2015,Multi-vehicle Collision,Major Damage,Northbend,18,BMW,X6
-MALE,JD,27-02-2015,Single Vehicle Collision,Total Loss,Arlington,7,Audi,A5
-MALE,Masters,02-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,21,Toyota,Camry
-MALE,JD,17-01-2015,Multi-vehicle Collision,Major Damage,Columbus,15,Nissan,Maxima
-FEMALE,MD,12-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,17,Jeep,Wrangler
-MALE,Masters,20-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,2,Ford,F150
-FEMALE,Masters,05-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,1,Dodge,RAM
-FEMALE,College,20-01-2015,Single Vehicle Collision,Major Damage,Northbend,3,Dodge,Neon
-MALE,College,24-02-2015,Vehicle Theft,Trivial Damage,Northbend,0,Toyota,Corolla
-MALE,High School,21-02-2015,Vehicle Theft,Trivial Damage,Hillsdale,4,Jeep,Wrangler
-MALE,MD,11-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,11,Saab,93
-MALE,JD,24-01-2015,Parked Car,Trivial Damage,Arlington,4,Saab,93
-FEMALE,High School,06-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,11,Ford,Escape
-FEMALE,Masters,15-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,4,Dodge,Neon
-MALE,MD,22-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,20,Accura,TL
-MALE,Associate,21-01-2015,Parked Car,Trivial Damage,Springfield,22,Honda,CRV
-MALE,JD,03-02-2015,Parked Car,Trivial Damage,Northbend,4,Volkswagen,Passat
-MALE,High School,16-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,21,Saab,92x
-MALE,College,07-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,20,Accura,MDX
-MALE,Masters,14-01-2015,Single Vehicle Collision,Major Damage,Columbus,7,Chevrolet,Silverado
-FEMALE,High School,02-02-2015,Parked Car,Trivial Damage,Riverwood,4,Saab,92x
-MALE,JD,06-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,17,Saab,95
-MALE,High School,15-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,20,Audi,A5
-MALE,PhD,24-02-2015,Single Vehicle Collision,Major Damage,Riverwood,10,Saab,92x
-FEMALE,PhD,07-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,8,BMW,X6
-FEMALE,High School,04-02-2015,Single Vehicle Collision,Major Damage,Columbus,6,BMW,X6
-MALE,JD,04-02-2015,Parked Car,Minor Damage,Northbrook,4,Jeep,Grand Cherokee
-MALE,PhD,25-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,17,Ford,Escape
-FEMALE,High School,25-02-2015,Multi-vehicle Collision,Total Loss,Springfield,15,Audi,A3
-FEMALE,Masters,27-02-2015,Vehicle Theft,Trivial Damage,Riverwood,9,Honda,Accord
-MALE,College,11-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,17,Volkswagen,Jetta
-FEMALE,Associate,04-01-2015,Single Vehicle Collision,Major Damage,Arlington,13,Nissan,Maxima
-FEMALE,Associate,26-01-2015,Vehicle Theft,Trivial Damage,Springfield,5,Mercedes,E400
-FEMALE,Masters,01-03-2015,Multi-vehicle Collision,Total Loss,Arlington,23,Saab,95
-FEMALE,MD,06-02-2015,Multi-vehicle Collision,Major Damage,Arlington,1,BMW,M5
-FEMALE,Associate,09-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,17,Mercedes,E400
-MALE,High School,05-02-2015,Parked Car,Minor Damage,Springfield,3,Volkswagen,Passat
-MALE,High School,03-01-2015,Multi-vehicle Collision,Total Loss,Columbus,17,Mercedes,ML350
-FEMALE,Masters,24-02-2015,Multi-vehicle Collision,Major Damage,Northbend,23,Chevrolet,Malibu
-FEMALE,JD,14-01-2015,Single Vehicle Collision,Minor Damage,Columbus,13,Accura,MDX
-FEMALE,Masters,08-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,17,Nissan,Ultima
-FEMALE,High School,14-02-2015,Single Vehicle Collision,Minor Damage,Arlington,2,Ford,Escape
-FEMALE,MD,23-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,23,Dodge,RAM
-MALE,College,05-01-2015,Single Vehicle Collision,Minor Damage,Columbus,17,Volkswagen,Jetta
-MALE,Associate,19-02-2015,Single Vehicle Collision,Major Damage,Springfield,3,Ford,F150
-MALE,JD,07-02-2015,Parked Car,Minor Damage,Riverwood,16,Jeep,Wrangler
-FEMALE,MD,07-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,13,Saab,92x
-MALE,High School,20-01-2015,Single Vehicle Collision,Major Damage,Riverwood,8,Chevrolet,Tahoe
-FEMALE,Masters,18-02-2015,Single Vehicle Collision,Major Damage,Columbus,23,Mercedes,E400
-MALE,College,11-01-2015,Multi-vehicle Collision,Major Damage,Springfield,15,Chevrolet,Silverado
-MALE,MD,22-01-2015,Single Vehicle Collision,Total Loss,Columbus,3,Dodge,Neon
-MALE,Masters,23-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,4,Accura,TL
-FEMALE,Masters,15-01-2015,Single Vehicle Collision,Minor Damage,Northbend,8,Audi,A3
-MALE,Associate,20-02-2015,Vehicle Theft,Trivial Damage,Northbend,21,Volkswagen,Jetta
-MALE,Associate,19-01-2015,Single Vehicle Collision,Total Loss,Northbrook,23,Dodge,RAM
-MALE,Masters,10-01-2015,Parked Car,Trivial Damage,Riverwood,8,Dodge,RAM
-FEMALE,Associate,16-01-2015,Single Vehicle Collision,Major Damage,Riverwood,21,Suburu,Forrestor
-MALE,Associate,12-02-2015,Parked Car,Minor Damage,Columbus,5,Accura,MDX
-MALE,PhD,23-01-2015,Multi-vehicle Collision,Total Loss,Columbus,12,Chevrolet,Tahoe
-FEMALE,College,13-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,7,Dodge,Neon
-MALE,PhD,27-01-2015,Parked Car,Minor Damage,Northbend,0,Chevrolet,Tahoe
-MALE,JD,14-02-2015,Single Vehicle Collision,Major Damage,Northbend,14,Suburu,Legacy
-FEMALE,College,01-02-2015,Single Vehicle Collision,Major Damage,Northbrook,13,Chevrolet,Silverado
-FEMALE,College,23-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,1,Suburu,Legacy
-FEMALE,MD,20-01-2015,Single Vehicle Collision,Major Damage,Riverwood,23,Suburu,Forrestor
-FEMALE,High School,08-01-2015,Single Vehicle Collision,Major Damage,Northbrook,1,Toyota,Highlander
-FEMALE,Associate,23-02-2015,Single Vehicle Collision,Total Loss,Riverwood,9,Saab,92x
-FEMALE,PhD,04-02-2015,Single Vehicle Collision,Total Loss,Columbus,3,Dodge,RAM
-MALE,JD,09-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,0,Accura,RSX
-FEMALE,MD,18-02-2015,Multi-vehicle Collision,Total Loss,Northbend,13,Jeep,Wrangler
-MALE,JD,10-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,18,Volkswagen,Jetta
-FEMALE,High School,20-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,17,Nissan,Pathfinder
-FEMALE,College,27-01-2015,Single Vehicle Collision,Minor Damage,Springfield,11,Honda,Civic
-MALE,Associate,21-01-2015,Vehicle Theft,Minor Damage,Riverwood,0,Chevrolet,Malibu
-FEMALE,MD,18-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,14,Suburu,Legacy
-MALE,College,26-02-2015,Single Vehicle Collision,Minor Damage,Columbus,4,BMW,X5
-MALE,PhD,29-01-2015,Multi-vehicle Collision,Major Damage,Springfield,2,Volkswagen,Passat
-MALE,PhD,08-02-2015,Multi-vehicle Collision,Major Damage,Arlington,9,Toyota,Highlander
-MALE,MD,19-01-2015,Multi-vehicle Collision,Major Damage,Arlington,21,Dodge,RAM
-MALE,Masters,08-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,0,Mercedes,C300
-FEMALE,PhD,07-01-2015,Multi-vehicle Collision,Total Loss,Springfield,17,Audi,A3
-FEMALE,MD,13-02-2015,Multi-vehicle Collision,Total Loss,Northbend,21,Dodge,RAM
-FEMALE,College,15-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,20,Jeep,Wrangler
-FEMALE,MD,14-02-2015,Single Vehicle Collision,Total Loss,Northbrook,5,Ford,F150
-FEMALE,Associate,31-01-2015,Vehicle Theft,Minor Damage,Northbrook,7,Mercedes,E400
-FEMALE,PhD,28-01-2015,Single Vehicle Collision,Minor Damage,Columbus,6,Accura,TL
-MALE,PhD,01-03-2015,Multi-vehicle Collision,Minor Damage,Northbend,2,Chevrolet,Tahoe
-MALE,JD,10-01-2015,Multi-vehicle Collision,Total Loss,Columbus,19,Mercedes,E400
-FEMALE,MD,25-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,21,Nissan,Maxima
-MALE,High School,30-01-2015,Multi-vehicle Collision,Major Damage,Springfield,3,Dodge,Neon
-MALE,Masters,06-02-2015,Single Vehicle Collision,Total Loss,Columbus,22,Jeep,Wrangler
-MALE,College,08-02-2015,Single Vehicle Collision,Total Loss,Springfield,22,Accura,MDX
-MALE,High School,13-01-2015,Single Vehicle Collision,Minor Damage,Arlington,16,Saab,93
-FEMALE,Associate,18-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,0,Nissan,Maxima
-FEMALE,Masters,01-03-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,1,Nissan,Maxima
-MALE,College,02-02-2015,Multi-vehicle Collision,Major Damage,Arlington,19,Jeep,Wrangler
-MALE,PhD,20-01-2015,Multi-vehicle Collision,Major Damage,Columbus,0,Jeep,Wrangler
-FEMALE,College,24-01-2015,Multi-vehicle Collision,Major Damage,Arlington,2,Volkswagen,Passat
-FEMALE,High School,04-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,5,Mercedes,C300
-FEMALE,JD,17-01-2015,Single Vehicle Collision,Total Loss,Columbus,6,Suburu,Forrestor
-FEMALE,JD,04-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,21,Suburu,Impreza
-FEMALE,MD,14-02-2015,Multi-vehicle Collision,Major Damage,Columbus,11,Jeep,Wrangler
-FEMALE,High School,07-01-2015,Single Vehicle Collision,Minor Damage,Springfield,3,Suburu,Forrestor
-MALE,JD,02-02-2015,Multi-vehicle Collision,Total Loss,Northbrook,4,Audi,A5
-FEMALE,JD,12-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,2,Volkswagen,Jetta
-MALE,PhD,01-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,22,Chevrolet,Silverado
-FEMALE,MD,22-02-2015,Single Vehicle Collision,Total Loss,Northbend,8,Toyota,Highlander
-FEMALE,College,16-01-2015,Multi-vehicle Collision,Total Loss,Northbrook,14,Saab,93
-MALE,High School,28-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,14,Toyota,Camry
-FEMALE,MD,23-01-2015,Parked Car,Trivial Damage,Northbrook,5,Audi,A3
-FEMALE,High School,25-02-2015,Single Vehicle Collision,Minor Damage,Columbus,18,Volkswagen,Passat
-FEMALE,JD,11-02-2015,Multi-vehicle Collision,Total Loss,Springfield,20,Dodge,Neon
-MALE,PhD,03-01-2015,Multi-vehicle Collision,Total Loss,Springfield,0,Volkswagen,Jetta
-FEMALE,High School,30-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,1,Nissan,Ultima
-FEMALE,Masters,18-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,10,Suburu,Legacy
-FEMALE,MD,04-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,12,Dodge,RAM
-FEMALE,Associate,20-01-2015,Vehicle Theft,Minor Damage,Springfield,6,Chevrolet,Malibu
-MALE,PhD,12-02-2015,Parked Car,Trivial Damage,Hillsdale,1,Nissan,Ultima
-FEMALE,MD,19-02-2015,Multi-vehicle Collision,Total Loss,Columbus,21,BMW,X5
-MALE,Associate,21-02-2015,Multi-vehicle Collision,Major Damage,Columbus,3,Ford,Fusion
-MALE,College,02-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,14,Toyota,Camry
-MALE,College,01-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,19,Dodge,Neon
-FEMALE,College,08-01-2015,Single Vehicle Collision,Major Damage,Springfield,7,Honda,Civic
-FEMALE,JD,16-01-2015,Single Vehicle Collision,Minor Damage,Arlington,0,Volkswagen,Passat
-MALE,Masters,20-02-2015,Parked Car,Trivial Damage,Northbrook,6,Nissan,Pathfinder
-FEMALE,Associate,30-01-2015,Single Vehicle Collision,Total Loss,Northbend,0,BMW,X6
-MALE,High School,19-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,9,Suburu,Legacy
-FEMALE,Masters,25-02-2015,Single Vehicle Collision,Total Loss,Columbus,23,Toyota,Camry
-MALE,College,24-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,13,Saab,95
-MALE,MD,16-01-2015,Multi-vehicle Collision,Total Loss,Columbus,0,Jeep,Grand Cherokee
-MALE,Masters,12-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,7,Mercedes,E400
-FEMALE,PhD,04-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,23,Toyota,Corolla
-FEMALE,High School,02-02-2015,Single Vehicle Collision,Major Damage,Northbrook,7,Toyota,Camry
-FEMALE,MD,01-02-2015,Parked Car,Trivial Damage,Hillsdale,20,Audi,A3
-MALE,College,14-02-2015,Single Vehicle Collision,Minor Damage,Arlington,22,Accura,MDX
-FEMALE,JD,08-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,10,Chevrolet,Tahoe
-FEMALE,College,22-01-2015,Single Vehicle Collision,Total Loss,Arlington,10,Chevrolet,Malibu
-FEMALE,Masters,14-01-2015,Single Vehicle Collision,Minor Damage,Arlington,17,Volkswagen,Jetta
-MALE,MD,03-02-2015,Parked Car,Trivial Damage,Arlington,3,Toyota,Camry
-MALE,Masters,20-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,10,Saab,95
-MALE,College,01-01-2015,Single Vehicle Collision,Major Damage,Arlington,1,Nissan,Pathfinder
-FEMALE,JD,02-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,1,Audi,A3
-FEMALE,JD,23-01-2015,Single Vehicle Collision,Total Loss,Northbend,7,Audi,A3
-MALE,Associate,26-01-2015,Single Vehicle Collision,Major Damage,Northbend,19,Saab,93
-FEMALE,PhD,02-01-2015,Multi-vehicle Collision,Total Loss,Northbend,3,Ford,Fusion
-FEMALE,Masters,25-02-2015,Vehicle Theft,Minor Damage,Arlington,3,Chevrolet,Malibu
-FEMALE,Masters,15-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,23,Accura,MDX
-FEMALE,MD,09-02-2015,Vehicle Theft,Minor Damage,Springfield,7,Accura,MDX
-FEMALE,Masters,16-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,0,Nissan,Maxima
-FEMALE,PhD,01-02-2015,Single Vehicle Collision,Total Loss,Arlington,10,Volkswagen,Passat
-FEMALE,College,10-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,4,Nissan,Pathfinder
-MALE,High School,03-01-2015,Single Vehicle Collision,Major Damage,Columbus,16,Ford,Fusion
-MALE,College,01-01-2015,Vehicle Theft,Trivial Damage,Northbend,3,Chevrolet,Malibu
-MALE,High School,23-02-2015,Single Vehicle Collision,Minor Damage,Columbus,5,Dodge,RAM
-MALE,High School,28-01-2015,Vehicle Theft,Trivial Damage,Hillsdale,14,Audi,A5
-FEMALE,PhD,22-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,7,Nissan,Pathfinder
-MALE,JD,03-01-2015,Single Vehicle Collision,Minor Damage,Northbend,16,Honda,Civic
-FEMALE,PhD,10-01-2015,Single Vehicle Collision,Major Damage,Northbrook,6,Volkswagen,Jetta
-FEMALE,MD,25-01-2015,Single Vehicle Collision,Total Loss,Riverwood,10,Ford,F150
-FEMALE,JD,10-01-2015,Single Vehicle Collision,Total Loss,Riverwood,19,Volkswagen,Passat
-FEMALE,PhD,28-01-2015,Single Vehicle Collision,Minor Damage,Arlington,10,Suburu,Impreza
-FEMALE,MD,18-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,6,Suburu,Forrestor
-FEMALE,Associate,24-01-2015,Multi-vehicle Collision,Major Damage,Riverwood,12,Audi,A5
-MALE,Masters,20-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,10,Jeep,Wrangler
-FEMALE,MD,10-01-2015,Single Vehicle Collision,Total Loss,Northbrook,0,Dodge,Neon
-MALE,JD,07-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,12,Audi,A5
-FEMALE,JD,16-01-2015,Vehicle Theft,Minor Damage,Arlington,10,Nissan,Pathfinder
-FEMALE,JD,01-01-2015,Multi-vehicle Collision,Total Loss,Northbend,3,Ford,F150
-MALE,PhD,07-01-2015,Vehicle Theft,Minor Damage,Riverwood,21,Suburu,Legacy
-MALE,JD,17-02-2015,Vehicle Theft,Minor Damage,Northbrook,6,Mercedes,ML350
-FEMALE,JD,26-02-2015,Single Vehicle Collision,Total Loss,Northbend,0,Nissan,Pathfinder
-FEMALE,PhD,31-01-2015,Vehicle Theft,Trivial Damage,Arlington,6,Audi,A5
-FEMALE,PhD,27-02-2015,Multi-vehicle Collision,Major Damage,Arlington,20,BMW,M5
-MALE,Associate,01-03-2015,Single Vehicle Collision,Major Damage,Northbrook,4,Dodge,Neon
-FEMALE,High School,13-02-2015,Parked Car,Trivial Damage,Arlington,9,Chevrolet,Malibu
-MALE,JD,08-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,20,Saab,95
-FEMALE,JD,05-02-2015,Vehicle Theft,Minor Damage,Springfield,7,BMW,X5
-MALE,Masters,20-02-2015,Multi-vehicle Collision,Major Damage,Springfield,18,Toyota,Corolla
-FEMALE,Associate,24-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,0,Jeep,Wrangler
-FEMALE,Masters,31-01-2015,Multi-vehicle Collision,Major Damage,Columbus,11,Ford,Fusion
-MALE,Associate,23-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,13,Toyota,Corolla
-FEMALE,Associate,11-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,19,Jeep,Wrangler
-MALE,MD,20-02-2015,Single Vehicle Collision,Major Damage,Springfield,23,Volkswagen,Jetta
-MALE,Associate,24-02-2015,Parked Car,Trivial Damage,Northbend,23,Saab,93
-MALE,Associate,19-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,19,Accura,RSX
-MALE,MD,08-01-2015,Single Vehicle Collision,Major Damage,Northbend,19,Audi,A5
-FEMALE,MD,01-03-2015,Multi-vehicle Collision,Total Loss,Northbend,17,Mercedes,ML350
-MALE,Associate,21-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,18,Nissan,Pathfinder
-FEMALE,College,28-02-2015,Multi-vehicle Collision,Total Loss,Northbrook,17,Saab,95
-MALE,High School,26-01-2015,Multi-vehicle Collision,Total Loss,Springfield,11,Audi,A3
-MALE,Associate,31-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,22,Suburu,Impreza
-MALE,MD,20-02-2015,Single Vehicle Collision,Minor Damage,Columbus,7,Toyota,Camry
-FEMALE,College,17-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,17,Nissan,Pathfinder
-MALE,PhD,02-02-2015,Multi-vehicle Collision,Total Loss,Columbus,16,Suburu,Legacy
-FEMALE,MD,06-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,13,Accura,MDX
-FEMALE,Masters,11-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,17,Nissan,Pathfinder
-FEMALE,College,25-01-2015,Single Vehicle Collision,Minor Damage,Springfield,3,Suburu,Impreza
-FEMALE,Associate,23-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,15,Jeep,Wrangler
-FEMALE,Associate,29-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,16,Toyota,Camry
-FEMALE,Associate,02-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,18,Dodge,RAM
-FEMALE,JD,06-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,18,Accura,TL
-FEMALE,JD,14-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,22,Dodge,RAM
-FEMALE,College,04-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,15,Suburu,Forrestor
-MALE,JD,12-02-2015,Multi-vehicle Collision,Major Damage,Arlington,16,Ford,F150
-FEMALE,JD,12-02-2015,Single Vehicle Collision,Total Loss,Riverwood,18,Honda,CRV
-FEMALE,JD,28-01-2015,Parked Car,Minor Damage,Northbend,8,Jeep,Wrangler
-FEMALE,Associate,10-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,23,Ford,F150
-FEMALE,PhD,19-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,18,Chevrolet,Malibu
-FEMALE,JD,19-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,10,Mercedes,ML350
-MALE,MD,28-01-2015,Single Vehicle Collision,Major Damage,Arlington,12,Jeep,Wrangler
-FEMALE,Masters,16-02-2015,Vehicle Theft,Trivial Damage,Springfield,5,Saab,93
-MALE,MD,08-01-2015,Multi-vehicle Collision,Total Loss,Northbend,21,Saab,93
-FEMALE,PhD,24-01-2015,Multi-vehicle Collision,Major Damage,Columbus,17,Chevrolet,Silverado
-MALE,MD,18-02-2015,Single Vehicle Collision,Total Loss,Arlington,4,Mercedes,E400
-MALE,MD,21-01-2015,Single Vehicle Collision,Major Damage,Northbrook,11,Dodge,RAM
-MALE,MD,08-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,18,BMW,X5
-FEMALE,High School,02-02-2015,Single Vehicle Collision,Total Loss,Northbrook,12,BMW,3 Series
-FEMALE,Associate,01-03-2015,Multi-vehicle Collision,Major Damage,Riverwood,18,Audi,A5
-MALE,JD,04-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,16,BMW,M5
-MALE,JD,27-02-2015,Multi-vehicle Collision,Total Loss,Columbus,19,BMW,3 Series
-FEMALE,High School,09-02-2015,Single Vehicle Collision,Total Loss,Riverwood,13,Audi,A3
-MALE,College,19-02-2015,Parked Car,Minor Damage,Arlington,4,Honda,Civic
-FEMALE,MD,12-01-2015,Single Vehicle Collision,Major Damage,Northbrook,8,Accura,TL
-FEMALE,Masters,07-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,19,Volkswagen,Jetta
-FEMALE,JD,13-01-2015,Single Vehicle Collision,Total Loss,Northbend,18,Suburu,Legacy
-FEMALE,MD,18-01-2015,Multi-vehicle Collision,Total Loss,Arlington,9,Saab,95
-MALE,Masters,15-01-2015,Vehicle Theft,Trivial Damage,Columbus,6,Jeep,Wrangler
-MALE,High School,23-02-2015,Vehicle Theft,Minor Damage,Arlington,8,Dodge,Neon
-MALE,MD,17-02-2015,Parked Car,Minor Damage,Springfield,6,Suburu,Impreza
-MALE,High School,17-02-2015,Multi-vehicle Collision,Major Damage,Northbend,23,Saab,92x
-MALE,Associate,18-01-2015,Parked Car,Trivial Damage,Riverwood,13,Saab,92x
-FEMALE,JD,17-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,3,Jeep,Wrangler
-FEMALE,PhD,25-02-2015,Single Vehicle Collision,Major Damage,Northbrook,23,Chevrolet,Malibu
-FEMALE,Associate,06-01-2015,Vehicle Theft,Minor Damage,Arlington,8,Saab,92x
-MALE,Associate,26-02-2015,Single Vehicle Collision,Total Loss,Columbus,23,Mercedes,C300
-FEMALE,High School,11-02-2015,Single Vehicle Collision,Total Loss,Northbrook,23,Nissan,Pathfinder
-MALE,JD,13-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,9,Honda,Accord
-MALE,PhD,10-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,22,Volkswagen,Jetta
-FEMALE,High School,24-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,22,Saab,95
-MALE,Associate,15-02-2015,Multi-vehicle Collision,Major Damage,Northbend,15,Chevrolet,Silverado
-MALE,JD,09-01-2015,Multi-vehicle Collision,Major Damage,Columbus,16,BMW,X5
-FEMALE,High School,31-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,17,Saab,92x
-MALE,MD,04-02-2015,Vehicle Theft,Minor Damage,Northbrook,3,Honda,Civic
-FEMALE,Masters,30-01-2015,Multi-vehicle Collision,Total Loss,Northbend,10,Jeep,Wrangler
-FEMALE,College,27-02-2015,Single Vehicle Collision,Minor Damage,Springfield,9,Nissan,Pathfinder
-MALE,JD,05-02-2015,Multi-vehicle Collision,Total Loss,Northbend,13,Jeep,Wrangler
-MALE,Masters,30-01-2015,Multi-vehicle Collision,Major Damage,Northbend,15,Accura,RSX
-MALE,MD,03-01-2015,Single Vehicle Collision,Minor Damage,Springfield,23,Honda,CRV
-FEMALE,JD,01-03-2015,Multi-vehicle Collision,Major Damage,Riverwood,2,Honda,Accord
-FEMALE,High School,13-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,14,Mercedes,C300
-MALE,High School,25-02-2015,Vehicle Theft,Trivial Damage,Hillsdale,7,Honda,Civic
-MALE,PhD,23-01-2015,Single Vehicle Collision,Major Damage,Columbus,23,Mercedes,C300
-MALE,College,19-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,7,Toyota,Corolla
-MALE,High School,08-02-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,8,Dodge,RAM
-MALE,JD,04-02-2015,Single Vehicle Collision,Total Loss,Northbrook,17,Accura,MDX
-FEMALE,College,22-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,10,BMW,M5
-MALE,MD,14-01-2015,Vehicle Theft,Minor Damage,Columbus,9,Nissan,Ultima
-FEMALE,PhD,06-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,2,Accura,RSX
-FEMALE,MD,19-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,18,Honda,Accord
-FEMALE,Associate,24-01-2015,Vehicle Theft,Minor Damage,Arlington,4,Jeep,Wrangler
-FEMALE,Masters,27-01-2015,Single Vehicle Collision,Total Loss,Columbus,12,BMW,X6
-MALE,Masters,13-01-2015,Single Vehicle Collision,Major Damage,Northbrook,15,Dodge,RAM
-MALE,Associate,15-01-2015,Vehicle Theft,Trivial Damage,Springfield,9,Audi,A5
-FEMALE,JD,04-02-2015,Single Vehicle Collision,Major Damage,Arlington,6,Toyota,Camry
-FEMALE,JD,04-01-2015,Multi-vehicle Collision,Major Damage,Springfield,11,Saab,93
-FEMALE,College,14-01-2015,Multi-vehicle Collision,Total Loss,Columbus,13,Nissan,Ultima
-MALE,JD,27-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,4,Honda,Civic
-FEMALE,Masters,12-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,20,Dodge,Neon
-FEMALE,College,03-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,0,Toyota,Highlander
-FEMALE,JD,26-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,18,Toyota,Highlander
-MALE,High School,09-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,6,Honda,CRV
-FEMALE,High School,17-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,23,Jeep,Grand Cherokee
-FEMALE,PhD,16-01-2015,Single Vehicle Collision,Major Damage,Northbrook,4,Toyota,Corolla
-FEMALE,MD,12-01-2015,Multi-vehicle Collision,Major Damage,Arlington,21,Dodge,RAM
-FEMALE,Associate,03-01-2015,Parked Car,Minor Damage,Springfield,7,Suburu,Impreza
-FEMALE,PhD,22-01-2015,Multi-vehicle Collision,Major Damage,Columbus,19,Volkswagen,Passat
-FEMALE,PhD,13-01-2015,Parked Car,Minor Damage,Arlington,5,Volkswagen,Passat
-FEMALE,Associate,31-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,22,Audi,A3
-MALE,Associate,04-02-2015,Single Vehicle Collision,Total Loss,Northbrook,12,Jeep,Grand Cherokee
-MALE,High School,20-01-2015,Multi-vehicle Collision,Total Loss,Springfield,19,Suburu,Forrestor
-FEMALE,JD,07-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,10,Audi,A5
-FEMALE,Masters,05-02-2015,Single Vehicle Collision,Minor Damage,Columbus,7,Suburu,Legacy
-MALE,Masters,02-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,17,Suburu,Forrestor
-FEMALE,PhD,08-02-2015,Multi-vehicle Collision,Total Loss,Arlington,0,Ford,Escape
-FEMALE,College,13-01-2015,Parked Car,Minor Damage,Arlington,9,Toyota,Camry
-FEMALE,Masters,16-01-2015,Single Vehicle Collision,Total Loss,Riverwood,21,Nissan,Maxima
-FEMALE,JD,30-01-2015,Multi-vehicle Collision,Total Loss,Northbend,22,Audi,A3
-MALE,High School,26-02-2015,Vehicle Theft,Minor Damage,Hillsdale,3,Volkswagen,Jetta
-FEMALE,JD,27-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,16,Honda,CRV
-MALE,JD,28-01-2015,Single Vehicle Collision,Total Loss,Riverwood,14,Nissan,Maxima
-MALE,Masters,23-02-2015,Multi-vehicle Collision,Total Loss,Springfield,21,Toyota,Camry
-FEMALE,High School,18-01-2015,Single Vehicle Collision,Minor Damage,Columbus,19,Chevrolet,Silverado
-MALE,Masters,15-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,13,Dodge,RAM
-FEMALE,High School,04-02-2015,Vehicle Theft,Minor Damage,Hillsdale,21,Saab,92x
-FEMALE,JD,12-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,11,Toyota,Camry
-FEMALE,Associate,02-01-2015,Vehicle Theft,Trivial Damage,Columbus,16,Accura,MDX
-FEMALE,PhD,27-01-2015,Single Vehicle Collision,Total Loss,Arlington,9,Chevrolet,Silverado
-FEMALE,MD,09-02-2015,Vehicle Theft,Minor Damage,Riverwood,8,BMW,3 Series
-FEMALE,High School,06-02-2015,Vehicle Theft,Minor Damage,Springfield,7,Volkswagen,Jetta
-MALE,Masters,03-01-2015,Single Vehicle Collision,Minor Damage,Arlington,12,BMW,3 Series
-FEMALE,MD,12-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,21,Jeep,Grand Cherokee
-FEMALE,Associate,22-01-2015,Single Vehicle Collision,Major Damage,Arlington,4,Nissan,Ultima
-FEMALE,MD,03-01-2015,Multi-vehicle Collision,Major Damage,Northbend,18,Accura,MDX
-MALE,High School,23-02-2015,Vehicle Theft,Trivial Damage,Northbend,7,Accura,MDX
-MALE,MD,22-01-2015,Single Vehicle Collision,Total Loss,Northbrook,13,Ford,Escape
-FEMALE,Associate,13-02-2015,Single Vehicle Collision,Total Loss,Northbend,0,Mercedes,C300
-MALE,College,08-02-2015,Single Vehicle Collision,Major Damage,Northbend,22,Jeep,Grand Cherokee
-MALE,PhD,09-01-2015,Single Vehicle Collision,Major Damage,Columbus,15,Suburu,Impreza
-FEMALE,JD,08-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,3,Chevrolet,Tahoe
-FEMALE,JD,10-01-2015,Multi-vehicle Collision,Total Loss,Northbend,18,Ford,Escape
-FEMALE,Associate,26-01-2015,Multi-vehicle Collision,Major Damage,Arlington,17,Accura,RSX
-MALE,Associate,21-02-2015,Multi-vehicle Collision,Major Damage,Springfield,18,Suburu,Impreza
-FEMALE,High School,23-01-2015,Single Vehicle Collision,Total Loss,Columbus,11,Dodge,Neon
-FEMALE,Masters,05-02-2015,Single Vehicle Collision,Total Loss,Columbus,17,Saab,95
-MALE,PhD,15-02-2015,Single Vehicle Collision,Minor Damage,Northbend,12,Suburu,Forrestor
-MALE,College,08-01-2015,Multi-vehicle Collision,Total Loss,Northbend,15,Dodge,Neon
-MALE,High School,01-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,0,BMW,M5
-FEMALE,JD,26-02-2015,Parked Car,Trivial Damage,Arlington,9,Suburu,Legacy
-MALE,MD,28-02-2015,Single Vehicle Collision,Total Loss,Springfield,1,Toyota,Corolla
-MALE,High School,13-01-2015,Single Vehicle Collision,Major Damage,Columbus,22,Jeep,Wrangler
-MALE,College,19-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,11,Toyota,Highlander
-MALE,JD,13-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,10,Chevrolet,Tahoe
-FEMALE,High School,17-02-2015,Single Vehicle Collision,Minor Damage,Columbus,5,Honda,Civic
-FEMALE,High School,15-02-2015,Multi-vehicle Collision,Total Loss,Arlington,3,Chevrolet,Malibu
-FEMALE,MD,31-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,18,Jeep,Grand Cherokee
-MALE,MD,06-02-2015,Single Vehicle Collision,Total Loss,Riverwood,21,Accura,TL
-MALE,MD,23-01-2015,Multi-vehicle Collision,Major Damage,Springfield,6,Nissan,Pathfinder
-MALE,MD,17-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,20,Volkswagen,Passat
-MALE,High School,22-01-2015,Parked Car,Minor Damage,Northbend,6,Honda,Civic
-FEMALE,Masters,22-02-2015,Single Vehicle Collision,Minor Damage,Northbrook,20,Honda,Accord
-FEMALE,PhD,24-01-2015,Single Vehicle Collision,Major Damage,Northbend,23,Volkswagen,Passat
-FEMALE,Masters,23-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,4,Suburu,Impreza
-MALE,Associate,26-02-2015,Single Vehicle Collision,Major Damage,Arlington,2,Audi,A5
-FEMALE,Associate,26-02-2015,Parked Car,Minor Damage,Columbus,6,Mercedes,E400
+insured_sex,insured_education_level,incident_date,incident_type,incident_severity,incident_city,incident_hour_of_the_day,auto_make,auto_model,insured_hobbies
+MALE,MD,25-01-2015,Single Vehicle Collision,Major Damage,Columbus,5,Saab,92x,sleeping
+MALE,MD,21-01-2015,Vehicle Theft,Minor Damage,Riverwood,8,Mercedes,E400,reading
+FEMALE,PhD,22-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,7,Dodge,RAM,board-games
+FEMALE,PhD,10-01-2015,Single Vehicle Collision,Major Damage,Arlington,5,Chevrolet,Tahoe,board-games
+MALE,Associate,17-02-2015,Vehicle Theft,Minor Damage,Arlington,20,Accura,RSX,board-games
+FEMALE,PhD,02-01-2015,Multi-vehicle Collision,Major Damage,Arlington,19,Saab,95,bungie-jumping
+MALE,PhD,13-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,0,Nissan,Pathfinder,board-games
+MALE,Associate,27-02-2015,Multi-vehicle Collision,Total Loss,Columbus,23,Audi,A5,base-jumping
+FEMALE,PhD,30-01-2015,Single Vehicle Collision,Total Loss,Arlington,21,Toyota,Camry,golf
+MALE,PhD,05-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,14,Saab,92x,camping
+FEMALE,Masters,06-01-2015,Single Vehicle Collision,Total Loss,Northbend,22,Ford,F150,dancing
+FEMALE,High School,15-02-2015,Multi-vehicle Collision,Major Damage,Springfield,21,Audi,A3,skydiving
+MALE,MD,22-01-2015,Single Vehicle Collision,Total Loss,Northbend,9,Saab,95,reading
+FEMALE,MD,08-01-2015,Parked Car,Minor Damage,Springfield,5,Toyota,Highlander,bungie-jumping
+FEMALE,College,15-01-2015,Single Vehicle Collision,Total Loss,Springfield,12,Dodge,Neon,board-games
+FEMALE,MD,29-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,12,Accura,MDX,movies
+MALE,College,22-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,0,Nissan,Maxima,hiking
+MALE,High School,06-01-2015,Single Vehicle Collision,Total Loss,Northbend,9,Suburu,Legacy,reading
+FEMALE,MD,19-01-2015,Single Vehicle Collision,Total Loss,Northbrook,19,Accura,TL,yachting
+FEMALE,High School,22-02-2015,Multi-vehicle Collision,Major Damage,Columbus,8,Nissan,Pathfinder,camping
+MALE,JD,01-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,20,Suburu,Impreza,bungie-jumping
+FEMALE,Associate,10-02-2015,Multi-vehicle Collision,Total Loss,Arlington,15,Accura,RSX,skydiving
+MALE,High School,11-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,20,Suburu,Forrestor,paintball
+MALE,MD,19-01-2015,Single Vehicle Collision,Total Loss,Northbend,15,Dodge,RAM,chess
+MALE,College,24-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,6,Ford,Escape,kayaking
+MALE,Masters,09-01-2015,Multi-vehicle Collision,Major Damage,Arlington,16,Ford,Escape,polo
+MALE,High School,28-01-2015,Parked Car,Minor Damage,Arlington,4,Toyota,Camry,golf
+MALE,JD,07-01-2015,Vehicle Theft,Minor Damage,Northbrook,5,Suburu,Forrestor,chess
+FEMALE,JD,08-01-2015,Single Vehicle Collision,Minor Damage,Northbend,21,Dodge,Neon,kayaking
+FEMALE,PhD,15-02-2015,Single Vehicle Collision,Minor Damage,Northbrook,5,Accura,TL,basketball
+MALE,Masters,18-01-2015,Multi-vehicle Collision,Major Damage,Columbus,22,Toyota,Corolla,video-games
+MALE,JD,28-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,10,Ford,F150,reading
+FEMALE,Associate,24-02-2015,Multi-vehicle Collision,Total Loss,Arlington,16,BMW,3 Series,yachting
+MALE,High School,09-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,1,Suburu,Impreza,video-games
+MALE,PhD,12-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,17,Audi,A3,yachting
+MALE,High School,24-01-2015,Single Vehicle Collision,Major Damage,Springfield,15,Mercedes,C300,reading
+FEMALE,Masters,09-01-2015,Single Vehicle Collision,Total Loss,Northbrook,3,Suburu,Forrestor,camping
+FEMALE,JD,18-01-2015,Parked Car,Minor Damage,Arlington,16,Suburu,Legacy,golf
+FEMALE,MD,21-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,4,Jeep,Wrangler,bungie-jumping
+MALE,JD,08-01-2015,Single Vehicle Collision,Major Damage,Columbus,4,Nissan,Pathfinder,video-games
+MALE,Associate,03-01-2015,Single Vehicle Collision,Minor Damage,Columbus,19,BMW,M5,kayaking
+MALE,Associate,01-01-2015,Single Vehicle Collision,Major Damage,Northbrook,1,BMW,X5,chess
+FEMALE,College,16-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,17,Dodge,RAM,hiking
+FEMALE,PhD,10-02-2015,Single Vehicle Collision,Total Loss,Arlington,23,Mercedes,E400,reading
+MALE,JD,14-02-2015,Single Vehicle Collision,Minor Damage,Springfield,14,Toyota,Highlander,reading
+FEMALE,MD,21-02-2015,Multi-vehicle Collision,Total Loss,Arlington,17,Accura,MDX,yachting
+FEMALE,Associate,18-02-2015,Multi-vehicle Collision,Total Loss,Northbend,11,Honda,Civic,polo
+MALE,College,10-01-2015,Multi-vehicle Collision,Major Damage,Arlington,19,Audi,A3,kayaking
+FEMALE,PhD,26-02-2015,Vehicle Theft,Trivial Damage,Arlington,5,Volkswagen,Passat,dancing
+FEMALE,Masters,01-01-2015,Single Vehicle Collision,Total Loss,Springfield,19,Mercedes,C300,movies
+MALE,MD,03-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,19,Nissan,Pathfinder,bungie-jumping
+FEMALE,JD,17-01-2015,Vehicle Theft,Trivial Damage,Arlington,4,BMW,M5,polo
+MALE,College,22-02-2015,Vehicle Theft,Minor Damage,Northbend,8,Toyota,Corolla,basketball
+FEMALE,JD,27-01-2015,Multi-vehicle Collision,Major Damage,Columbus,7,Suburu,Forrestor,movies
+MALE,PhD,27-02-2015,Parked Car,Minor Damage,Northbend,5,Ford,F150,movies
+MALE,PhD,06-01-2015,Single Vehicle Collision,Minor Damage,Arlington,3,Chevrolet,Silverado,skydiving
+FEMALE,PhD,28-02-2015,Multi-vehicle Collision,Major Damage,Columbus,12,Honda,CRV,chess
+FEMALE,Masters,22-02-2015,Parked Car,Minor Damage,Riverwood,19,Chevrolet,Silverado,hiking
+MALE,PhD,07-01-2015,Single Vehicle Collision,Total Loss,Riverwood,22,Saab,93,yachting
+FEMALE,MD,06-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,12,Ford,Escape,kayaking
+MALE,PhD,10-01-2015,Multi-vehicle Collision,Major Damage,Springfield,15,Nissan,Maxima,base-jumping
+MALE,JD,11-02-2015,Multi-vehicle Collision,Total Loss,Springfield,23,Honda,Accord,basketball
+MALE,High School,12-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,12,BMW,M5,bungie-jumping
+MALE,JD,06-02-2015,Multi-vehicle Collision,Major Damage,Northbend,20,Suburu,Legacy,video-games
+MALE,PhD,20-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,16,Ford,Escape,chess
+FEMALE,MD,22-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,6,Dodge,Neon,chess
+FEMALE,High School,30-01-2015,Single Vehicle Collision,Minor Damage,Springfield,12,Audi,A5,paintball
+FEMALE,Associate,02-02-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,17,BMW,X6,reading
+MALE,MD,10-01-2015,Single Vehicle Collision,Major Damage,Northbrook,8,Audi,A5,movies
+MALE,MD,27-02-2015,Parked Car,Minor Damage,Riverwood,13,Ford,F150,kayaking
+FEMALE,Associate,20-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,12,Audi,A3,sleeping
+FEMALE,MD,08-02-2015,Single Vehicle Collision,Total Loss,Northbrook,7,Honda,Civic,cross-fit
+FEMALE,Associate,11-02-2015,Single Vehicle Collision,Minor Damage,Arlington,10,Chevrolet,Malibu,paintball
+FEMALE,College,23-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,7,Mercedes,C300,golf
+FEMALE,Associate,01-03-2015,Multi-vehicle Collision,Minor Damage,Springfield,18,BMW,X6,yachting
+FEMALE,High School,15-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,22,Ford,Fusion,bungie-jumping
+FEMALE,College,14-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,18,Suburu,Legacy,golf
+MALE,College,17-02-2015,Multi-vehicle Collision,Total Loss,Northbrook,22,Audi,A3,dancing
+FEMALE,JD,24-01-2015,Vehicle Theft,Minor Damage,Springfield,15,Saab,95,kayaking
+FEMALE,PhD,21-01-2015,Single Vehicle Collision,Major Damage,Northbrook,16,BMW,M5,polo
+MALE,High School,19-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,6,Accura,MDX,paintball
+FEMALE,Masters,03-01-2015,Vehicle Theft,Trivial Damage,Northbrook,10,Accura,TL,video-games
+MALE,Masters,29-01-2015,Vehicle Theft,Minor Damage,Northbrook,3,Nissan,Maxima,bungie-jumping
+MALE,High School,19-01-2015,Vehicle Theft,Trivial Damage,Hillsdale,13,Volkswagen,Jetta,video-games
+MALE,Masters,19-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,16,Audi,A3,movies
+MALE,High School,02-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,13,Suburu,Legacy,board-games
+FEMALE,Associate,30-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,9,Ford,F150,yachting
+FEMALE,MD,08-01-2015,Single Vehicle Collision,Total Loss,Springfield,2,BMW,3 Series,yachting
+FEMALE,College,30-01-2015,Parked Car,Trivial Damage,Arlington,9,Dodge,Neon,kayaking
+FEMALE,College,07-01-2015,Multi-vehicle Collision,Major Damage,Columbus,12,Accura,MDX,exercise
+FEMALE,High School,24-02-2015,Multi-vehicle Collision,Total Loss,Arlington,12,Saab,93,board-games
+FEMALE,Associate,02-02-2015,Single Vehicle Collision,Major Damage,Columbus,14,Honda,Accord,exercise
+MALE,PhD,28-02-2015,Parked Car,Trivial Damage,Springfield,9,BMW,X5,yachting
+FEMALE,MD,09-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,3,Ford,Fusion,exercise
+FEMALE,High School,19-01-2015,Multi-vehicle Collision,Total Loss,Northbend,21,Mercedes,ML350,hiking
+FEMALE,PhD,21-02-2015,Vehicle Theft,Minor Damage,Northbrook,5,Toyota,Highlander,exercise
+FEMALE,Associate,14-01-2015,Single Vehicle Collision,Major Damage,Springfield,11,Dodge,RAM,hiking
+MALE,Masters,22-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,4,Nissan,Pathfinder,skydiving
+FEMALE,College,22-02-2015,Parked Car,Trivial Damage,Columbus,6,Saab,95,kayaking
+MALE,College,26-01-2015,Vehicle Theft,Trivial Damage,Northbrook,10,Audi,A3,reading
+FEMALE,College,24-01-2015,Single Vehicle Collision,Minor Damage,Northbend,23,Saab,92x,yachting
+FEMALE,College,19-02-2015,Single Vehicle Collision,Major Damage,Northbend,13,Saab,95,exercise
+FEMALE,JD,29-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,16,Ford,Fusion,bungie-jumping
+FEMALE,Associate,15-02-2015,Parked Car,Minor Damage,Northbend,3,Toyota,Highlander,kayaking
+MALE,College,12-02-2015,Multi-vehicle Collision,Total Loss,Northbend,15,Chevrolet,Malibu,basketball
+MALE,College,01-01-2015,Vehicle Theft,Minor Damage,Columbus,4,Mercedes,E400,kayaking
+FEMALE,Associate,13-01-2015,Multi-vehicle Collision,Major Damage,Northbend,6,Saab,95,basketball
+FEMALE,High School,01-03-2015,Multi-vehicle Collision,Major Damage,Columbus,22,Volkswagen,Passat,camping
+FEMALE,PhD,02-02-2015,Single Vehicle Collision,Major Damage,Northbrook,1,Saab,93,basketball
+FEMALE,Masters,27-01-2015,Multi-vehicle Collision,Major Damage,Springfield,16,Nissan,Ultima,chess
+FEMALE,College,12-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,18,Dodge,RAM,video-games
+MALE,PhD,06-01-2015,Single Vehicle Collision,Major Damage,Springfield,0,Ford,F150,dancing
+MALE,High School,30-01-2015,Multi-vehicle Collision,Total Loss,Columbus,12,BMW,X5,polo
+MALE,MD,01-03-2015,Multi-vehicle Collision,Major Damage,Hillsdale,13,Saab,93,camping
+MALE,Associate,24-02-2015,Vehicle Theft,Minor Damage,Northbrook,9,Ford,F150,reading
+MALE,MD,24-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,14,Accura,MDX,hiking
+FEMALE,PhD,26-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,16,Suburu,Legacy,bungie-jumping
+MALE,High School,19-01-2015,Multi-vehicle Collision,Major Damage,Northbend,20,Toyota,Highlander,exercise
+FEMALE,PhD,17-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,4,Ford,Fusion,yachting
+FEMALE,Associate,20-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,7,BMW,3 Series,camping
+MALE,High School,22-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,22,Volkswagen,Passat,board-games
+FEMALE,MD,23-01-2015,Single Vehicle Collision,Major Damage,Northbrook,11,Ford,Fusion,video-games
+FEMALE,Masters,31-01-2015,Single Vehicle Collision,Major Damage,Columbus,7,Nissan,Maxima,skydiving
+FEMALE,College,05-01-2015,Multi-vehicle Collision,Total Loss,Arlington,0,Accura,MDX,movies
+FEMALE,JD,03-02-2015,Single Vehicle Collision,Total Loss,Northbend,1,BMW,X5,paintball
+MALE,JD,17-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,12,Ford,Escape,dancing
+MALE,MD,09-01-2015,Single Vehicle Collision,Total Loss,Columbus,8,Suburu,Impreza,video-games
+FEMALE,High School,08-02-2015,Parked Car,Minor Damage,Northbrook,9,BMW,M5,exercise
+MALE,College,06-02-2015,Single Vehicle Collision,Major Damage,Northbend,22,BMW,X5,basketball
+FEMALE,Masters,14-01-2015,Multi-vehicle Collision,Major Damage,Northbend,0,Saab,92x,sleeping
+MALE,JD,22-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,0,Ford,Escape,camping
+MALE,Masters,23-02-2015,Multi-vehicle Collision,Major Damage,Columbus,3,Dodge,RAM,paintball
+FEMALE,Masters,22-02-2015,Multi-vehicle Collision,Major Damage,Arlington,21,Nissan,Pathfinder,exercise
+FEMALE,High School,24-01-2015,Single Vehicle Collision,Total Loss,Northbend,0,Jeep,Wrangler,skydiving
+MALE,PhD,09-02-2015,Single Vehicle Collision,Minor Damage,Northbend,16,BMW,3 Series,basketball
+FEMALE,College,19-01-2015,Single Vehicle Collision,Major Damage,Springfield,14,Volkswagen,Passat,yachting
+FEMALE,High School,01-01-2015,Vehicle Theft,Minor Damage,Riverwood,9,Ford,Escape,exercise
+FEMALE,PhD,07-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,9,BMW,X5,golf
+FEMALE,High School,01-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,21,Toyota,Camry,basketball
+FEMALE,MD,21-02-2015,Multi-vehicle Collision,Total Loss,Springfield,19,BMW,X5,hiking
+MALE,Masters,21-01-2015,Single Vehicle Collision,Total Loss,Northbend,2,Mercedes,E400,camping
+MALE,Masters,19-01-2015,Vehicle Theft,Trivial Damage,Northbrook,9,Suburu,Forrestor,video-games
+MALE,PhD,27-02-2015,Parked Car,Minor Damage,Northbend,5,Chevrolet,Silverado,video-games
+MALE,MD,14-02-2015,Single Vehicle Collision,Major Damage,Springfield,14,Accura,MDX,yachting
+FEMALE,JD,01-02-2015,Multi-vehicle Collision,Total Loss,Springfield,20,Accura,MDX,video-games
+FEMALE,Associate,02-02-2015,Single Vehicle Collision,Major Damage,Northbrook,18,Accura,TL,cross-fit
+MALE,Masters,01-02-2015,Multi-vehicle Collision,Major Damage,Northbend,13,BMW,X6,polo
+FEMALE,MD,19-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,21,Nissan,Pathfinder,golf
+MALE,PhD,18-02-2015,Single Vehicle Collision,Major Damage,Springfield,14,Volkswagen,Jetta,reading
+FEMALE,JD,08-02-2015,Single Vehicle Collision,Major Damage,Springfield,1,Suburu,Impreza,skydiving
+FEMALE,PhD,09-01-2015,Single Vehicle Collision,Total Loss,Columbus,17,Audi,A3,base-jumping
+MALE,Masters,27-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,4,Mercedes,C300,polo
+MALE,High School,08-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,23,Volkswagen,Jetta,kayaking
+FEMALE,Masters,08-01-2015,Multi-vehicle Collision,Total Loss,Columbus,13,Suburu,Forrestor,paintball
+FEMALE,Masters,24-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,20,Saab,93,reading
+MALE,Associate,12-02-2015,Single Vehicle Collision,Major Damage,Riverwood,16,Audi,A5,bungie-jumping
+MALE,JD,18-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,10,Jeep,Wrangler,exercise
+FEMALE,JD,06-02-2015,Parked Car,Minor Damage,Northbend,8,Saab,92x,hiking
+MALE,Masters,14-02-2015,Multi-vehicle Collision,Total Loss,Springfield,17,Suburu,Legacy,movies
+FEMALE,JD,05-02-2015,Vehicle Theft,Minor Damage,Columbus,9,Honda,Accord,video-games
+FEMALE,Associate,25-01-2015,Parked Car,Minor Damage,Springfield,0,Mercedes,E400,reading
+FEMALE,MD,16-01-2015,Single Vehicle Collision,Total Loss,Northbrook,12,Chevrolet,Silverado,dancing
+FEMALE,MD,28-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,20,Volkswagen,Passat,polo
+FEMALE,Masters,21-01-2015,Single Vehicle Collision,Major Damage,Arlington,3,Dodge,Neon,sleeping
+FEMALE,Masters,07-01-2015,Multi-vehicle Collision,Total Loss,Columbus,18,Mercedes,E400,polo
+FEMALE,PhD,23-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,4,Suburu,Legacy,bungie-jumping
+FEMALE,Associate,14-02-2015,Single Vehicle Collision,Major Damage,Riverwood,18,Audi,A5,board-games
+MALE,High School,27-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,18,Saab,95,yachting
+FEMALE,Masters,21-02-2015,Parked Car,Trivial Damage,Hillsdale,7,Toyota,Highlander,bungie-jumping
+MALE,High School,05-01-2015,Parked Car,Minor Damage,Hillsdale,18,Jeep,Wrangler,movies
+MALE,Associate,30-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,23,Jeep,Wrangler,hiking
+MALE,High School,26-02-2015,Single Vehicle Collision,Total Loss,Riverwood,1,Volkswagen,Jetta,hiking
+MALE,College,10-01-2015,Multi-vehicle Collision,Total Loss,Arlington,15,Dodge,Neon,board-games
+FEMALE,MD,23-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,2,Volkswagen,Jetta,kayaking
+FEMALE,PhD,05-02-2015,Vehicle Theft,Trivial Damage,Riverwood,3,Ford,Fusion,kayaking
+MALE,MD,21-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,13,Jeep,Wrangler,board-games
+MALE,Masters,07-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,1,Honda,Civic,dancing
+FEMALE,PhD,11-01-2015,Single Vehicle Collision,Minor Damage,Columbus,16,Volkswagen,Jetta,kayaking
+FEMALE,Masters,06-02-2015,Single Vehicle Collision,Total Loss,Northbend,0,Chevrolet,Malibu,skydiving
+MALE,MD,24-01-2015,Vehicle Theft,Trivial Damage,Hillsdale,1,Chevrolet,Silverado,exercise
+MALE,Associate,18-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,17,Audi,A3,basketball
+FEMALE,Masters,12-01-2015,Single Vehicle Collision,Minor Damage,Springfield,13,Dodge,Neon,reading
+FEMALE,Masters,17-01-2015,Single Vehicle Collision,Total Loss,Springfield,12,Accura,RSX,exercise
+MALE,JD,12-01-2015,Single Vehicle Collision,Minor Damage,Northbend,11,Chevrolet,Malibu,cross-fit
+MALE,Masters,06-01-2015,Single Vehicle Collision,Major Damage,Northbend,18,Mercedes,C300,sleeping
+MALE,JD,25-02-2015,Single Vehicle Collision,Total Loss,Northbend,17,Mercedes,C300,cross-fit
+FEMALE,JD,16-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,22,Audi,A3,bungie-jumping
+FEMALE,JD,25-02-2015,Vehicle Theft,Minor Damage,Northbrook,9,Chevrolet,Tahoe,exercise
+FEMALE,High School,21-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,11,Honda,Civic,hiking
+FEMALE,High School,16-02-2015,Single Vehicle Collision,Total Loss,Columbus,11,Honda,CRV,polo
+MALE,Associate,09-02-2015,Parked Car,Minor Damage,Riverwood,8,Volkswagen,Passat,movies
+MALE,JD,13-02-2015,Single Vehicle Collision,Minor Damage,Springfield,18,Nissan,Maxima,hiking
+FEMALE,MD,11-01-2015,Single Vehicle Collision,Total Loss,Arlington,13,Mercedes,C300,basketball
+MALE,High School,02-01-2015,Vehicle Theft,Minor Damage,Hillsdale,8,Nissan,Maxima,hiking
+MALE,MD,12-02-2015,Multi-vehicle Collision,Total Loss,Northbrook,9,Chevrolet,Tahoe,basketball
+MALE,High School,05-02-2015,Multi-vehicle Collision,Total Loss,Columbus,17,Saab,95,bungie-jumping
+MALE,MD,24-01-2015,Vehicle Theft,Trivial Damage,Springfield,3,Jeep,Grand Cherokee,skydiving
+FEMALE,MD,12-01-2015,Parked Car,Trivial Damage,Arlington,6,Accura,MDX,camping
+MALE,Masters,16-01-2015,Single Vehicle Collision,Major Damage,Riverwood,17,Honda,Civic,bungie-jumping
+FEMALE,College,13-01-2015,Vehicle Theft,Minor Damage,Arlington,7,BMW,3 Series,paintball
+MALE,PhD,02-02-2015,Vehicle Theft,Trivial Damage,Hillsdale,9,Suburu,Impreza,golf
+MALE,PhD,28-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,3,Suburu,Legacy,base-jumping
+FEMALE,High School,18-01-2015,Parked Car,Trivial Damage,Springfield,6,Chevrolet,Malibu,board-games
+MALE,PhD,15-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,7,Chevrolet,Tahoe,paintball
+MALE,JD,31-01-2015,Multi-vehicle Collision,Total Loss,Northbend,21,Saab,93,kayaking
+FEMALE,Masters,10-02-2015,Single Vehicle Collision,Minor Damage,Springfield,14,BMW,M5,exercise
+FEMALE,College,26-02-2015,Single Vehicle Collision,Total Loss,Columbus,0,Ford,F150,chess
+MALE,Masters,25-02-2015,Multi-vehicle Collision,Major Damage,Springfield,14,Audi,A3,golf
+MALE,JD,08-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,13,Mercedes,C300,hiking
+MALE,Associate,14-01-2015,Parked Car,Trivial Damage,Columbus,8,Suburu,Legacy,reading
+FEMALE,High School,03-02-2015,Vehicle Theft,Minor Damage,Hillsdale,7,Toyota,Corolla,movies
+MALE,High School,05-01-2015,Vehicle Theft,Trivial Damage,Columbus,9,Dodge,RAM,skydiving
+MALE,High School,24-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,12,Volkswagen,Passat,yachting
+FEMALE,MD,26-01-2015,Multi-vehicle Collision,Major Damage,Springfield,6,Dodge,Neon,reading
+FEMALE,JD,21-01-2015,Single Vehicle Collision,Total Loss,Columbus,11,Suburu,Legacy,cross-fit
+MALE,PhD,06-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,5,Audi,A3,bungie-jumping
+FEMALE,High School,07-01-2015,Single Vehicle Collision,Minor Damage,Columbus,14,Audi,A5,base-jumping
+MALE,Masters,10-02-2015,Vehicle Theft,Trivial Damage,Springfield,17,BMW,X5,yachting
+FEMALE,MD,23-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,0,Saab,92x,exercise
+MALE,College,09-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,21,BMW,X6,camping
+MALE,College,22-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,18,Honda,Civic,base-jumping
+FEMALE,College,21-02-2015,Single Vehicle Collision,Minor Damage,Springfield,17,Jeep,Grand Cherokee,exercise
+FEMALE,High School,04-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,19,Chevrolet,Silverado,yachting
+MALE,Associate,07-01-2015,Multi-vehicle Collision,Total Loss,Columbus,17,Mercedes,E400,board-games
+FEMALE,Associate,17-01-2015,Multi-vehicle Collision,Major Damage,Arlington,23,Accura,MDX,kayaking
+MALE,Masters,28-01-2015,Single Vehicle Collision,Total Loss,Springfield,4,Jeep,Wrangler,basketball
+FEMALE,High School,22-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,2,Accura,RSX,paintball
+FEMALE,Associate,16-02-2015,Single Vehicle Collision,Major Damage,Arlington,2,Toyota,Corolla,bungie-jumping
+FEMALE,MD,17-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,10,Saab,93,kayaking
+FEMALE,MD,09-01-2015,Single Vehicle Collision,Minor Damage,Columbus,2,Accura,MDX,dancing
+FEMALE,High School,09-02-2015,Single Vehicle Collision,Total Loss,Columbus,18,Honda,CRV,base-jumping
+MALE,JD,16-02-2015,Single Vehicle Collision,Minor Damage,Arlington,18,Volkswagen,Passat,dancing
+FEMALE,Masters,18-02-2015,Multi-vehicle Collision,Total Loss,Springfield,7,Toyota,Highlander,exercise
+MALE,MD,11-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,19,Nissan,Pathfinder,paintball
+MALE,JD,04-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,10,Audi,A5,polo
+MALE,Masters,22-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,16,Nissan,Ultima,kayaking
+MALE,JD,10-01-2015,Single Vehicle Collision,Total Loss,Arlington,17,Dodge,RAM,golf
+MALE,MD,10-01-2015,Multi-vehicle Collision,Total Loss,Columbus,2,Audi,A3,cross-fit
+FEMALE,Associate,16-02-2015,Single Vehicle Collision,Major Damage,Springfield,19,Saab,92x,reading
+FEMALE,Masters,08-02-2015,Single Vehicle Collision,Minor Damage,Northbrook,0,Suburu,Legacy,dancing
+FEMALE,MD,26-01-2015,Single Vehicle Collision,Major Damage,Riverwood,16,Saab,92x,cross-fit
+FEMALE,College,01-02-2015,Single Vehicle Collision,Major Damage,Columbus,20,Chevrolet,Silverado,skydiving
+FEMALE,JD,02-02-2015,Parked Car,Trivial Damage,Hillsdale,10,Nissan,Ultima,camping
+FEMALE,College,06-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,21,Dodge,RAM,paintball
+MALE,Associate,01-01-2015,Vehicle Theft,Trivial Damage,Springfield,3,Mercedes,E400,board-games
+FEMALE,Associate,19-01-2015,Single Vehicle Collision,Major Damage,Arlington,7,Dodge,RAM,golf
+FEMALE,JD,17-01-2015,Single Vehicle Collision,Minor Damage,Northbend,19,Saab,92x,golf
+FEMALE,JD,01-02-2015,Multi-vehicle Collision,Total Loss,Columbus,15,Chevrolet,Tahoe,chess
+MALE,Masters,02-01-2015,Parked Car,Minor Damage,Hillsdale,7,Mercedes,E400,golf
+FEMALE,High School,20-02-2015,Single Vehicle Collision,Major Damage,Arlington,19,Chevrolet,Malibu,paintball
+FEMALE,Associate,05-02-2015,Multi-vehicle Collision,Total Loss,Springfield,13,Suburu,Forrestor,yachting
+MALE,MD,27-02-2015,Multi-vehicle Collision,Major Damage,Northbend,2,Ford,F150,yachting
+FEMALE,High School,27-01-2015,Vehicle Theft,Trivial Damage,Springfield,5,Saab,95,bungie-jumping
+MALE,PhD,26-01-2015,Single Vehicle Collision,Major Damage,Riverwood,21,Nissan,Maxima,movies
+FEMALE,JD,13-01-2015,Multi-vehicle Collision,Major Damage,Northbrook,21,Chevrolet,Tahoe,base-jumping
+FEMALE,High School,14-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,7,Dodge,RAM,golf
+MALE,Associate,22-02-2015,Multi-vehicle Collision,Total Loss,Arlington,16,Accura,TL,base-jumping
+MALE,Associate,17-01-2015,Single Vehicle Collision,Major Damage,Columbus,13,Mercedes,C300,cross-fit
+FEMALE,MD,02-02-2015,Vehicle Theft,Trivial Damage,Springfield,2,Toyota,Camry,base-jumping
+FEMALE,PhD,07-01-2015,Multi-vehicle Collision,Major Damage,Northbend,19,Suburu,Impreza,dancing
+FEMALE,Masters,02-02-2015,Parked Car,Trivial Damage,Riverwood,17,Dodge,Neon,skydiving
+MALE,PhD,07-02-2015,Single Vehicle Collision,Major Damage,Arlington,3,Ford,Fusion,reading
+MALE,College,18-01-2015,Multi-vehicle Collision,Major Damage,Arlington,17,Volkswagen,Passat,golf
+MALE,Masters,10-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,5,Dodge,RAM,base-jumping
+FEMALE,MD,30-01-2015,Single Vehicle Collision,Minor Damage,Northbend,9,Volkswagen,Passat,kayaking
+FEMALE,High School,25-01-2015,Vehicle Theft,Trivial Damage,Hillsdale,9,Audi,A5,movies
+MALE,JD,29-01-2015,Multi-vehicle Collision,Major Damage,Columbus,9,Toyota,Camry,hiking
+FEMALE,JD,24-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,22,BMW,X5,video-games
+MALE,Associate,04-01-2015,Multi-vehicle Collision,Major Damage,Springfield,15,Nissan,Pathfinder,reading
+FEMALE,Associate,25-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,14,Chevrolet,Tahoe,camping
+MALE,College,27-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,6,Toyota,Highlander,camping
+FEMALE,Associate,19-02-2015,Parked Car,Minor Damage,Hillsdale,6,Audi,A3,camping
+MALE,MD,31-01-2015,Multi-vehicle Collision,Major Damage,Arlington,22,Jeep,Grand Cherokee,paintball
+FEMALE,JD,18-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,14,Nissan,Ultima,skydiving
+FEMALE,Masters,10-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,16,Ford,Fusion,skydiving
+FEMALE,Associate,28-01-2015,Multi-vehicle Collision,Major Damage,Riverwood,10,Jeep,Wrangler,board-games
+MALE,Associate,16-02-2015,Multi-vehicle Collision,Total Loss,Columbus,9,Saab,93,paintball
+MALE,PhD,08-02-2015,Single Vehicle Collision,Minor Damage,Northbrook,4,BMW,M5,cross-fit
+FEMALE,JD,20-01-2015,Multi-vehicle Collision,Major Damage,Northbend,6,Nissan,Pathfinder,exercise
+FEMALE,College,06-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,15,BMW,X6,sleeping
+FEMALE,JD,24-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,12,Nissan,Ultima,movies
+FEMALE,Associate,14-01-2015,Vehicle Theft,Trivial Damage,Arlington,3,Chevrolet,Malibu,cross-fit
+FEMALE,PhD,18-02-2015,Vehicle Theft,Minor Damage,Northbrook,14,Jeep,Grand Cherokee,video-games
+MALE,PhD,10-01-2015,Single Vehicle Collision,Major Damage,Riverwood,10,BMW,X5,sleeping
+FEMALE,MD,13-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,17,Ford,Escape,basketball
+FEMALE,High School,17-02-2015,Single Vehicle Collision,Total Loss,Northbrook,8,Accura,MDX,kayaking
+MALE,JD,07-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,14,Suburu,Forrestor,hiking
+FEMALE,Associate,29-01-2015,Vehicle Theft,Trivial Damage,Riverwood,6,Toyota,Camry,golf
+FEMALE,JD,13-02-2015,Single Vehicle Collision,Major Damage,Northbrook,6,Ford,Escape,movies
+FEMALE,College,01-02-2015,Parked Car,Minor Damage,Northbrook,8,BMW,3 Series,hiking
+MALE,Associate,29-01-2015,Single Vehicle Collision,Major Damage,Arlington,13,Chevrolet,Malibu,kayaking
+MALE,College,06-02-2015,Multi-vehicle Collision,Total Loss,Springfield,0,BMW,X5,golf
+FEMALE,High School,28-01-2015,Multi-vehicle Collision,Major Damage,Northbend,14,BMW,X6,polo
+MALE,High School,21-01-2015,Single Vehicle Collision,Minor Damage,Columbus,13,Mercedes,ML350,dancing
+MALE,High School,16-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,16,Honda,Civic,golf
+FEMALE,Associate,17-02-2015,Single Vehicle Collision,Total Loss,Northbrook,13,Mercedes,ML350,basketball
+MALE,College,01-02-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,15,Audi,A3,reading
+FEMALE,College,25-02-2015,Parked Car,Trivial Damage,Northbend,3,Dodge,RAM,dancing
+FEMALE,MD,26-02-2015,Parked Car,Minor Damage,Northbend,7,Nissan,Pathfinder,golf
+MALE,High School,06-02-2015,Multi-vehicle Collision,Major Damage,Northbend,16,Accura,TL,video-games
+FEMALE,Masters,03-02-2015,Vehicle Theft,Trivial Damage,Riverwood,15,Audi,A5,base-jumping
+MALE,Associate,27-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,21,Honda,CRV,yachting
+MALE,College,21-01-2015,Multi-vehicle Collision,Major Damage,Arlington,23,Jeep,Wrangler,base-jumping
+MALE,JD,24-01-2015,Parked Car,Trivial Damage,Columbus,5,Ford,F150,camping
+MALE,High School,17-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,15,Accura,TL,bungie-jumping
+FEMALE,JD,23-02-2015,Single Vehicle Collision,Major Damage,Arlington,14,Honda,Accord,base-jumping
+FEMALE,PhD,09-01-2015,Single Vehicle Collision,Major Damage,Riverwood,1,Mercedes,ML350,kayaking
+FEMALE,Associate,15-02-2015,Multi-vehicle Collision,Total Loss,Arlington,14,Nissan,Maxima,cross-fit
+MALE,Associate,16-01-2015,Multi-vehicle Collision,Total Loss,Northbrook,17,Suburu,Legacy,hiking
+MALE,Masters,14-01-2015,Multi-vehicle Collision,Total Loss,Northbend,20,BMW,3 Series,golf
+FEMALE,PhD,01-01-2015,Multi-vehicle Collision,Major Damage,Springfield,10,Toyota,Camry,dancing
+MALE,MD,16-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,3,Honda,Accord,base-jumping
+FEMALE,Associate,04-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,0,Suburu,Legacy,skydiving
+MALE,PhD,12-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,10,Toyota,Corolla,board-games
+FEMALE,Masters,08-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,13,BMW,X6,golf
+FEMALE,MD,22-01-2015,Single Vehicle Collision,Minor Damage,Northbend,14,Nissan,Ultima,bungie-jumping
+MALE,High School,13-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,22,BMW,X5,bungie-jumping
+FEMALE,Associate,18-01-2015,Multi-vehicle Collision,Total Loss,Northbend,8,Accura,MDX,camping
+FEMALE,High School,19-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,1,Toyota,Highlander,yachting
+MALE,Associate,31-01-2015,Single Vehicle Collision,Major Damage,Springfield,19,Suburu,Forrestor,reading
+FEMALE,High School,06-02-2015,Single Vehicle Collision,Total Loss,Columbus,17,Toyota,Corolla,video-games
+MALE,JD,04-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,13,Dodge,RAM,polo
+MALE,High School,02-01-2015,Single Vehicle Collision,Total Loss,Riverwood,4,BMW,3 Series,movies
+FEMALE,Masters,26-02-2015,Multi-vehicle Collision,Total Loss,Northbend,14,Audi,A3,board-games
+MALE,College,08-02-2015,Multi-vehicle Collision,Major Damage,Springfield,4,Honda,CRV,sleeping
+MALE,JD,07-02-2015,Multi-vehicle Collision,Total Loss,Northbend,23,Nissan,Pathfinder,sleeping
+FEMALE,High School,17-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,21,Volkswagen,Jetta,bungie-jumping
+MALE,PhD,12-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,23,Chevrolet,Tahoe,yachting
+MALE,MD,01-02-2015,Multi-vehicle Collision,Major Damage,Columbus,6,Audi,A3,base-jumping
+MALE,PhD,03-02-2015,Single Vehicle Collision,Major Damage,Springfield,21,Honda,CRV,board-games
+MALE,Masters,21-02-2015,Single Vehicle Collision,Major Damage,Springfield,23,Toyota,Camry,base-jumping
+FEMALE,PhD,09-01-2015,Multi-vehicle Collision,Major Damage,Riverwood,3,Nissan,Maxima,reading
+FEMALE,JD,16-02-2015,Parked Car,Trivial Damage,Northbend,8,Nissan,Ultima,base-jumping
+FEMALE,MD,04-02-2015,Parked Car,Trivial Damage,Arlington,4,Suburu,Legacy,reading
+MALE,College,24-02-2015,Single Vehicle Collision,Total Loss,Arlington,22,Ford,Escape,hiking
+FEMALE,JD,01-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,16,BMW,3 Series,camping
+MALE,College,05-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,14,Chevrolet,Silverado,sleeping
+MALE,Associate,07-01-2015,Single Vehicle Collision,Total Loss,Springfield,13,Dodge,RAM,camping
+FEMALE,Associate,06-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,20,Saab,92x,movies
+MALE,MD,21-01-2015,Multi-vehicle Collision,Total Loss,Columbus,0,Suburu,Forrestor,video-games
+FEMALE,JD,01-03-2015,Multi-vehicle Collision,Total Loss,Arlington,23,Audi,A3,cross-fit
+FEMALE,Associate,24-02-2015,Single Vehicle Collision,Minor Damage,Columbus,13,BMW,3 Series,movies
+MALE,College,02-02-2015,Single Vehicle Collision,Major Damage,Northbend,8,Suburu,Impreza,skydiving
+MALE,Masters,31-01-2015,Vehicle Theft,Minor Damage,Northbend,3,Ford,Fusion,sleeping
+FEMALE,Associate,09-01-2015,Single Vehicle Collision,Total Loss,Columbus,16,Jeep,Grand Cherokee,board-games
+MALE,PhD,23-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,19,Jeep,Wrangler,hiking
+MALE,Associate,28-01-2015,Single Vehicle Collision,Minor Damage,Springfield,0,Suburu,Forrestor,skydiving
+FEMALE,PhD,14-01-2015,Single Vehicle Collision,Total Loss,Arlington,12,Mercedes,E400,base-jumping
+MALE,JD,03-02-2015,Multi-vehicle Collision,Total Loss,Arlington,21,Audi,A5,cross-fit
+FEMALE,MD,17-02-2015,Single Vehicle Collision,Major Damage,Riverwood,0,Accura,TL,bungie-jumping
+FEMALE,JD,30-01-2015,Single Vehicle Collision,Minor Damage,Columbus,22,Volkswagen,Jetta,polo
+FEMALE,Associate,03-02-2015,Multi-vehicle Collision,Major Damage,Northbend,20,Audi,A3,paintball
+FEMALE,High School,03-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,0,Honda,CRV,camping
+MALE,Masters,31-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,20,Suburu,Forrestor,skydiving
+FEMALE,High School,06-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,1,Volkswagen,Passat,base-jumping
+FEMALE,MD,06-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,11,Nissan,Ultima,golf
+FEMALE,MD,29-01-2015,Multi-vehicle Collision,Major Damage,Columbus,14,Ford,Fusion,paintball
+MALE,College,07-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,20,Suburu,Impreza,movies
+MALE,College,20-01-2015,Single Vehicle Collision,Major Damage,Springfield,22,Jeep,Grand Cherokee,yachting
+MALE,PhD,28-02-2015,Single Vehicle Collision,Total Loss,Columbus,12,Saab,93,basketball
+FEMALE,Associate,04-02-2015,Multi-vehicle Collision,Major Damage,Columbus,3,Chevrolet,Tahoe,polo
+FEMALE,College,12-01-2015,Multi-vehicle Collision,Major Damage,Northbend,15,Toyota,Highlander,paintball
+MALE,MD,28-02-2015,Parked Car,Trivial Damage,Arlington,8,Saab,93,polo
+FEMALE,Associate,08-01-2015,Multi-vehicle Collision,Major Damage,Northbend,13,Mercedes,ML350,reading
+FEMALE,High School,25-01-2015,Parked Car,Minor Damage,Hillsdale,8,Volkswagen,Passat,polo
+FEMALE,Masters,26-02-2015,Parked Car,Minor Damage,Arlington,7,BMW,X5,chess
+FEMALE,Masters,03-02-2015,Vehicle Theft,Trivial Damage,Northbrook,9,Volkswagen,Passat,dancing
+FEMALE,Associate,31-01-2015,Single Vehicle Collision,Minor Damage,Northbend,15,Toyota,Highlander,hiking
+FEMALE,JD,01-02-2015,Single Vehicle Collision,Minor Damage,Northbend,5,Accura,TL,yachting
+MALE,PhD,21-02-2015,Multi-vehicle Collision,Major Damage,Northbend,15,Dodge,RAM,hiking
+MALE,High School,30-01-2015,Multi-vehicle Collision,Major Damage,Columbus,22,Saab,93,exercise
+FEMALE,PhD,31-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,16,Honda,Accord,dancing
+FEMALE,PhD,13-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,7,Suburu,Forrestor,video-games
+FEMALE,JD,16-02-2015,Parked Car,Minor Damage,Arlington,2,Honda,Civic,base-jumping
+MALE,College,04-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,17,Suburu,Forrestor,chess
+FEMALE,Masters,07-02-2015,Multi-vehicle Collision,Total Loss,Springfield,12,Volkswagen,Jetta,reading
+FEMALE,Associate,16-01-2015,Single Vehicle Collision,Major Damage,Arlington,9,Dodge,Neon,exercise
+MALE,JD,28-02-2015,Single Vehicle Collision,Total Loss,Northbrook,16,Toyota,Corolla,polo
+MALE,JD,08-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,19,Audi,A3,sleeping
+MALE,College,02-01-2015,Multi-vehicle Collision,Major Damage,Columbus,14,Mercedes,E400,reading
+FEMALE,Associate,13-01-2015,Multi-vehicle Collision,Total Loss,Northbend,18,Audi,A5,sleeping
+FEMALE,PhD,07-01-2015,Single Vehicle Collision,Minor Damage,Springfield,23,Chevrolet,Malibu,base-jumping
+MALE,PhD,05-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,15,Nissan,Ultima,golf
+MALE,JD,28-02-2015,Single Vehicle Collision,Minor Damage,Arlington,18,BMW,3 Series,chess
+FEMALE,Masters,04-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,16,Audi,A5,board-games
+MALE,High School,02-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,12,Ford,F150,base-jumping
+FEMALE,College,23-02-2015,Single Vehicle Collision,Major Damage,Northbrook,16,Mercedes,E400,paintball
+MALE,Associate,10-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,21,Honda,Accord,camping
+MALE,JD,16-02-2015,Multi-vehicle Collision,Total Loss,Columbus,15,Nissan,Ultima,base-jumping
+FEMALE,JD,04-01-2015,Single Vehicle Collision,Major Damage,Northbrook,21,Suburu,Legacy,sleeping
+FEMALE,JD,30-01-2015,Single Vehicle Collision,Major Damage,Arlington,1,Saab,92x,golf
+MALE,PhD,25-01-2015,Multi-vehicle Collision,Total Loss,Arlington,17,Toyota,Highlander,golf
+FEMALE,High School,22-01-2015,Multi-vehicle Collision,Total Loss,Columbus,5,Saab,95,board-games
+MALE,MD,01-01-2015,Multi-vehicle Collision,Total Loss,Northbend,15,Volkswagen,Jetta,video-games
+MALE,High School,14-02-2015,Multi-vehicle Collision,Major Damage,Arlington,2,Accura,TL,reading
+FEMALE,PhD,15-01-2015,Vehicle Theft,Minor Damage,Northbend,3,Accura,MDX,video-games
+MALE,High School,06-01-2015,Single Vehicle Collision,Major Damage,Riverwood,19,Ford,Fusion,exercise
+MALE,Masters,08-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,17,Jeep,Grand Cherokee,dancing
+FEMALE,High School,17-02-2015,Vehicle Theft,Trivial Damage,Columbus,7,Saab,95,dancing
+MALE,MD,21-01-2015,Single Vehicle Collision,Minor Damage,Columbus,21,Chevrolet,Malibu,exercise
+FEMALE,Masters,09-02-2015,Multi-vehicle Collision,Total Loss,Springfield,10,Jeep,Wrangler,video-games
+MALE,MD,12-02-2015,Single Vehicle Collision,Total Loss,Columbus,11,Ford,Escape,base-jumping
+FEMALE,College,24-02-2015,Multi-vehicle Collision,Major Damage,Columbus,23,Mercedes,C300,skydiving
+MALE,Associate,02-02-2015,Single Vehicle Collision,Minor Damage,Northbend,14,Audi,A5,skydiving
+FEMALE,College,14-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,10,Chevrolet,Silverado,cross-fit
+FEMALE,College,15-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,6,Honda,Civic,skydiving
+MALE,MD,28-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,10,Toyota,Corolla,exercise
+FEMALE,High School,18-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,5,Suburu,Forrestor,sleeping
+MALE,Masters,06-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,17,Chevrolet,Silverado,camping
+FEMALE,College,19-01-2015,Vehicle Theft,Trivial Damage,Springfield,3,Ford,Escape,cross-fit
+FEMALE,Associate,17-01-2015,Parked Car,Minor Damage,Northbrook,9,BMW,M5,polo
+FEMALE,High School,12-02-2015,Parked Car,Trivial Damage,Arlington,6,BMW,3 Series,video-games
+FEMALE,College,11-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,22,Chevrolet,Tahoe,camping
+MALE,Masters,21-02-2015,Multi-vehicle Collision,Major Damage,Northbend,10,Jeep,Grand Cherokee,movies
+MALE,Associate,02-01-2015,Vehicle Theft,Minor Damage,Riverwood,4,Dodge,RAM,paintball
+FEMALE,High School,11-01-2015,Single Vehicle Collision,Total Loss,Northbrook,23,Suburu,Legacy,basketball
+FEMALE,Masters,23-02-2015,Single Vehicle Collision,Total Loss,Riverwood,19,Mercedes,ML350,bungie-jumping
+FEMALE,JD,28-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,22,Jeep,Grand Cherokee,exercise
+MALE,High School,01-02-2015,Vehicle Theft,Trivial Damage,Riverwood,6,Jeep,Wrangler,board-games
+FEMALE,JD,24-02-2015,Single Vehicle Collision,Minor Damage,Springfield,6,BMW,X5,paintball
+FEMALE,College,20-01-2015,Single Vehicle Collision,Major Damage,Northbend,18,Volkswagen,Jetta,chess
+MALE,MD,14-01-2015,Single Vehicle Collision,Total Loss,Northbend,22,Toyota,Camry,video-games
+MALE,High School,05-02-2015,Single Vehicle Collision,Major Damage,Columbus,21,Toyota,Corolla,hiking
+FEMALE,MD,11-01-2015,Single Vehicle Collision,Minor Damage,Northbend,12,Ford,Fusion,kayaking
+MALE,Masters,02-01-2015,Multi-vehicle Collision,Major Damage,Arlington,6,Suburu,Forrestor,base-jumping
+FEMALE,College,12-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,0,Chevrolet,Silverado,basketball
+MALE,Masters,03-01-2015,Single Vehicle Collision,Total Loss,Arlington,11,BMW,X5,cross-fit
+FEMALE,High School,25-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,19,Nissan,Maxima,polo
+FEMALE,Masters,19-01-2015,Multi-vehicle Collision,Major Damage,Springfield,22,Mercedes,ML350,camping
+MALE,Masters,03-01-2015,Single Vehicle Collision,Total Loss,Columbus,2,Nissan,Maxima,bungie-jumping
+FEMALE,JD,12-02-2015,Multi-vehicle Collision,Total Loss,Arlington,16,Dodge,Neon,sleeping
+FEMALE,PhD,24-02-2015,Multi-vehicle Collision,Total Loss,Columbus,23,Saab,92x,yachting
+FEMALE,Masters,25-02-2015,Single Vehicle Collision,Major Damage,Northbend,21,Audi,A5,base-jumping
+MALE,College,17-02-2015,Single Vehicle Collision,Minor Damage,Columbus,10,Dodge,RAM,exercise
+MALE,Associate,09-02-2015,Single Vehicle Collision,Major Damage,Riverwood,12,Honda,CRV,skydiving
+MALE,MD,15-02-2015,Single Vehicle Collision,Total Loss,Northbend,6,Dodge,Neon,reading
+MALE,JD,25-02-2015,Single Vehicle Collision,Major Damage,Riverwood,6,Suburu,Legacy,bungie-jumping
+FEMALE,PhD,05-02-2015,Parked Car,Trivial Damage,Hillsdale,7,Mercedes,ML350,chess
+FEMALE,PhD,12-01-2015,Vehicle Theft,Trivial Damage,Northbrook,3,Audi,A5,sleeping
+MALE,JD,01-01-2015,Parked Car,Trivial Damage,Hillsdale,10,Nissan,Pathfinder,polo
+MALE,Masters,19-02-2015,Single Vehicle Collision,Total Loss,Columbus,14,Dodge,Neon,yachting
+MALE,MD,14-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,17,Dodge,Neon,board-games
+FEMALE,PhD,30-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,16,Suburu,Legacy,exercise
+FEMALE,JD,20-01-2015,Parked Car,Minor Damage,Columbus,3,Jeep,Grand Cherokee,paintball
+FEMALE,Associate,18-02-2015,Parked Car,Minor Damage,Arlington,7,Dodge,Neon,reading
+FEMALE,High School,07-01-2015,Single Vehicle Collision,Total Loss,Northbend,13,Chevrolet,Silverado,chess
+FEMALE,JD,16-01-2015,Single Vehicle Collision,Total Loss,Springfield,20,Jeep,Wrangler,dancing
+MALE,Associate,15-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,23,Chevrolet,Malibu,exercise
+FEMALE,PhD,01-02-2015,Single Vehicle Collision,Total Loss,Arlington,11,Dodge,Neon,yachting
+FEMALE,Masters,06-01-2015,Multi-vehicle Collision,Major Damage,Northbend,0,BMW,X6,reading
+FEMALE,PhD,02-02-2015,Single Vehicle Collision,Minor Damage,Northbrook,2,Toyota,Camry,base-jumping
+FEMALE,College,25-02-2015,Single Vehicle Collision,Total Loss,Northbrook,3,Chevrolet,Malibu,reading
+FEMALE,College,10-02-2015,Parked Car,Trivial Damage,Hillsdale,3,Audi,A3,board-games
+FEMALE,Associate,22-02-2015,Multi-vehicle Collision,Total Loss,Arlington,15,Suburu,Forrestor,reading
+FEMALE,Associate,31-01-2015,Single Vehicle Collision,Minor Damage,Northbend,23,Chevrolet,Malibu,board-games
+MALE,Associate,12-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,9,Ford,Escape,video-games
+MALE,Masters,06-01-2015,Vehicle Theft,Minor Damage,Columbus,20,Dodge,Neon,yachting
+MALE,Masters,01-01-2015,Single Vehicle Collision,Major Damage,Riverwood,5,Volkswagen,Passat,movies
+FEMALE,MD,07-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,15,Jeep,Wrangler,board-games
+FEMALE,PhD,21-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,13,Accura,MDX,yachting
+FEMALE,High School,14-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,16,Volkswagen,Passat,base-jumping
+MALE,MD,16-02-2015,Single Vehicle Collision,Minor Damage,Northbend,0,Honda,Accord,board-games
+FEMALE,PhD,04-02-2015,Multi-vehicle Collision,Major Damage,Arlington,10,Suburu,Impreza,hiking
+MALE,JD,22-01-2015,Multi-vehicle Collision,Total Loss,Springfield,14,Saab,93,golf
+MALE,PhD,15-02-2015,Multi-vehicle Collision,Total Loss,Columbus,1,Nissan,Ultima,skydiving
+FEMALE,Associate,07-01-2015,Single Vehicle Collision,Major Damage,Springfield,16,BMW,M5,dancing
+FEMALE,Masters,23-02-2015,Multi-vehicle Collision,Major Damage,Northbend,2,Chevrolet,Tahoe,camping
+FEMALE,College,06-01-2015,Multi-vehicle Collision,Major Damage,Springfield,23,Volkswagen,Passat,exercise
+FEMALE,High School,07-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,19,Volkswagen,Passat,yachting
+FEMALE,PhD,14-02-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,23,Volkswagen,Jetta,kayaking
+FEMALE,JD,15-02-2015,Single Vehicle Collision,Major Damage,Riverwood,10,Nissan,Maxima,skydiving
+MALE,MD,14-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,12,Dodge,Neon,video-games
+MALE,PhD,05-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,15,BMW,X6,hiking
+FEMALE,PhD,04-01-2015,Vehicle Theft,Trivial Damage,Columbus,3,Nissan,Maxima,kayaking
+MALE,JD,20-02-2015,Parked Car,Minor Damage,Springfield,19,Toyota,Camry,chess
+FEMALE,Masters,05-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,16,Nissan,Ultima,golf
+MALE,High School,15-01-2015,Single Vehicle Collision,Major Damage,Columbus,16,Saab,92x,polo
+MALE,MD,05-01-2015,Single Vehicle Collision,Total Loss,Northbend,10,Saab,95,cross-fit
+MALE,Masters,01-01-2015,Vehicle Theft,Minor Damage,Riverwood,6,Mercedes,C300,chess
+MALE,MD,26-01-2015,Single Vehicle Collision,Major Damage,Arlington,18,Mercedes,ML350,yachting
+MALE,College,13-02-2015,Multi-vehicle Collision,Major Damage,Springfield,20,Ford,Fusion,sleeping
+FEMALE,Masters,14-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,14,Accura,MDX,polo
+MALE,JD,31-01-2015,Multi-vehicle Collision,Major Damage,Riverwood,8,Volkswagen,Passat,golf
+MALE,JD,22-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,17,BMW,3 Series,camping
+MALE,High School,30-01-2015,Single Vehicle Collision,Minor Damage,Springfield,9,Jeep,Wrangler,video-games
+MALE,Associate,17-02-2015,Single Vehicle Collision,Total Loss,Springfield,0,Nissan,Maxima,exercise
+MALE,High School,20-02-2015,Single Vehicle Collision,Total Loss,Riverwood,2,Chevrolet,Malibu,golf
+FEMALE,High School,04-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,23,Dodge,RAM,yachting
+MALE,College,23-02-2015,Single Vehicle Collision,Total Loss,Northbend,8,Mercedes,ML350,exercise
+MALE,JD,08-02-2015,Multi-vehicle Collision,Total Loss,Columbus,6,Dodge,Neon,cross-fit
+MALE,High School,21-02-2015,Vehicle Theft,Minor Damage,Arlington,3,Toyota,Corolla,movies
+FEMALE,High School,13-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,14,Jeep,Grand Cherokee,reading
+MALE,MD,17-01-2015,Multi-vehicle Collision,Major Damage,Northbrook,16,Saab,95,camping
+FEMALE,Masters,18-02-2015,Single Vehicle Collision,Minor Damage,Northbend,12,Chevrolet,Malibu,reading
+FEMALE,Associate,14-01-2015,Multi-vehicle Collision,Major Damage,Northbrook,1,Dodge,RAM,board-games
+MALE,PhD,27-01-2015,Single Vehicle Collision,Minor Damage,Springfield,19,Chevrolet,Tahoe,camping
+MALE,Associate,12-02-2015,Vehicle Theft,Trivial Damage,Northbend,7,Accura,MDX,hiking
+MALE,College,17-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,6,Accura,MDX,base-jumping
+MALE,MD,13-01-2015,Single Vehicle Collision,Major Damage,Arlington,11,Mercedes,ML350,exercise
+FEMALE,PhD,21-01-2015,Single Vehicle Collision,Minor Damage,Northbend,2,Saab,95,camping
+FEMALE,JD,01-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,15,Honda,CRV,paintball
+MALE,Masters,18-02-2015,Single Vehicle Collision,Major Damage,Columbus,0,Mercedes,ML350,sleeping
+FEMALE,Associate,04-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,12,Nissan,Ultima,exercise
+FEMALE,PhD,09-01-2015,Single Vehicle Collision,Total Loss,Springfield,1,Accura,TL,board-games
+FEMALE,JD,14-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,16,Ford,F150,skydiving
+MALE,MD,03-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,2,Jeep,Grand Cherokee,reading
+FEMALE,PhD,04-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,13,Nissan,Ultima,paintball
+MALE,High School,30-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,0,Accura,MDX,yachting
+FEMALE,High School,20-02-2015,Multi-vehicle Collision,Total Loss,Arlington,0,Honda,CRV,board-games
+MALE,College,07-01-2015,Multi-vehicle Collision,Total Loss,Northbend,16,Mercedes,E400,golf
+MALE,High School,31-01-2015,Single Vehicle Collision,Total Loss,Arlington,8,Audi,A3,reading
+FEMALE,JD,17-02-2015,Parked Car,Trivial Damage,Hillsdale,9,Volkswagen,Jetta,paintball
+MALE,JD,24-01-2015,Single Vehicle Collision,Total Loss,Northbend,11,Nissan,Pathfinder,hiking
+FEMALE,College,02-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,6,Dodge,RAM,chess
+FEMALE,College,09-01-2015,Single Vehicle Collision,Total Loss,Arlington,18,Honda,Civic,cross-fit
+FEMALE,JD,28-02-2015,Single Vehicle Collision,Total Loss,Northbrook,11,Mercedes,E400,movies
+FEMALE,College,17-01-2015,Single Vehicle Collision,Total Loss,Arlington,17,Chevrolet,Silverado,exercise
+MALE,High School,09-02-2015,Multi-vehicle Collision,Major Damage,Springfield,21,Jeep,Wrangler,hiking
+MALE,JD,14-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,0,Jeep,Grand Cherokee,camping
+FEMALE,Associate,02-02-2015,Vehicle Theft,Trivial Damage,Northbrook,9,Chevrolet,Tahoe,exercise
+MALE,JD,17-02-2015,Single Vehicle Collision,Total Loss,Riverwood,1,Accura,RSX,hiking
+FEMALE,PhD,25-01-2015,Single Vehicle Collision,Total Loss,Springfield,22,Audi,A5,skydiving
+MALE,College,13-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,20,Honda,Civic,hiking
+FEMALE,MD,20-02-2015,Multi-vehicle Collision,Total Loss,Northbend,9,Ford,F150,video-games
+FEMALE,Associate,08-01-2015,Parked Car,Minor Damage,Northbrook,5,Toyota,Corolla,skydiving
+FEMALE,JD,28-02-2015,Vehicle Theft,Trivial Damage,Riverwood,12,Jeep,Grand Cherokee,exercise
+FEMALE,High School,12-02-2015,Multi-vehicle Collision,Major Damage,Springfield,6,Suburu,Legacy,kayaking
+FEMALE,Masters,06-01-2015,Vehicle Theft,Trivial Damage,Columbus,8,Ford,F150,basketball
+FEMALE,Associate,15-02-2015,Single Vehicle Collision,Total Loss,Riverwood,14,Jeep,Grand Cherokee,kayaking
+FEMALE,High School,20-01-2015,Single Vehicle Collision,Major Damage,Northbrook,10,BMW,X5,video-games
+FEMALE,Masters,03-01-2015,Single Vehicle Collision,Minor Damage,Columbus,12,Chevrolet,Malibu,exercise
+FEMALE,College,26-01-2015,Single Vehicle Collision,Major Damage,Springfield,12,Accura,MDX,dancing
+MALE,PhD,25-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,12,Mercedes,C300,skydiving
+MALE,JD,18-01-2015,Vehicle Theft,Minor Damage,Columbus,13,Mercedes,ML350,paintball
+FEMALE,PhD,12-01-2015,Multi-vehicle Collision,Total Loss,Northbend,17,Nissan,Pathfinder,sleeping
+FEMALE,College,15-01-2015,Single Vehicle Collision,Major Damage,Arlington,14,Accura,MDX,dancing
+MALE,MD,10-01-2015,Multi-vehicle Collision,Major Damage,Arlington,3,Volkswagen,Jetta,basketball
+FEMALE,Associate,23-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,18,Nissan,Ultima,reading
+MALE,High School,21-02-2015,Parked Car,Minor Damage,Northbend,5,Dodge,Neon,paintball
+FEMALE,College,17-02-2015,Single Vehicle Collision,Total Loss,Riverwood,19,BMW,X5,hiking
+FEMALE,PhD,06-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,0,Volkswagen,Jetta,reading
+FEMALE,JD,18-02-2015,Parked Car,Trivial Damage,Arlington,22,Mercedes,E400,paintball
+FEMALE,MD,17-02-2015,Multi-vehicle Collision,Major Damage,Arlington,21,Saab,92x,paintball
+FEMALE,Masters,24-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,4,Suburu,Impreza,golf
+MALE,MD,21-01-2015,Single Vehicle Collision,Minor Damage,Arlington,10,Honda,Civic,yachting
+FEMALE,Associate,03-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,5,Suburu,Forrestor,paintball
+MALE,MD,07-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,13,Audi,A5,board-games
+MALE,MD,02-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,18,Ford,F150,polo
+MALE,JD,13-01-2015,Vehicle Theft,Minor Damage,Springfield,6,Accura,TL,golf
+MALE,PhD,28-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,0,BMW,X6,dancing
+MALE,High School,16-01-2015,Multi-vehicle Collision,Total Loss,Arlington,5,Volkswagen,Jetta,basketball
+MALE,Associate,01-02-2015,Single Vehicle Collision,Minor Damage,Arlington,8,Accura,RSX,basketball
+MALE,Masters,30-01-2015,Vehicle Theft,Minor Damage,Hillsdale,5,Dodge,RAM,chess
+FEMALE,High School,16-02-2015,Parked Car,Trivial Damage,Springfield,9,Honda,CRV,camping
+FEMALE,JD,07-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,10,Saab,95,hiking
+MALE,Masters,10-01-2015,Single Vehicle Collision,Major Damage,Northbrook,16,Volkswagen,Jetta,board-games
+MALE,College,31-01-2015,Vehicle Theft,Trivial Damage,Arlington,8,Ford,F150,sleeping
+MALE,PhD,13-02-2015,Vehicle Theft,Minor Damage,Northbrook,5,Accura,TL,polo
+FEMALE,College,22-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,11,Saab,95,yachting
+FEMALE,PhD,08-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,15,Toyota,Camry,movies
+MALE,Masters,04-02-2015,Multi-vehicle Collision,Total Loss,Columbus,23,Chevrolet,Malibu,bungie-jumping
+MALE,MD,04-02-2015,Single Vehicle Collision,Minor Damage,Arlington,23,Ford,Escape,chess
+FEMALE,College,26-02-2015,Single Vehicle Collision,Total Loss,Northbrook,23,Ford,Fusion,dancing
+FEMALE,Associate,08-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,10,Dodge,RAM,hiking
+FEMALE,JD,15-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,12,Jeep,Grand Cherokee,hiking
+FEMALE,PhD,14-01-2015,Single Vehicle Collision,Minor Damage,Springfield,4,Saab,92x,exercise
+FEMALE,High School,12-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,16,Toyota,Highlander,dancing
+MALE,High School,18-01-2015,Multi-vehicle Collision,Major Damage,Columbus,18,Ford,Fusion,movies
+MALE,JD,15-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,15,Chevrolet,Malibu,camping
+MALE,College,24-02-2015,Single Vehicle Collision,Total Loss,Springfield,8,BMW,3 Series,camping
+MALE,JD,07-02-2015,Multi-vehicle Collision,Total Loss,Springfield,4,Volkswagen,Jetta,movies
+FEMALE,JD,22-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,20,Jeep,Wrangler,paintball
+FEMALE,Masters,19-01-2015,Multi-vehicle Collision,Major Damage,Northbend,1,Dodge,RAM,paintball
+MALE,JD,28-02-2015,Single Vehicle Collision,Major Damage,Springfield,19,Mercedes,ML350,board-games
+MALE,JD,04-02-2015,Single Vehicle Collision,Total Loss,Northbend,11,Chevrolet,Silverado,chess
+MALE,PhD,17-02-2015,Single Vehicle Collision,Total Loss,Northbend,13,Audi,A3,skydiving
+MALE,MD,17-02-2015,Single Vehicle Collision,Minor Damage,Springfield,2,BMW,M5,dancing
+MALE,High School,17-01-2015,Multi-vehicle Collision,Major Damage,Northbrook,9,Saab,93,board-games
+MALE,PhD,02-02-2015,Multi-vehicle Collision,Total Loss,Arlington,15,Toyota,Highlander,polo
+MALE,PhD,12-02-2015,Single Vehicle Collision,Major Damage,Springfield,23,Honda,Civic,camping
+MALE,High School,04-01-2015,Single Vehicle Collision,Total Loss,Riverwood,16,Ford,Fusion,base-jumping
+MALE,Associate,21-02-2015,Multi-vehicle Collision,Major Damage,Arlington,21,Audi,A5,movies
+FEMALE,JD,23-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,21,Ford,Fusion,movies
+MALE,Masters,12-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,3,Toyota,Corolla,polo
+FEMALE,High School,23-01-2015,Parked Car,Trivial Damage,Arlington,4,Nissan,Pathfinder,exercise
+MALE,MD,10-02-2015,Vehicle Theft,Minor Damage,Springfield,17,Chevrolet,Malibu,yachting
+MALE,College,10-01-2015,Vehicle Theft,Trivial Damage,Springfield,7,Volkswagen,Jetta,yachting
+FEMALE,JD,12-02-2015,Multi-vehicle Collision,Major Damage,Columbus,14,Chevrolet,Tahoe,yachting
+MALE,Masters,21-02-2015,Single Vehicle Collision,Major Damage,Northbrook,13,Mercedes,ML350,skydiving
+FEMALE,Associate,18-01-2015,Multi-vehicle Collision,Total Loss,Springfield,23,Saab,93,hiking
+FEMALE,College,28-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,23,Ford,Escape,chess
+FEMALE,Associate,19-01-2015,Single Vehicle Collision,Major Damage,Arlington,16,Honda,CRV,yachting
+FEMALE,College,11-01-2015,Single Vehicle Collision,Total Loss,Northbrook,17,Chevrolet,Tahoe,bungie-jumping
+FEMALE,JD,11-02-2015,Single Vehicle Collision,Major Damage,Northbrook,9,Toyota,Highlander,polo
+MALE,High School,09-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,13,Mercedes,ML350,sleeping
+MALE,JD,20-01-2015,Single Vehicle Collision,Major Damage,Springfield,13,Ford,Escape,exercise
+FEMALE,College,26-02-2015,Parked Car,Trivial Damage,Columbus,3,Dodge,RAM,golf
+FEMALE,JD,02-02-2015,Parked Car,Trivial Damage,Springfield,3,Mercedes,E400,chess
+FEMALE,High School,04-01-2015,Multi-vehicle Collision,Major Damage,Columbus,16,Saab,92x,camping
+FEMALE,Masters,19-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,12,Saab,93,bungie-jumping
+MALE,High School,12-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,4,Nissan,Pathfinder,cross-fit
+MALE,Masters,24-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,3,Ford,Escape,bungie-jumping
+MALE,JD,17-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,0,Volkswagen,Jetta,chess
+FEMALE,Masters,13-01-2015,Vehicle Theft,Trivial Damage,Columbus,19,Toyota,Camry,video-games
+MALE,JD,28-02-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,15,Toyota,Highlander,movies
+MALE,High School,03-01-2015,Single Vehicle Collision,Minor Damage,Arlington,6,Accura,MDX,reading
+FEMALE,Associate,05-02-2015,Single Vehicle Collision,Total Loss,Springfield,3,Audi,A3,golf
+FEMALE,Masters,01-01-2015,Parked Car,Minor Damage,Springfield,17,Accura,RSX,reading
+FEMALE,MD,06-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,4,Volkswagen,Jetta,polo
+MALE,Masters,03-02-2015,Single Vehicle Collision,Minor Damage,Springfield,14,Dodge,Neon,dancing
+MALE,Masters,12-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,3,Toyota,Corolla,kayaking
+MALE,MD,16-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,4,Chevrolet,Tahoe,kayaking
+FEMALE,Associate,25-02-2015,Single Vehicle Collision,Total Loss,Columbus,13,BMW,X5,chess
+MALE,High School,21-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,23,Volkswagen,Passat,board-games
+MALE,MD,28-01-2015,Parked Car,Minor Damage,Northbend,3,Toyota,Camry,yachting
+MALE,High School,27-02-2015,Multi-vehicle Collision,Total Loss,Springfield,0,Nissan,Pathfinder,paintball
+FEMALE,JD,10-02-2015,Multi-vehicle Collision,Major Damage,Columbus,14,Nissan,Maxima,board-games
+MALE,MD,18-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,14,Volkswagen,Passat,sleeping
+MALE,JD,13-01-2015,Single Vehicle Collision,Total Loss,Springfield,22,Jeep,Wrangler,video-games
+FEMALE,Associate,31-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,17,Saab,93,kayaking
+FEMALE,MD,15-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,14,Volkswagen,Passat,chess
+FEMALE,Masters,13-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,2,Ford,F150,polo
+MALE,MD,13-02-2015,Parked Car,Trivial Damage,Riverwood,4,Jeep,Grand Cherokee,camping
+MALE,High School,03-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,2,Saab,92x,yachting
+MALE,Associate,13-01-2015,Parked Car,Minor Damage,Riverwood,10,Nissan,Ultima,reading
+FEMALE,MD,14-02-2015,Single Vehicle Collision,Major Damage,Northbrook,11,Mercedes,E400,hiking
+MALE,Masters,20-01-2015,Multi-vehicle Collision,Major Damage,Springfield,1,Dodge,Neon,camping
+MALE,Associate,18-01-2015,Parked Car,Trivial Damage,Northbend,20,Toyota,Camry,base-jumping
+FEMALE,JD,03-01-2015,Single Vehicle Collision,Major Damage,Riverwood,10,BMW,X6,hiking
+FEMALE,High School,01-03-2015,Multi-vehicle Collision,Total Loss,Northbrook,20,Ford,F150,chess
+FEMALE,MD,01-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,10,Chevrolet,Malibu,kayaking
+FEMALE,Associate,29-01-2015,Multi-vehicle Collision,Total Loss,Springfield,2,Accura,MDX,video-games
+MALE,Masters,10-01-2015,Single Vehicle Collision,Minor Damage,Springfield,19,Accura,MDX,golf
+FEMALE,MD,29-01-2015,Single Vehicle Collision,Major Damage,Columbus,10,Mercedes,E400,dancing
+FEMALE,Masters,20-02-2015,Single Vehicle Collision,Major Damage,Arlington,14,Toyota,Camry,bungie-jumping
+FEMALE,High School,21-01-2015,Parked Car,Trivial Damage,Columbus,5,Chevrolet,Tahoe,chess
+MALE,High School,18-01-2015,Vehicle Theft,Minor Damage,Hillsdale,8,Saab,95,polo
+MALE,Masters,09-01-2015,Vehicle Theft,Trivial Damage,Northbend,4,Suburu,Impreza,dancing
+FEMALE,PhD,13-01-2015,Multi-vehicle Collision,Major Damage,Columbus,4,Audi,A3,chess
+MALE,Associate,13-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,20,Nissan,Ultima,video-games
+FEMALE,Masters,08-01-2015,Single Vehicle Collision,Total Loss,Riverwood,18,Dodge,RAM,movies
+FEMALE,JD,17-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,0,Suburu,Legacy,base-jumping
+FEMALE,High School,15-01-2015,Single Vehicle Collision,Major Damage,Springfield,1,Saab,92x,golf
+FEMALE,Masters,24-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,17,Audi,A3,paintball
+MALE,College,28-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,23,Volkswagen,Jetta,bungie-jumping
+FEMALE,MD,16-02-2015,Multi-vehicle Collision,Total Loss,Arlington,4,Honda,CRV,golf
+MALE,High School,09-02-2015,Multi-vehicle Collision,Total Loss,Springfield,0,Dodge,Neon,yachting
+MALE,College,24-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,11,Suburu,Forrestor,bungie-jumping
+MALE,Associate,11-02-2015,Parked Car,Trivial Damage,Arlington,4,Honda,CRV,base-jumping
+MALE,MD,27-01-2015,Multi-vehicle Collision,Total Loss,Columbus,0,Dodge,RAM,chess
+FEMALE,High School,19-01-2015,Multi-vehicle Collision,Major Damage,Springfield,2,Ford,Escape,cross-fit
+FEMALE,College,20-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,11,Jeep,Wrangler,board-games
+MALE,College,10-01-2015,Multi-vehicle Collision,Major Damage,Northbend,23,Audi,A5,yachting
+FEMALE,High School,21-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,17,Jeep,Wrangler,movies
+FEMALE,High School,01-02-2015,Single Vehicle Collision,Minor Damage,Columbus,22,Audi,A5,golf
+MALE,Associate,25-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,18,Ford,F150,kayaking
+MALE,Associate,24-02-2015,Vehicle Theft,Trivial Damage,Arlington,8,Ford,F150,yachting
+MALE,High School,21-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,15,Jeep,Grand Cherokee,cross-fit
+FEMALE,Associate,08-01-2015,Single Vehicle Collision,Minor Damage,Springfield,20,Nissan,Maxima,camping
+MALE,JD,10-01-2015,Single Vehicle Collision,Minor Damage,Columbus,4,Suburu,Legacy,video-games
+MALE,College,14-02-2015,Multi-vehicle Collision,Total Loss,Northbrook,10,Jeep,Wrangler,sleeping
+MALE,College,26-02-2015,Single Vehicle Collision,Major Damage,Springfield,10,Dodge,Neon,skydiving
+FEMALE,PhD,30-01-2015,Multi-vehicle Collision,Total Loss,Northbend,22,Honda,CRV,skydiving
+FEMALE,High School,07-01-2015,Multi-vehicle Collision,Total Loss,Northbend,15,Saab,95,reading
+FEMALE,Masters,27-02-2015,Single Vehicle Collision,Minor Damage,Arlington,13,Accura,TL,paintball
+MALE,Associate,13-02-2015,Single Vehicle Collision,Total Loss,Arlington,23,Mercedes,E400,chess
+FEMALE,Masters,02-02-2015,Multi-vehicle Collision,Major Damage,Northbend,18,BMW,X6,paintball
+MALE,JD,27-02-2015,Single Vehicle Collision,Total Loss,Arlington,7,Audi,A5,hiking
+MALE,Masters,02-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,21,Toyota,Camry,sleeping
+MALE,JD,17-01-2015,Multi-vehicle Collision,Major Damage,Columbus,15,Nissan,Maxima,bungie-jumping
+FEMALE,MD,12-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,17,Jeep,Wrangler,camping
+MALE,Masters,20-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,2,Ford,F150,exercise
+FEMALE,Masters,05-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,1,Dodge,RAM,dancing
+FEMALE,College,20-01-2015,Single Vehicle Collision,Major Damage,Northbend,3,Dodge,Neon,golf
+MALE,College,24-02-2015,Vehicle Theft,Trivial Damage,Northbend,0,Toyota,Corolla,polo
+MALE,High School,21-02-2015,Vehicle Theft,Trivial Damage,Hillsdale,4,Jeep,Wrangler,exercise
+MALE,MD,11-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,11,Saab,93,sleeping
+MALE,JD,24-01-2015,Parked Car,Trivial Damage,Arlington,4,Saab,93,paintball
+FEMALE,High School,06-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,11,Ford,Escape,reading
+FEMALE,Masters,15-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,4,Dodge,Neon,camping
+MALE,MD,22-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,20,Accura,TL,hiking
+MALE,Associate,21-01-2015,Parked Car,Trivial Damage,Springfield,22,Honda,CRV,polo
+MALE,JD,03-02-2015,Parked Car,Trivial Damage,Northbend,4,Volkswagen,Passat,skydiving
+MALE,High School,16-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,21,Saab,92x,chess
+MALE,College,07-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,20,Accura,MDX,reading
+MALE,Masters,14-01-2015,Single Vehicle Collision,Major Damage,Columbus,7,Chevrolet,Silverado,polo
+FEMALE,High School,02-02-2015,Parked Car,Trivial Damage,Riverwood,4,Saab,92x,golf
+MALE,JD,06-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,17,Saab,95,video-games
+MALE,High School,15-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,20,Audi,A5,bungie-jumping
+MALE,PhD,24-02-2015,Single Vehicle Collision,Major Damage,Riverwood,10,Saab,92x,sleeping
+FEMALE,PhD,07-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,8,BMW,X6,skydiving
+FEMALE,High School,04-02-2015,Single Vehicle Collision,Major Damage,Columbus,6,BMW,X6,movies
+MALE,JD,04-02-2015,Parked Car,Minor Damage,Northbrook,4,Jeep,Grand Cherokee,paintball
+MALE,PhD,25-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,17,Ford,Escape,kayaking
+FEMALE,High School,25-02-2015,Multi-vehicle Collision,Total Loss,Springfield,15,Audi,A3,reading
+FEMALE,Masters,27-02-2015,Vehicle Theft,Trivial Damage,Riverwood,9,Honda,Accord,movies
+MALE,College,11-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,17,Volkswagen,Jetta,kayaking
+FEMALE,Associate,04-01-2015,Single Vehicle Collision,Major Damage,Arlington,13,Nissan,Maxima,sleeping
+FEMALE,Associate,26-01-2015,Vehicle Theft,Trivial Damage,Springfield,5,Mercedes,E400,reading
+FEMALE,Masters,01-03-2015,Multi-vehicle Collision,Total Loss,Arlington,23,Saab,95,video-games
+FEMALE,MD,06-02-2015,Multi-vehicle Collision,Major Damage,Arlington,1,BMW,M5,paintball
+FEMALE,Associate,09-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,17,Mercedes,E400,base-jumping
+MALE,High School,05-02-2015,Parked Car,Minor Damage,Springfield,3,Volkswagen,Passat,camping
+MALE,High School,03-01-2015,Multi-vehicle Collision,Total Loss,Columbus,17,Mercedes,ML350,cross-fit
+FEMALE,Masters,24-02-2015,Multi-vehicle Collision,Major Damage,Northbend,23,Chevrolet,Malibu,exercise
+FEMALE,JD,14-01-2015,Single Vehicle Collision,Minor Damage,Columbus,13,Accura,MDX,cross-fit
+FEMALE,Masters,08-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,17,Nissan,Ultima,movies
+FEMALE,High School,14-02-2015,Single Vehicle Collision,Minor Damage,Arlington,2,Ford,Escape,chess
+FEMALE,MD,23-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,23,Dodge,RAM,video-games
+MALE,College,05-01-2015,Single Vehicle Collision,Minor Damage,Columbus,17,Volkswagen,Jetta,chess
+MALE,Associate,19-02-2015,Single Vehicle Collision,Major Damage,Springfield,3,Ford,F150,exercise
+MALE,JD,07-02-2015,Parked Car,Minor Damage,Riverwood,16,Jeep,Wrangler,base-jumping
+FEMALE,MD,07-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,13,Saab,92x,chess
+MALE,High School,20-01-2015,Single Vehicle Collision,Major Damage,Riverwood,8,Chevrolet,Tahoe,reading
+FEMALE,Masters,18-02-2015,Single Vehicle Collision,Major Damage,Columbus,23,Mercedes,E400,paintball
+MALE,College,11-01-2015,Multi-vehicle Collision,Major Damage,Springfield,15,Chevrolet,Silverado,hiking
+MALE,MD,22-01-2015,Single Vehicle Collision,Total Loss,Columbus,3,Dodge,Neon,basketball
+MALE,Masters,23-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,4,Accura,TL,golf
+FEMALE,Masters,15-01-2015,Single Vehicle Collision,Minor Damage,Northbend,8,Audi,A3,exercise
+MALE,Associate,20-02-2015,Vehicle Theft,Trivial Damage,Northbend,21,Volkswagen,Jetta,golf
+MALE,Associate,19-01-2015,Single Vehicle Collision,Total Loss,Northbrook,23,Dodge,RAM,dancing
+MALE,Masters,10-01-2015,Parked Car,Trivial Damage,Riverwood,8,Dodge,RAM,kayaking
+FEMALE,Associate,16-01-2015,Single Vehicle Collision,Major Damage,Riverwood,21,Suburu,Forrestor,polo
+MALE,Associate,12-02-2015,Parked Car,Minor Damage,Columbus,5,Accura,MDX,base-jumping
+MALE,PhD,23-01-2015,Multi-vehicle Collision,Total Loss,Columbus,12,Chevrolet,Tahoe,kayaking
+FEMALE,College,13-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,7,Dodge,Neon,movies
+MALE,PhD,27-01-2015,Parked Car,Minor Damage,Northbend,0,Chevrolet,Tahoe,sleeping
+MALE,JD,14-02-2015,Single Vehicle Collision,Major Damage,Northbend,14,Suburu,Legacy,polo
+FEMALE,College,01-02-2015,Single Vehicle Collision,Major Damage,Northbrook,13,Chevrolet,Silverado,cross-fit
+FEMALE,College,23-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,1,Suburu,Legacy,camping
+FEMALE,MD,20-01-2015,Single Vehicle Collision,Major Damage,Riverwood,23,Suburu,Forrestor,camping
+FEMALE,High School,08-01-2015,Single Vehicle Collision,Major Damage,Northbrook,1,Toyota,Highlander,polo
+FEMALE,Associate,23-02-2015,Single Vehicle Collision,Total Loss,Riverwood,9,Saab,92x,bungie-jumping
+FEMALE,PhD,04-02-2015,Single Vehicle Collision,Total Loss,Columbus,3,Dodge,RAM,skydiving
+MALE,JD,09-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,0,Accura,RSX,basketball
+FEMALE,MD,18-02-2015,Multi-vehicle Collision,Total Loss,Northbend,13,Jeep,Wrangler,exercise
+MALE,JD,10-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,18,Volkswagen,Jetta,dancing
+FEMALE,High School,20-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,17,Nissan,Pathfinder,exercise
+FEMALE,College,27-01-2015,Single Vehicle Collision,Minor Damage,Springfield,11,Honda,Civic,kayaking
+MALE,Associate,21-01-2015,Vehicle Theft,Minor Damage,Riverwood,0,Chevrolet,Malibu,camping
+FEMALE,MD,18-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,14,Suburu,Legacy,reading
+MALE,College,26-02-2015,Single Vehicle Collision,Minor Damage,Columbus,4,BMW,X5,golf
+MALE,PhD,29-01-2015,Multi-vehicle Collision,Major Damage,Springfield,2,Volkswagen,Passat,board-games
+MALE,PhD,08-02-2015,Multi-vehicle Collision,Major Damage,Arlington,9,Toyota,Highlander,hiking
+MALE,MD,19-01-2015,Multi-vehicle Collision,Major Damage,Arlington,21,Dodge,RAM,yachting
+MALE,Masters,08-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,0,Mercedes,C300,reading
+FEMALE,PhD,07-01-2015,Multi-vehicle Collision,Total Loss,Springfield,17,Audi,A3,bungie-jumping
+FEMALE,MD,13-02-2015,Multi-vehicle Collision,Total Loss,Northbend,21,Dodge,RAM,skydiving
+FEMALE,College,15-02-2015,Multi-vehicle Collision,Major Damage,Northbrook,20,Jeep,Wrangler,cross-fit
+FEMALE,MD,14-02-2015,Single Vehicle Collision,Total Loss,Northbrook,5,Ford,F150,kayaking
+FEMALE,Associate,31-01-2015,Vehicle Theft,Minor Damage,Northbrook,7,Mercedes,E400,movies
+FEMALE,PhD,28-01-2015,Single Vehicle Collision,Minor Damage,Columbus,6,Accura,TL,movies
+MALE,PhD,01-03-2015,Multi-vehicle Collision,Minor Damage,Northbend,2,Chevrolet,Tahoe,golf
+MALE,JD,10-01-2015,Multi-vehicle Collision,Total Loss,Columbus,19,Mercedes,E400,movies
+FEMALE,MD,25-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,21,Nissan,Maxima,hiking
+MALE,High School,30-01-2015,Multi-vehicle Collision,Major Damage,Springfield,3,Dodge,Neon,cross-fit
+MALE,Masters,06-02-2015,Single Vehicle Collision,Total Loss,Columbus,22,Jeep,Wrangler,yachting
+MALE,College,08-02-2015,Single Vehicle Collision,Total Loss,Springfield,22,Accura,MDX,basketball
+MALE,High School,13-01-2015,Single Vehicle Collision,Minor Damage,Arlington,16,Saab,93,bungie-jumping
+FEMALE,Associate,18-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,0,Nissan,Maxima,hiking
+FEMALE,Masters,01-03-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,1,Nissan,Maxima,kayaking
+MALE,College,02-02-2015,Multi-vehicle Collision,Major Damage,Arlington,19,Jeep,Wrangler,paintball
+MALE,PhD,20-01-2015,Multi-vehicle Collision,Major Damage,Columbus,0,Jeep,Wrangler,basketball
+FEMALE,College,24-01-2015,Multi-vehicle Collision,Major Damage,Arlington,2,Volkswagen,Passat,paintball
+FEMALE,High School,04-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,5,Mercedes,C300,basketball
+FEMALE,JD,17-01-2015,Single Vehicle Collision,Total Loss,Columbus,6,Suburu,Forrestor,hiking
+FEMALE,JD,04-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,21,Suburu,Impreza,sleeping
+FEMALE,MD,14-02-2015,Multi-vehicle Collision,Major Damage,Columbus,11,Jeep,Wrangler,movies
+FEMALE,High School,07-01-2015,Single Vehicle Collision,Minor Damage,Springfield,3,Suburu,Forrestor,reading
+MALE,JD,02-02-2015,Multi-vehicle Collision,Total Loss,Northbrook,4,Audi,A5,movies
+FEMALE,JD,12-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,2,Volkswagen,Jetta,video-games
+MALE,PhD,01-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,22,Chevrolet,Silverado,polo
+FEMALE,MD,22-02-2015,Single Vehicle Collision,Total Loss,Northbend,8,Toyota,Highlander,hiking
+FEMALE,College,16-01-2015,Multi-vehicle Collision,Total Loss,Northbrook,14,Saab,93,paintball
+MALE,High School,28-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,14,Toyota,Camry,yachting
+FEMALE,MD,23-01-2015,Parked Car,Trivial Damage,Northbrook,5,Audi,A3,kayaking
+FEMALE,High School,25-02-2015,Single Vehicle Collision,Minor Damage,Columbus,18,Volkswagen,Passat,bungie-jumping
+FEMALE,JD,11-02-2015,Multi-vehicle Collision,Total Loss,Springfield,20,Dodge,Neon,skydiving
+MALE,PhD,03-01-2015,Multi-vehicle Collision,Total Loss,Springfield,0,Volkswagen,Jetta,exercise
+FEMALE,High School,30-01-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,1,Nissan,Ultima,skydiving
+FEMALE,Masters,18-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,10,Suburu,Legacy,dancing
+FEMALE,MD,04-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,12,Dodge,RAM,video-games
+FEMALE,Associate,20-01-2015,Vehicle Theft,Minor Damage,Springfield,6,Chevrolet,Malibu,board-games
+MALE,PhD,12-02-2015,Parked Car,Trivial Damage,Hillsdale,1,Nissan,Ultima,bungie-jumping
+FEMALE,MD,19-02-2015,Multi-vehicle Collision,Total Loss,Columbus,21,BMW,X5,chess
+MALE,Associate,21-02-2015,Multi-vehicle Collision,Major Damage,Columbus,3,Ford,Fusion,cross-fit
+MALE,College,02-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,14,Toyota,Camry,dancing
+MALE,College,01-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,19,Dodge,Neon,board-games
+FEMALE,College,08-01-2015,Single Vehicle Collision,Major Damage,Springfield,7,Honda,Civic,hiking
+FEMALE,JD,16-01-2015,Single Vehicle Collision,Minor Damage,Arlington,0,Volkswagen,Passat,reading
+MALE,Masters,20-02-2015,Parked Car,Trivial Damage,Northbrook,6,Nissan,Pathfinder,paintball
+FEMALE,Associate,30-01-2015,Single Vehicle Collision,Total Loss,Northbend,0,BMW,X6,cross-fit
+MALE,High School,19-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,9,Suburu,Legacy,exercise
+FEMALE,Masters,25-02-2015,Single Vehicle Collision,Total Loss,Columbus,23,Toyota,Camry,kayaking
+MALE,College,24-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,13,Saab,95,hiking
+MALE,MD,16-01-2015,Multi-vehicle Collision,Total Loss,Columbus,0,Jeep,Grand Cherokee,movies
+MALE,Masters,12-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,7,Mercedes,E400,reading
+FEMALE,PhD,04-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,23,Toyota,Corolla,paintball
+FEMALE,High School,02-02-2015,Single Vehicle Collision,Major Damage,Northbrook,7,Toyota,Camry,yachting
+FEMALE,MD,01-02-2015,Parked Car,Trivial Damage,Hillsdale,20,Audi,A3,dancing
+MALE,College,14-02-2015,Single Vehicle Collision,Minor Damage,Arlington,22,Accura,MDX,video-games
+FEMALE,JD,08-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,10,Chevrolet,Tahoe,kayaking
+FEMALE,College,22-01-2015,Single Vehicle Collision,Total Loss,Arlington,10,Chevrolet,Malibu,basketball
+FEMALE,Masters,14-01-2015,Single Vehicle Collision,Minor Damage,Arlington,17,Volkswagen,Jetta,chess
+MALE,MD,03-02-2015,Parked Car,Trivial Damage,Arlington,3,Toyota,Camry,base-jumping
+MALE,Masters,20-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,10,Saab,95,kayaking
+MALE,College,01-01-2015,Single Vehicle Collision,Major Damage,Arlington,1,Nissan,Pathfinder,dancing
+FEMALE,JD,02-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,1,Audi,A3,dancing
+FEMALE,JD,23-01-2015,Single Vehicle Collision,Total Loss,Northbend,7,Audi,A3,base-jumping
+MALE,Associate,26-01-2015,Single Vehicle Collision,Major Damage,Northbend,19,Saab,93,bungie-jumping
+FEMALE,PhD,02-01-2015,Multi-vehicle Collision,Total Loss,Northbend,3,Ford,Fusion,kayaking
+FEMALE,Masters,25-02-2015,Vehicle Theft,Minor Damage,Arlington,3,Chevrolet,Malibu,dancing
+FEMALE,Masters,15-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,23,Accura,MDX,cross-fit
+FEMALE,MD,09-02-2015,Vehicle Theft,Minor Damage,Springfield,7,Accura,MDX,video-games
+FEMALE,Masters,16-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,0,Nissan,Maxima,dancing
+FEMALE,PhD,01-02-2015,Single Vehicle Collision,Total Loss,Arlington,10,Volkswagen,Passat,camping
+FEMALE,College,10-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,4,Nissan,Pathfinder,bungie-jumping
+MALE,High School,03-01-2015,Single Vehicle Collision,Major Damage,Columbus,16,Ford,Fusion,paintball
+MALE,College,01-01-2015,Vehicle Theft,Trivial Damage,Northbend,3,Chevrolet,Malibu,paintball
+MALE,High School,23-02-2015,Single Vehicle Collision,Minor Damage,Columbus,5,Dodge,RAM,camping
+MALE,High School,28-01-2015,Vehicle Theft,Trivial Damage,Hillsdale,14,Audi,A5,basketball
+FEMALE,PhD,22-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,7,Nissan,Pathfinder,polo
+MALE,JD,03-01-2015,Single Vehicle Collision,Minor Damage,Northbend,16,Honda,Civic,camping
+FEMALE,PhD,10-01-2015,Single Vehicle Collision,Major Damage,Northbrook,6,Volkswagen,Jetta,basketball
+FEMALE,MD,25-01-2015,Single Vehicle Collision,Total Loss,Riverwood,10,Ford,F150,kayaking
+FEMALE,JD,10-01-2015,Single Vehicle Collision,Total Loss,Riverwood,19,Volkswagen,Passat,skydiving
+FEMALE,PhD,28-01-2015,Single Vehicle Collision,Minor Damage,Arlington,10,Suburu,Impreza,movies
+FEMALE,MD,18-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,6,Suburu,Forrestor,paintball
+FEMALE,Associate,24-01-2015,Multi-vehicle Collision,Major Damage,Riverwood,12,Audi,A5,golf
+MALE,Masters,20-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,10,Jeep,Wrangler,chess
+FEMALE,MD,10-01-2015,Single Vehicle Collision,Total Loss,Northbrook,0,Dodge,Neon,hiking
+MALE,JD,07-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,12,Audi,A5,movies
+FEMALE,JD,16-01-2015,Vehicle Theft,Minor Damage,Arlington,10,Nissan,Pathfinder,paintball
+FEMALE,JD,01-01-2015,Multi-vehicle Collision,Total Loss,Northbend,3,Ford,F150,skydiving
+MALE,PhD,07-01-2015,Vehicle Theft,Minor Damage,Riverwood,21,Suburu,Legacy,reading
+MALE,JD,17-02-2015,Vehicle Theft,Minor Damage,Northbrook,6,Mercedes,ML350,basketball
+FEMALE,JD,26-02-2015,Single Vehicle Collision,Total Loss,Northbend,0,Nissan,Pathfinder,kayaking
+FEMALE,PhD,31-01-2015,Vehicle Theft,Trivial Damage,Arlington,6,Audi,A5,golf
+FEMALE,PhD,27-02-2015,Multi-vehicle Collision,Major Damage,Arlington,20,BMW,M5,movies
+MALE,Associate,01-03-2015,Single Vehicle Collision,Major Damage,Northbrook,4,Dodge,Neon,reading
+FEMALE,High School,13-02-2015,Parked Car,Trivial Damage,Arlington,9,Chevrolet,Malibu,golf
+MALE,JD,08-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,20,Saab,95,reading
+FEMALE,JD,05-02-2015,Vehicle Theft,Minor Damage,Springfield,7,BMW,X5,reading
+MALE,Masters,20-02-2015,Multi-vehicle Collision,Major Damage,Springfield,18,Toyota,Corolla,camping
+FEMALE,Associate,24-01-2015,Multi-vehicle Collision,Minor Damage,Northbrook,0,Jeep,Wrangler,video-games
+FEMALE,Masters,31-01-2015,Multi-vehicle Collision,Major Damage,Columbus,11,Ford,Fusion,chess
+MALE,Associate,23-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,13,Toyota,Corolla,golf
+FEMALE,Associate,11-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,19,Jeep,Wrangler,base-jumping
+MALE,MD,20-02-2015,Single Vehicle Collision,Major Damage,Springfield,23,Volkswagen,Jetta,board-games
+MALE,Associate,24-02-2015,Parked Car,Trivial Damage,Northbend,23,Saab,93,bungie-jumping
+MALE,Associate,19-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,19,Accura,RSX,golf
+MALE,MD,08-01-2015,Single Vehicle Collision,Major Damage,Northbend,19,Audi,A5,video-games
+FEMALE,MD,01-03-2015,Multi-vehicle Collision,Total Loss,Northbend,17,Mercedes,ML350,polo
+MALE,Associate,21-01-2015,Single Vehicle Collision,Minor Damage,Hillsdale,18,Nissan,Pathfinder,chess
+FEMALE,College,28-02-2015,Multi-vehicle Collision,Total Loss,Northbrook,17,Saab,95,golf
+MALE,High School,26-01-2015,Multi-vehicle Collision,Total Loss,Springfield,11,Audi,A3,kayaking
+MALE,Associate,31-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,22,Suburu,Impreza,reading
+MALE,MD,20-02-2015,Single Vehicle Collision,Minor Damage,Columbus,7,Toyota,Camry,reading
+FEMALE,College,17-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,17,Nissan,Pathfinder,dancing
+MALE,PhD,02-02-2015,Multi-vehicle Collision,Total Loss,Columbus,16,Suburu,Legacy,bungie-jumping
+FEMALE,MD,06-02-2015,Multi-vehicle Collision,Minor Damage,Northbend,13,Accura,MDX,golf
+FEMALE,Masters,11-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,17,Nissan,Pathfinder,golf
+FEMALE,College,25-01-2015,Single Vehicle Collision,Minor Damage,Springfield,3,Suburu,Impreza,bungie-jumping
+FEMALE,Associate,23-02-2015,Multi-vehicle Collision,Minor Damage,Arlington,15,Jeep,Wrangler,video-games
+FEMALE,Associate,29-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,16,Toyota,Camry,base-jumping
+FEMALE,Associate,02-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,18,Dodge,RAM,polo
+FEMALE,JD,06-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,18,Accura,TL,exercise
+FEMALE,JD,14-02-2015,Multi-vehicle Collision,Total Loss,Riverwood,22,Dodge,RAM,skydiving
+FEMALE,College,04-02-2015,Multi-vehicle Collision,Minor Damage,Springfield,15,Suburu,Forrestor,chess
+MALE,JD,12-02-2015,Multi-vehicle Collision,Major Damage,Arlington,16,Ford,F150,skydiving
+FEMALE,JD,12-02-2015,Single Vehicle Collision,Total Loss,Riverwood,18,Honda,CRV,skydiving
+FEMALE,JD,28-01-2015,Parked Car,Minor Damage,Northbend,8,Jeep,Wrangler,bungie-jumping
+FEMALE,Associate,10-01-2015,Multi-vehicle Collision,Major Damage,Hillsdale,23,Ford,F150,chess
+FEMALE,PhD,19-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,18,Chevrolet,Malibu,kayaking
+FEMALE,JD,19-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,10,Mercedes,ML350,reading
+MALE,MD,28-01-2015,Single Vehicle Collision,Major Damage,Arlington,12,Jeep,Wrangler,base-jumping
+FEMALE,Masters,16-02-2015,Vehicle Theft,Trivial Damage,Springfield,5,Saab,93,reading
+MALE,MD,08-01-2015,Multi-vehicle Collision,Total Loss,Northbend,21,Saab,93,exercise
+FEMALE,PhD,24-01-2015,Multi-vehicle Collision,Major Damage,Columbus,17,Chevrolet,Silverado,sleeping
+MALE,MD,18-02-2015,Single Vehicle Collision,Total Loss,Arlington,4,Mercedes,E400,polo
+MALE,MD,21-01-2015,Single Vehicle Collision,Major Damage,Northbrook,11,Dodge,RAM,video-games
+MALE,MD,08-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,18,BMW,X5,skydiving
+FEMALE,High School,02-02-2015,Single Vehicle Collision,Total Loss,Northbrook,12,BMW,3 Series,dancing
+FEMALE,Associate,01-03-2015,Multi-vehicle Collision,Major Damage,Riverwood,18,Audi,A5,bungie-jumping
+MALE,JD,04-02-2015,Single Vehicle Collision,Minor Damage,Hillsdale,16,BMW,M5,paintball
+MALE,JD,27-02-2015,Multi-vehicle Collision,Total Loss,Columbus,19,BMW,3 Series,paintball
+FEMALE,High School,09-02-2015,Single Vehicle Collision,Total Loss,Riverwood,13,Audi,A3,exercise
+MALE,College,19-02-2015,Parked Car,Minor Damage,Arlington,4,Honda,Civic,exercise
+FEMALE,MD,12-01-2015,Single Vehicle Collision,Major Damage,Northbrook,8,Accura,TL,chess
+FEMALE,Masters,07-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,19,Volkswagen,Jetta,sleeping
+FEMALE,JD,13-01-2015,Single Vehicle Collision,Total Loss,Northbend,18,Suburu,Legacy,sleeping
+FEMALE,MD,18-01-2015,Multi-vehicle Collision,Total Loss,Arlington,9,Saab,95,camping
+MALE,Masters,15-01-2015,Vehicle Theft,Trivial Damage,Columbus,6,Jeep,Wrangler,yachting
+MALE,High School,23-02-2015,Vehicle Theft,Minor Damage,Arlington,8,Dodge,Neon,sleeping
+MALE,MD,17-02-2015,Parked Car,Minor Damage,Springfield,6,Suburu,Impreza,movies
+MALE,High School,17-02-2015,Multi-vehicle Collision,Major Damage,Northbend,23,Saab,92x,board-games
+MALE,Associate,18-01-2015,Parked Car,Trivial Damage,Riverwood,13,Saab,92x,board-games
+FEMALE,JD,17-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,3,Jeep,Wrangler,sleeping
+FEMALE,PhD,25-02-2015,Single Vehicle Collision,Major Damage,Northbrook,23,Chevrolet,Malibu,basketball
+FEMALE,Associate,06-01-2015,Vehicle Theft,Minor Damage,Arlington,8,Saab,92x,paintball
+MALE,Associate,26-02-2015,Single Vehicle Collision,Total Loss,Columbus,23,Mercedes,C300,video-games
+FEMALE,High School,11-02-2015,Single Vehicle Collision,Total Loss,Northbrook,23,Nissan,Pathfinder,sleeping
+MALE,JD,13-02-2015,Multi-vehicle Collision,Minor Damage,Riverwood,9,Honda,Accord,skydiving
+MALE,PhD,10-01-2015,Single Vehicle Collision,Minor Damage,Riverwood,22,Volkswagen,Jetta,basketball
+FEMALE,High School,24-01-2015,Multi-vehicle Collision,Total Loss,Riverwood,22,Saab,95,movies
+MALE,Associate,15-02-2015,Multi-vehicle Collision,Major Damage,Northbend,15,Chevrolet,Silverado,paintball
+MALE,JD,09-01-2015,Multi-vehicle Collision,Major Damage,Columbus,16,BMW,X5,camping
+FEMALE,High School,31-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,17,Saab,92x,paintball
+MALE,MD,04-02-2015,Vehicle Theft,Minor Damage,Northbrook,3,Honda,Civic,base-jumping
+FEMALE,Masters,30-01-2015,Multi-vehicle Collision,Total Loss,Northbend,10,Jeep,Wrangler,skydiving
+FEMALE,College,27-02-2015,Single Vehicle Collision,Minor Damage,Springfield,9,Nissan,Pathfinder,dancing
+MALE,JD,05-02-2015,Multi-vehicle Collision,Total Loss,Northbend,13,Jeep,Wrangler,kayaking
+MALE,Masters,30-01-2015,Multi-vehicle Collision,Major Damage,Northbend,15,Accura,RSX,kayaking
+MALE,MD,03-01-2015,Single Vehicle Collision,Minor Damage,Springfield,23,Honda,CRV,movies
+FEMALE,JD,01-03-2015,Multi-vehicle Collision,Major Damage,Riverwood,2,Honda,Accord,cross-fit
+FEMALE,High School,13-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,14,Mercedes,C300,chess
+MALE,High School,25-02-2015,Vehicle Theft,Trivial Damage,Hillsdale,7,Honda,Civic,golf
+MALE,PhD,23-01-2015,Single Vehicle Collision,Major Damage,Columbus,23,Mercedes,C300,chess
+MALE,College,19-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,7,Toyota,Corolla,exercise
+MALE,High School,08-02-2015,Multi-vehicle Collision,Minor Damage,Hillsdale,8,Dodge,RAM,chess
+MALE,JD,04-02-2015,Single Vehicle Collision,Total Loss,Northbrook,17,Accura,MDX,base-jumping
+FEMALE,College,22-02-2015,Multi-vehicle Collision,Minor Damage,Northbrook,10,BMW,M5,camping
+MALE,MD,14-01-2015,Vehicle Theft,Minor Damage,Columbus,9,Nissan,Ultima,polo
+FEMALE,PhD,06-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,2,Accura,RSX,hiking
+FEMALE,MD,19-01-2015,Multi-vehicle Collision,Minor Damage,Riverwood,18,Honda,Accord,skydiving
+FEMALE,Associate,24-01-2015,Vehicle Theft,Minor Damage,Arlington,4,Jeep,Wrangler,video-games
+FEMALE,Masters,27-01-2015,Single Vehicle Collision,Total Loss,Columbus,12,BMW,X6,video-games
+MALE,Masters,13-01-2015,Single Vehicle Collision,Major Damage,Northbrook,15,Dodge,RAM,bungie-jumping
+MALE,Associate,15-01-2015,Vehicle Theft,Trivial Damage,Springfield,9,Audi,A5,polo
+FEMALE,JD,04-02-2015,Single Vehicle Collision,Major Damage,Arlington,6,Toyota,Camry,yachting
+FEMALE,JD,04-01-2015,Multi-vehicle Collision,Major Damage,Springfield,11,Saab,93,sleeping
+FEMALE,College,14-01-2015,Multi-vehicle Collision,Total Loss,Columbus,13,Nissan,Ultima,sleeping
+MALE,JD,27-01-2015,Multi-vehicle Collision,Minor Damage,Springfield,4,Honda,Civic,polo
+FEMALE,Masters,12-02-2015,Multi-vehicle Collision,Minor Damage,Columbus,20,Dodge,Neon,reading
+FEMALE,College,03-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,0,Toyota,Highlander,camping
+FEMALE,JD,26-01-2015,Multi-vehicle Collision,Total Loss,Hillsdale,18,Toyota,Highlander,cross-fit
+MALE,High School,09-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,6,Honda,CRV,polo
+FEMALE,High School,17-02-2015,Single Vehicle Collision,Total Loss,Hillsdale,23,Jeep,Grand Cherokee,hiking
+FEMALE,PhD,16-01-2015,Single Vehicle Collision,Major Damage,Northbrook,4,Toyota,Corolla,exercise
+FEMALE,MD,12-01-2015,Multi-vehicle Collision,Major Damage,Arlington,21,Dodge,RAM,bungie-jumping
+FEMALE,Associate,03-01-2015,Parked Car,Minor Damage,Springfield,7,Suburu,Impreza,movies
+FEMALE,PhD,22-01-2015,Multi-vehicle Collision,Major Damage,Columbus,19,Volkswagen,Passat,exercise
+FEMALE,PhD,13-01-2015,Parked Car,Minor Damage,Arlington,5,Volkswagen,Passat,base-jumping
+FEMALE,Associate,31-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,22,Audi,A3,bungie-jumping
+MALE,Associate,04-02-2015,Single Vehicle Collision,Total Loss,Northbrook,12,Jeep,Grand Cherokee,movies
+MALE,High School,20-01-2015,Multi-vehicle Collision,Total Loss,Springfield,19,Suburu,Forrestor,yachting
+FEMALE,JD,07-02-2015,Single Vehicle Collision,Major Damage,Hillsdale,10,Audi,A5,hiking
+FEMALE,Masters,05-02-2015,Single Vehicle Collision,Minor Damage,Columbus,7,Suburu,Legacy,board-games
+MALE,Masters,02-01-2015,Single Vehicle Collision,Total Loss,Hillsdale,17,Suburu,Forrestor,exercise
+FEMALE,PhD,08-02-2015,Multi-vehicle Collision,Total Loss,Arlington,0,Ford,Escape,bungie-jumping
+FEMALE,College,13-01-2015,Parked Car,Minor Damage,Arlington,9,Toyota,Camry,video-games
+FEMALE,Masters,16-01-2015,Single Vehicle Collision,Total Loss,Riverwood,21,Nissan,Maxima,reading
+FEMALE,JD,30-01-2015,Multi-vehicle Collision,Total Loss,Northbend,22,Audi,A3,sleeping
+MALE,High School,26-02-2015,Vehicle Theft,Minor Damage,Hillsdale,3,Volkswagen,Jetta,reading
+FEMALE,JD,27-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,16,Honda,CRV,yachting
+MALE,JD,28-01-2015,Single Vehicle Collision,Total Loss,Riverwood,14,Nissan,Maxima,movies
+MALE,Masters,23-02-2015,Multi-vehicle Collision,Total Loss,Springfield,21,Toyota,Camry,golf
+FEMALE,High School,18-01-2015,Single Vehicle Collision,Minor Damage,Columbus,19,Chevrolet,Silverado,skydiving
+MALE,Masters,15-02-2015,Multi-vehicle Collision,Major Damage,Hillsdale,13,Dodge,RAM,sleeping
+FEMALE,High School,04-02-2015,Vehicle Theft,Minor Damage,Hillsdale,21,Saab,92x,movies
+FEMALE,JD,12-01-2015,Multi-vehicle Collision,Minor Damage,Northbend,11,Toyota,Camry,board-games
+FEMALE,Associate,02-01-2015,Vehicle Theft,Trivial Damage,Columbus,16,Accura,MDX,bungie-jumping
+FEMALE,PhD,27-01-2015,Single Vehicle Collision,Total Loss,Arlington,9,Chevrolet,Silverado,board-games
+FEMALE,MD,09-02-2015,Vehicle Theft,Minor Damage,Riverwood,8,BMW,3 Series,skydiving
+FEMALE,High School,06-02-2015,Vehicle Theft,Minor Damage,Springfield,7,Volkswagen,Jetta,cross-fit
+MALE,Masters,03-01-2015,Single Vehicle Collision,Minor Damage,Arlington,12,BMW,3 Series,camping
+FEMALE,MD,12-01-2015,Multi-vehicle Collision,Minor Damage,Columbus,21,Jeep,Grand Cherokee,kayaking
+FEMALE,Associate,22-01-2015,Single Vehicle Collision,Major Damage,Arlington,4,Nissan,Ultima,base-jumping
+FEMALE,MD,03-01-2015,Multi-vehicle Collision,Major Damage,Northbend,18,Accura,MDX,paintball
+MALE,High School,23-02-2015,Vehicle Theft,Trivial Damage,Northbend,7,Accura,MDX,movies
+MALE,MD,22-01-2015,Single Vehicle Collision,Total Loss,Northbrook,13,Ford,Escape,movies
+FEMALE,Associate,13-02-2015,Single Vehicle Collision,Total Loss,Northbend,0,Mercedes,C300,paintball
+MALE,College,08-02-2015,Single Vehicle Collision,Major Damage,Northbend,22,Jeep,Grand Cherokee,exercise
+MALE,PhD,09-01-2015,Single Vehicle Collision,Major Damage,Columbus,15,Suburu,Impreza,reading
+FEMALE,JD,08-02-2015,Multi-vehicle Collision,Major Damage,Riverwood,3,Chevrolet,Tahoe,video-games
+FEMALE,JD,10-01-2015,Multi-vehicle Collision,Total Loss,Northbend,18,Ford,Escape,polo
+FEMALE,Associate,26-01-2015,Multi-vehicle Collision,Major Damage,Arlington,17,Accura,RSX,board-games
+MALE,Associate,21-02-2015,Multi-vehicle Collision,Major Damage,Springfield,18,Suburu,Impreza,board-games
+FEMALE,High School,23-01-2015,Single Vehicle Collision,Total Loss,Columbus,11,Dodge,Neon,golf
+FEMALE,Masters,05-02-2015,Single Vehicle Collision,Total Loss,Columbus,17,Saab,95,base-jumping
+MALE,PhD,15-02-2015,Single Vehicle Collision,Minor Damage,Northbend,12,Suburu,Forrestor,camping
+MALE,College,08-01-2015,Multi-vehicle Collision,Total Loss,Northbend,15,Dodge,Neon,bungie-jumping
+MALE,High School,01-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,0,BMW,M5,cross-fit
+FEMALE,JD,26-02-2015,Parked Car,Trivial Damage,Arlington,9,Suburu,Legacy,hiking
+MALE,MD,28-02-2015,Single Vehicle Collision,Total Loss,Springfield,1,Toyota,Corolla,cross-fit
+MALE,High School,13-01-2015,Single Vehicle Collision,Major Damage,Columbus,22,Jeep,Wrangler,base-jumping
+MALE,College,19-02-2015,Single Vehicle Collision,Minor Damage,Riverwood,11,Toyota,Highlander,kayaking
+MALE,JD,13-01-2015,Single Vehicle Collision,Major Damage,Hillsdale,10,Chevrolet,Tahoe,yachting
+FEMALE,High School,17-02-2015,Single Vehicle Collision,Minor Damage,Columbus,5,Honda,Civic,dancing
+FEMALE,High School,15-02-2015,Multi-vehicle Collision,Total Loss,Arlington,3,Chevrolet,Malibu,movies
+FEMALE,MD,31-01-2015,Single Vehicle Collision,Minor Damage,Northbrook,18,Jeep,Grand Cherokee,movies
+MALE,MD,06-02-2015,Single Vehicle Collision,Total Loss,Riverwood,21,Accura,TL,basketball
+MALE,MD,23-01-2015,Multi-vehicle Collision,Major Damage,Springfield,6,Nissan,Pathfinder,camping
+MALE,MD,17-02-2015,Multi-vehicle Collision,Total Loss,Hillsdale,20,Volkswagen,Passat,camping
+MALE,High School,22-01-2015,Parked Car,Minor Damage,Northbend,6,Honda,Civic,bungie-jumping
+FEMALE,Masters,22-02-2015,Single Vehicle Collision,Minor Damage,Northbrook,20,Honda,Accord,paintball
+FEMALE,PhD,24-01-2015,Single Vehicle Collision,Major Damage,Northbend,23,Volkswagen,Passat,sleeping
+FEMALE,Masters,23-01-2015,Multi-vehicle Collision,Minor Damage,Arlington,4,Suburu,Impreza,bungie-jumping
+MALE,Associate,26-02-2015,Single Vehicle Collision,Major Damage,Arlington,2,Audi,A5,base-jumping
+FEMALE,Associate,26-02-2015,Parked Car,Minor Damage,Columbus,6,Mercedes,E400,kayaking
